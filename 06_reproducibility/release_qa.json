@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check_id": "REQUIRED_FILES",
+      "status": "PASS",
+      "detail": "missing=[]"
+    },
+    {
+      "check_id": "MODEL_SHA256",
+      "status": "PASS",
+      "detail": "AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC"
+    },
+    {
+      "check_id": "MODEL_SCOPE",
+      "status": "PASS",
+      "detail": "forbidden configuration fields=[]"
+    },
+    {
+      "check_id": "FORMAL_FIVE_CONDITION_DESIGN",
+      "status": "PASS",
+      "detail": "rows=5250, ids=5, alphas=21, seeds=50, duplicates=0, cell_range=[50,50]"
+    },
+    {
+      "check_id": "SENSITIVITY_NEW_DESIGN",
+      "status": "PASS",
+      "detail": "rows=19950, ids=19, alphas=21, seeds=50, duplicates=0, cell_range=[50,50]"
+    },
+    {
+      "check_id": "SENSITIVITY_MANIFEST",
+      "status": "PASS",
+      "detail": "status=complete, completed_rows=19950"
+    },
+    {
+      "check_id": "SENSITIVITY_COMBINED_DESIGN",
+      "status": "PASS",
+      "detail": "rows=22050, ids=21, alphas=21, seeds=50, duplicates=0, cell_range=[50,50]"
+    },
+    {
+      "check_id": "SENSITIVITY_CRITICAL_ROWS",
+      "status": "PASS",
+      "detail": "rows=21, unique=21"
+    },
+    {
+      "check_id": "EXTERNAL_TABLE_ROWS",
+      "status": "PASS",
+      "detail": "news_sentiment_regression_cluster.csv=17; macro_spearman.csv=15; macro_regression_hc3.csv=60; macro_leave_one_out.csv=15; macro_country_panel.csv=90; facebook_public_affairs_decay_curve.csv=72; facebook_public_affairs_article_decay.csv=27244"
+    },
+    {
+      "check_id": "FIGURE_EXPORT_BUNDLE",
+      "status": "PASS",
+      "detail": "missing=[]"
+    },
+    {
+      "check_id": "FIGURE_RASTER_DPI",
+      "status": "PASS",
+      "detail": "issues=[]"
+    },
+    {
+      "check_id": "DOCUMENT_PLACEHOLDERS",
+      "status": "PASS",
+      "detail": "hits=[]"
+    }
+  ],
+  "pass_count": 12,
+  "fail_count": 0
+}

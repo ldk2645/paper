@@ -1,0 +1,59 @@
+{
+  "metric": "mean_agenda_divergence",
+  "bootstrap_method": "paired seed-block bootstrap over complete alpha curves",
+  "bootstrap_samples": 5000,
+  "minimum_metric_range": 0.015,
+  "conditions": {
+    "full": {
+      "critical_alpha": 0.6,
+      "metric_range": 0.4006476190476189,
+      "maximum_internal_gradient": 1.823296507936508,
+      "identification_rate": 1.0,
+      "bootstrap_ci_95": [
+        0.55,
+        0.6
+      ]
+    },
+    "no_emotion": {
+      "critical_alpha": 0.75,
+      "metric_range": 0.10276190476190471,
+      "maximum_internal_gradient": 0.33345460317460285,
+      "identification_rate": 1.0,
+      "bootstrap_ci_95": [
+        0.6,
+        0.8
+      ]
+    },
+    "no_drift": {
+      "critical_alpha": 0.6,
+      "metric_range": 0.37990476190476175,
+      "maximum_internal_gradient": 0.9127314285714283,
+      "identification_rate": 1.0,
+      "bootstrap_ci_95": [
+        0.55,
+        0.75
+      ]
+    },
+    "no_response": {
+      "critical_alpha": 0.6,
+      "metric_range": 0.4594857142857142,
+      "maximum_internal_gradient": 2.2278603174603173,
+      "identification_rate": 1.0,
+      "bootstrap_ci_95": [
+        0.6,
+        0.6
+      ]
+    },
+    "no_trust": {
+      "critical_alpha": 0.6,
+      "metric_range": 0.40684933333333323,
+      "maximum_internal_gradient": 1.7999098412698407,
+      "identification_rate": 1.0,
+      "bootstrap_ci_95": [
+        0.55,
+        0.6
+      ]
+    }
+  },
+  "primary_alpha": 0.6
+}
