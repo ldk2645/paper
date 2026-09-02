@@ -1,0 +1,47 @@
+{
+  "version": "3.0.0-response-dashboard-pilot",
+  "status": "model and exploratory pilot complete; formal experiment not run",
+  "parent_version": "2.0.0-uk-petition-case",
+  "parent_model_path": "../07_version2_uk_petition/01_model/model_v2.py",
+  "parent_model_sha256": "83BCD501B5A22C59832CC5441FFDF1054361E46C75E1BEE39F70E8E8CA0FC8DF",
+  "v1_ancestor_model_path": "../01_model_core/model.py",
+  "v1_ancestor_model_sha256": "AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC",
+  "case_id": "UK Parliament petition 700024",
+  "step_unit": "day",
+  "routine_government_posts_per_step": 1,
+  "response_heat_multipliers": [
+    1.0,
+    0.7
+  ],
+  "pilot": {
+    "status": "complete",
+    "evidence_status": "exploratory_pilot_not_formal_evidence",
+    "runs": 120,
+    "step_rows": 36000,
+    "event_rows": 36720,
+    "alpha_values": [
+      0.4,
+      0.6,
+      0.8
+    ],
+    "response_delay_days": [
+      11,
+      57
+    ],
+    "seed_start_inclusive": 73000,
+    "seed_end_inclusive": 73009,
+    "manifest_path": "05_outputs/pilot/v3_pilot_manifest.json",
+    "model_sha256": "B08BCEC960CCFD59858A38B527504CBF1C757407BCC0B64DC9136046E57EA9A0",
+    "run_signature": "B82D8128C414D007EB9F99A0E00A38077B296760A6A670781F475067944906C1"
+  },
+  "formal_experiment": {
+    "status": "not_run",
+    "planned_runs": 10500,
+    "delay_condition_count": 5,
+    "alpha_count": 21,
+    "seeds_per_cell": 50,
+    "response_heat_condition_count": 2
+  },
+  "internal_dashboard_status": "model diagnostic only",
+  "external_index_status": "offline adapter only; no compliant paired real dataset; no external validation claim"
+}

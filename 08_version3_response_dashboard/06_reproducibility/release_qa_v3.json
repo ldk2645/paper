@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "model_version": "3.0.0-response-dashboard-pilot",
+  "pilot_evidence_status": "exploratory_not_formal",
+  "formal_experiment_status": "not_run",
+  "external_index_status": "synthetic_demo_only_not_external_validation",
+  "pass_count": 9,
+  "fail_count": 0,
+  "checks": [
+    {
+      "check_id": "PARENT_SNAPSHOTS",
+      "status": "PASS",
+      "detail": "v1=AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC, v2=83BCD501B5A22C59832CC5441FFDF1054361E46C75E1BEE39F70E8E8CA0FC8DF"
+    },
+    {
+      "check_id": "IDENTITY_AND_HASHES",
+      "status": "PASS",
+      "detail": "model=B08BCEC960CCFD59858A38B527504CBF1C757407BCC0B64DC9136046E57EA9A0, runner=B729970448F2938693EF19EE16B8883666254EBC0DD57EC3C2314EC812E1386D"
+    },
+    {
+      "check_id": "PILOT_FACTORIAL_PANEL",
+      "status": "PASS",
+      "detail": "runs=120, steps=36000, events=36720, cell_sizes=[np.int64(10)]"
+    },
+    {
+      "check_id": "DAILY_PUBLICATION_EVENT_AUDIT",
+      "status": "PASS",
+      "detail": "routine=36000, responses=120"
+    },
+    {
+      "check_id": "COMMON_SEED_PRE_RESPONSE",
+      "status": "PASS",
+      "detail": "paired_pre_response_rows=2880"
+    },
+    {
+      "check_id": "PILOT_STATISTICS",
+      "status": "PASS",
+      "detail": "paired=420, interactions=210, stats=98, pooled=-0.004860, p=0.80078125"
+    },
+    {
+      "check_id": "EXTERNAL_INDEX_SYNTHETIC_ONLY",
+      "status": "PASS",
+      "detail": "scope=synthetic, rows=[6, 1, 2]"
+    },
+    {
+      "check_id": "FIGURE_BUNDLE",
+      "status": "PASS",
+      "detail": "svg_text=60, source_rows=265"
+    },
+    {
+      "check_id": "DOCUMENTATION",
+      "status": "PASS",
+      "detail": "required=6, hits=[]"
+    }
+  ]
+}

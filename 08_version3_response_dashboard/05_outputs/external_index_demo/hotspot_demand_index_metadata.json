@@ -1,0 +1,28 @@
+{
+  "data_scope": "synthetic",
+  "evidence_warning": "Synthetic code demonstration only; this is not a real Weibo or Leader Board validation.",
+  "row_count": 35,
+  "regions": [
+    "示例地区"
+  ],
+  "sources": [
+    "government_daily",
+    "leader_board",
+    "weibo_hot"
+  ],
+  "window_days": 7,
+  "top_k": 2,
+  "weibo_weight": "rank",
+  "network_access": "none",
+  "complete_calendar_windows_only": true,
+  "formula": {
+    "jsd_hd": "0.5*KL2(H||M)+0.5*KL2(D||M), M=(H+D)/2",
+    "alignment_hd": "100*(1-sqrt(JSD_2(H,D)))",
+    "blind_spot_tv": "50*sum(abs(H-D))",
+    "gap_demand_minus_hot_pp": "100*(D_k-H_k)",
+    "coverage_at_k": "100*sum(D_k for k in TopK(H))",
+    "hot_bias": "Alignment(G,H)-Alignment(G,D)"
+  },
+  "input_file": "08_version3_response_dashboard/03_data/external_index_template/synthetic_hotspot_demand_fixture.csv",
+  "input_sha256": "3F7C84C2869AF0A3D360AD1DAABB2C417D15FC37BDD955E906373C210BEE455F"
+}

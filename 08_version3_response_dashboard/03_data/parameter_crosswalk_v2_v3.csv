@@ -1,0 +1,16 @@
+parameter_or_output,v2,v3,change_type,evidence_class,interpretation
+model_version,2.0.0-uk-petition-case,3.0.0-response-dashboard-pilot,version_identity,release_design,V3 is isolated and does not overwrite V2
+enable_routine_government_publication,false,true,mechanism_change,user_requested,Government publishes routine information throughout every run
+publish_interval,unused because routine publication disabled,1 day,mechanism_change,user_requested,Exactly one routine item is created each simulated day
+response_heat_multiplier,1.00 default,"1.00 and 0.70 factorial contrast",experiment_factor,counterfactual,0.70 retains 70 percent of petition heat at the response instant
+response_publication,present once,present once,retained_mechanism,case_design,Both heat groups publish the response
+direct_response_trust_signal,0.00,0.00,controlled_constant,counterfactual,Trust is held neutral to isolate the heat multiplier
+response_disposition,no_policy_change,no_policy_change,controlled_constant,case_observed,Publication does not imply policy adoption
+response_information,created on response day,created on response day,retained_mechanism,case_design,Response information remains distinct from the heat multiplier
+government_publication_count,not reported as daily invariant,reported daily and cumulatively,new_audit_output,user_requested,Publication count is separated from exposure
+routine_government_exposure,not separated,separate attention and reach shares,new_audit_output,measurement_design,Being published does not guarantee being recommended
+response_government_exposure,not separated,separate attention and reach shares,new_audit_output,measurement_design,Response exposure is distinguished from routine government exposure
+response_immediate_heat,only heat delta,"before after and realized reduction",new_audit_output,measurement_design,Verifies the mechanical 30 percent intervention before same-day interaction
+hotspot_demand_diagnostic,absent,"TV JSD Top-2 Top-1 and rank correlation",new_diagnostic,model_internal,Uses simulated information heat and latent preferences only
+baseline_latent_demand,absent,initial preference distribution retained,new_diagnostic,model_internal,Allows current drifted demand to be compared with initialization
+external_hotspot_demand_index,absent,offline CSV adapter,new_optional_module,external_observational,No network scraper and no claim of completed external validation

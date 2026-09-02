@@ -1,0 +1,2 @@
+data_scope,region,window_start,window_end,window_days,top_k,topic_count,jsd_hd,alignment_hd,blind_spot_tv,coverage_at_k,top_k_hot_topics,alignment_gh,alignment_gd,hot_bias,weibo_records,leader_board_records,government_records
+synthetic,示例地区,2026-01-01,2026-01-07,7,2,2,0.0307730293849686,82.45775687519735,18.685280723454163,100.0,公共服务|文娱,52.33290365238241,67.13184730691424,-14.798943654531826,14,14,7

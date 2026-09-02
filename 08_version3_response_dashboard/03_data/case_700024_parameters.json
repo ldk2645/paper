@@ -1,0 +1,58 @@
+{
+  "case": {
+    "petition_id": "700024",
+    "title": "Ban fossil fuel advertising and sponsorship",
+    "responsible_department": "Department for Energy Security and Net Zero",
+    "opened_at_utc": "2024-11-12T10:44:59.936Z",
+    "response_threshold_at_utc": "2024-11-26T17:33:10.000Z",
+    "government_response_at_utc": "2024-12-18T12:35:20.734Z",
+    "debate_threshold_at_utc": "2025-05-08T21:30:30.000Z",
+    "closed_at_utc": "2025-05-12T22:59:59.999Z",
+    "debated_on": "2025-07-07",
+    "signature_count_at_snapshot": 110519,
+    "response_disposition": "no_policy_change"
+  },
+  "model_clock": {
+    "unit": "day",
+    "petition_open_step": 0,
+    "response_threshold_step": 14,
+    "response_delay_days_default": 22,
+    "government_response_step_default": 36,
+    "debate_threshold_step": 177,
+    "petition_close_step": 182,
+    "debate_step_metadata": 237,
+    "rounding_rule": "nearest whole model day"
+  },
+  "institutional_rules": {
+    "government_response_threshold_signatures": 10000,
+    "debate_consideration_threshold_signatures": 100000,
+    "debate_threshold_is_not_a_guarantee": true
+  },
+  "response_delay_conditions": {
+    "v1_reference_3": 3,
+    "conditional_p05_11": 11,
+    "case_typical_22": 22,
+    "conditional_p95_57": 57,
+    "conditional_empirical_resample": "one rounded value per seed from 222 responded petitions"
+  },
+  "model_defaults": {
+    "population_size": 300,
+    "steps": 300,
+    "alpha": 0.5,
+    "trigger_mode": "observed_calendar",
+    "observed_initial_signatures": 5,
+    "response_heat_multiplier": 1.0,
+    "direct_response_trust_signal": 0.0,
+    "enable_routine_government_publication": false,
+    "enable_legacy_topic_response": false
+  },
+  "evidence_boundaries": {
+    "alpha": "counterfactual; not identified by the petition website",
+    "response_heat_multiplier": "counterfactual; no daily causal heat series",
+    "direct_response_trust_signal": "counterfactual; petition data contain no trust scale",
+    "preference_drift": "inherited from V1; not calibrated by petition data",
+    "heat_decay": "inherited from V1; not calibrated as a daily UK rate",
+    "observed_initial_signatures": "UK submission requires five supporters; not a 700024 public-opening count",
+    "conditional_delay_sample": "conditioned on petitions observed with a government response"
+  }
+}

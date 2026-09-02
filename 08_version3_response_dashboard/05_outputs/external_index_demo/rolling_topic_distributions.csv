@@ -1,0 +1,7 @@
+data_scope,region,window_start,window_end,window_days,source,topic,rolling_weight,rolling_records,share
+synthetic,示例地区,2026-01-01,2026-01-07,7,government_daily,公共服务,7.0,7.0,1.0
+synthetic,示例地区,2026-01-01,2026-01-07,7,government_daily,文娱,0.0,0.0,0.0
+synthetic,示例地区,2026-01-01,2026-01-07,7,leader_board,公共服务,28.0,7.0,0.8
+synthetic,示例地区,2026-01-01,2026-01-07,7,leader_board,文娱,7.0,7.0,0.2
+synthetic,示例地区,2026-01-01,2026-01-07,7,weibo_hot,公共服务,7.0,7.0,0.6131471927654584
+synthetic,示例地区,2026-01-01,2026-01-07,7,weibo_hot,文娱,4.4165082750002025,7.0,0.38685280723454163

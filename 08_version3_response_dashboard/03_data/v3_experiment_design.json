@@ -1,0 +1,50 @@
+{
+  "model_version": "3.0.0-response-dashboard-pilot",
+  "case_id": "UK Parliament petition 700024",
+  "clock": "one simulation step equals one day",
+  "common_mechanisms": {
+    "routine_government_publications_per_day": 1,
+    "petition_response_publications_per_run": 1,
+    "response_disposition": "no_policy_change",
+    "direct_response_trust_signal": 0.0,
+    "dashboard_mode": "compare_only"
+  },
+  "pilot": {
+    "status": "complete_exploratory_not_formal_evidence",
+    "alpha_values": [0.4, 0.6, 0.8],
+    "response_delay_conditions_days": {
+      "early_p05_11": 11,
+      "late_p95_57": 57
+    },
+    "response_heat_multipliers": [1.0, 0.7],
+    "seed_start_inclusive": 73000,
+    "seed_end_inclusive": 73009,
+    "common_seed_count": 10,
+    "expected_runs": 120,
+    "primary_outcome": "log1p petition_heat_auc_post_14_days",
+    "primary_estimand": "paired difference-in-differences: (1.00-0.70 cooling benefit at early delay) minus the same benefit at late delay"
+  },
+  "formal": {
+    "status": "declared_not_run",
+    "alpha_start": 0.0,
+    "alpha_end": 1.0,
+    "alpha_increment": 0.05,
+    "alpha_count": 21,
+    "delay_conditions": [
+      "v1_reference_3",
+      "early_p05_11",
+      "case_typical_22",
+      "late_p95_57",
+      "conditional_empirical_resample"
+    ],
+    "response_heat_multipliers": [1.0, 0.7],
+    "common_seed_count": 50,
+    "expected_runs": 10500
+  },
+  "interpretation_boundaries": [
+    "response_heat_multiplier 1.00 still publishes a response and is not a no-response control",
+    "response_heat_multiplier 0.70 identifies only the forced heat-cooling component under this model",
+    "pilot confidence intervals quantify Monte Carlo variation across seeds, not population sampling uncertainty",
+    "the external hotspot-demand adapter is observational and does not alter the pilot mechanism"
+  ]
+}

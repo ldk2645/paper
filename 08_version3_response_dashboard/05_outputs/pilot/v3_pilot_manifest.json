@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "scope": "pilot",
+  "evidence_status": "exploratory_pilot_not_formal_evidence",
+  "created_at_utc": "2026-09-02T15:32:21.674024+00:00",
+  "model_version": "3.0.0-response-dashboard-pilot",
+  "v1_parent_sha256": "AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC",
+  "v2_parent_sha256": "83BCD501B5A22C59832CC5441FFDF1054361E46C75E1BEE39F70E8E8CA0FC8DF",
+  "v3_model_sha256": "B08BCEC960CCFD59858A38B527504CBF1C757407BCC0B64DC9136046E57EA9A0",
+  "runner_sha256": "B729970448F2938693EF19EE16B8883666254EBC0DD57EC3C2314EC812E1386D",
+  "delay_data_sha256": "F88BE53E79989B755106C406C5311E41559930AEB58BBFC8A2A56BCB319692BC",
+  "run_signature": "B82D8128C414D007EB9F99A0E00A38077B296760A6A670781F475067944906C1",
+  "completed_runs": 120,
+  "step_rows": 36000,
+  "event_rows": 36720,
+  "primary_estimand": "paired difference-in-differences in log1p 14-day post-response petition-heat AUC",
+  "alpha_values": [
+    0.4,
+    0.6,
+    0.8
+  ],
+  "seed_values": [
+    73000,
+    73001,
+    73002,
+    73003,
+    73004,
+    73005,
+    73006,
+    73007,
+    73008,
+    73009
+  ],
+  "delay_condition_ids": [
+    "early_p05_11",
+    "late_p95_57"
+  ],
+  "response_heat_multipliers": [
+    0.7,
+    1.0
+  ],
+  "workers": 4,
+  "python": "3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.1",
+  "scipy": "1.17.0"
+}
