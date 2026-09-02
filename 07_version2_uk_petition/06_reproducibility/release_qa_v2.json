@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "model_version": "2.0.0-uk-petition-case",
+  "formal_experiment_status": "not_run",
+  "smoke_outputs_are_formal_evidence": false,
+  "pass_count": 9,
+  "fail_count": 0,
+  "checks": [
+    {
+      "check_id": "V1_FROZEN_UNCHANGED",
+      "status": "PASS",
+      "detail": "sha256=AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC"
+    },
+    {
+      "check_id": "V1_SNAPSHOT_BYTE_IDENTICAL",
+      "status": "PASS",
+      "detail": "live=AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC, snapshot=AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC"
+    },
+    {
+      "check_id": "CASE_DELAY_DATA",
+      "status": "PASS",
+      "detail": "rows=222, petitions=222, median=21.646076, sha256=F88BE53E79989B755106C406C5311E41559930AEB58BBFC8A2A56BCB319692BC"
+    },
+    {
+      "check_id": "DEFAULT_CASE_TIMELINE",
+      "status": "PASS",
+      "detail": "timeline=(14, 36, 177, 182), events=6"
+    },
+    {
+      "check_id": "ONE_PETITION_ONE_RESPONSE",
+      "status": "PASS",
+      "detail": "petition_ids=['700024']"
+    },
+    {
+      "check_id": "CASE_PARAMETER_FILE",
+      "status": "PASS",
+      "detail": "model_version=2.0.0-uk-petition-case"
+    },
+    {
+      "check_id": "SMOKE_DESIGN",
+      "status": "PASS",
+      "detail": "runs=15, events=90, duplicates=0"
+    },
+    {
+      "check_id": "FORMAL_OUTPUT_STATUS",
+      "status": "PASS",
+      "detail": "actual=not_run, VERSION.json=not_run"
+    },
+    {
+      "check_id": "DOCUMENT_PLACEHOLDERS",
+      "status": "PASS",
+      "detail": "hits=[]"
+    }
+  ]
+}

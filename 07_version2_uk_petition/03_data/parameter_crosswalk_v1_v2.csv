@@ -1,0 +1,24 @@
+parameter,V1,V2_default,change_type,evidence_class,interpretation
+model_scope,generic topic-level ABM,one focal petition 700024 plus ordinary information,mechanism_change,case_design,Adds a persistent petition without replacing V1
+step_unit,unspecified,day,semantic_change,case_clock,Only the case timing layer is mapped to days
+population_size,300,300,unchanged,V1_inherited,Not a sample or scaling estimate of UK population
+steps,300,300,unchanged,V1_inherited,Covers the observed case lifecycle
+alpha,0.50 default and 0-1 scan,0.50 default and 0-1 scan,unchanged_counterfactual,V1_inherited,UK petition data do not identify personalization
+response_trigger,topic organic-attention share strictly above 0.15,observed day 14 or synthetic unique-support fraction greater than or equal to its own threshold,mechanism_change,UK_rule_plus_counterfactual,No conversion between 10000 signatures and 0.15
+real_response_threshold_signatures,absent,10000,new_metadata,UK_institutional_rule,Cumulative absolute real signatures in observed-calendar mode
+real_debate_threshold_signatures,absent,100000,new_metadata,UK_institutional_rule,Triggers consideration rather than guaranteed debate
+response_delay,3 steps,22 days,parameter_change,petition_700024_and_222_conditional_sample,Other scenarios are 3 11 57 and empirical resampling
+response_target,all spontaneous items sharing a topic,the focal petition item only,mechanism_change,case_design,Official response is petition-specific
+response_recurrence,can repeat after pending queue clears,one schedule and one publication per petition,mechanism_change,UK_process_prototype,Prevents repeated topic-level responses
+response_information,absent,new government response information item,mechanism_change,case_design,Makes the official publication visible to the platform
+response_disposition,absent,no_policy_change,new_state,petition_700024_observed,Publication does not imply adoption
+response_heat_multiplier,0.70 retention through legacy response_strength,1.00,parameter_and_semantic_change,counterfactual_not_identified,Neutral default avoids assuming automatic cooling
+direct_response_trust_signal,heat reduction coupled into trust update,0.00,mechanism_change,counterfactual_not_identified,Petition data contain no trust measure
+petition_open_step,absent,0,new_state,petition_700024_observed,Clock starts at public opening
+observed_initial_signatures,absent,5,new_initialization,uk_submission_rule_not_case_open_count,Submission requires five supporters but the case API does not report the count at public opening
+petition_close_step,absent,182,new_state,petition_700024_observed_rounded,Petition becomes invisible and cannot gain simulated signers
+observed_debate_threshold_step,absent,177,new_state,petition_700024_observed_rounded,Records the 100000-signature milestone
+observed_debate_step,absent,237,new_metadata,petition_700024_observed_rounded,No separate parliament agent is added
+routine_government_publication,every 10 steps,disabled,scope_change,case_design,Prevents generic publication from obscuring the focal response
+heat_decay,0.95,0.95,unchanged,V1_inherited_not_case_calibrated,Must not be called a daily UK estimate
+preference_drift_after,4,4,unchanged,V1_inherited_not_case_calibrated,Must not be called a four-day empirical effect

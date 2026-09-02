@@ -1,0 +1,37 @@
+{
+  "publisher": "UK Government and Parliament",
+  "official_api": "https://petition.parliament.uk/petitions.json",
+  "request_url": "https://petition.parliament.uk/petitions.json?state=with_response",
+  "rules_documentation": "https://petition.parliament.uk/help",
+  "license": "Open Government Licence v3.0, except where otherwise stated",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "retrieved_at_utc": "2026-08-01T18:54:34.233550Z",
+  "upstream_raw_snapshot": {
+    "filename": "uk_petitions_with_response_pages.json",
+    "page_count": 15,
+    "rows_before_date_filter": 357,
+    "sha256": "5ADC7154653C97DF2CD4C69BDCEFFBC5D497314555850B6A76A29F47EBB1A814",
+    "included_in_version2": false,
+    "reason": "Version 2 publishes the minimal non-personal processed fields needed by the model; the frozen raw snapshot remains in the project evidence workspace."
+  },
+  "analysis_filter": {
+    "threshold_reached_at_start_inclusive": "2024-07-01T00:00:00Z",
+    "threshold_reached_at_end_exclusive": "2026-01-01T00:00:00Z",
+    "requires_threshold_and_response_timestamp": true,
+    "rows_after_filter": 222,
+    "selection_warning": "The delay distribution is conditional on petitions observed with a government response."
+  },
+  "upstream_processed_table": {
+    "filename": "uk_petition_dynamic_response.csv",
+    "columns": 15,
+    "rows": 222,
+    "sha256": "69FB38F6CB2593A6B1AB7602D5D1C68009B08C170C5D59AD21BF908CA724B75B",
+    "included_in_version2": false
+  },
+  "version2_minimal_table": {
+    "filename": "uk_petition_response_delays_222.csv",
+    "columns": ["petition_id", "response_delay_days"],
+    "rows": 222,
+    "sha256": "F88BE53E79989B755106C406C5311E41559930AEB58BBFC8A2A56BCB319692BC"
+  }
+}

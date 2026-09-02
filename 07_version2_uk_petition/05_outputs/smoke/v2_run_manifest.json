@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "scope": "smoke",
+  "evidence_status": "smoke_only_not_formal_evidence",
+  "created_at_utc": "2026-09-02T10:46:50.199184+00:00",
+  "model_version": "2.0.0-uk-petition-case",
+  "v1_parent_sha256": "AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC",
+  "v2_model_sha256": "83BCD501B5A22C59832CC5441FFDF1054361E46C75E1BEE39F70E8E8CA0FC8DF",
+  "runner_sha256": "6BCACC8128B7CA5DF4E0DD140FCD2F4507B0F1AF34D089425CBA2AB9A7CACA56",
+  "delay_data_sha256": "F88BE53E79989B755106C406C5311E41559930AEB58BBFC8A2A56BCB319692BC",
+  "run_signature": "44F09D1B930697E83E7E3E34479A44E4B64E1CF89C666E907009A54524518DEC",
+  "completed_rows": 15,
+  "event_rows": 90,
+  "condition_ids": [
+    "v1_reference_3",
+    "conditional_p05_11",
+    "case_typical_22",
+    "conditional_p95_57",
+    "conditional_empirical_resample"
+  ],
+  "alpha_values": [
+    0.4,
+    0.6,
+    0.8
+  ],
+  "seed_values": [
+    73000
+  ],
+  "workers": 1,
+  "python": "3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.1",
+  "scipy": "1.17.0"
+}

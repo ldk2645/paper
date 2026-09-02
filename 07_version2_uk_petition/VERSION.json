@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0-uk-petition-case",
+  "status": "case-constrained model and smoke validation",
+  "parent_version": "1.0-frozen",
+  "parent_model_path": "../01_model_core/model.py",
+  "parent_model_sha256": "AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC",
+  "case_id": "UK Parliament petition 700024",
+  "step_unit": "day",
+  "formal_experiment_status": "not_run"
+}
