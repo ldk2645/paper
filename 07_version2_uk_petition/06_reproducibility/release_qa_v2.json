@@ -1,9 +1,9 @@
 {
   "status": "PASS",
   "model_version": "2.0.0-uk-petition-case",
-  "formal_experiment_status": "not_run",
+  "formal_experiment_status": "complete",
   "smoke_outputs_are_formal_evidence": false,
-  "pass_count": 9,
+  "pass_count": 10,
   "fail_count": 0,
   "checks": [
     {
@@ -44,12 +44,17 @@
     {
       "check_id": "FORMAL_OUTPUT_STATUS",
       "status": "PASS",
-      "detail": "actual=not_run, VERSION.json=not_run"
+      "detail": "actual=present, runs=5250, events=31500, duplicates=0, VERSION.json=complete"
     },
     {
       "check_id": "DOCUMENT_PLACEHOLDERS",
       "status": "PASS",
       "detail": "hits=[]"
+    },
+    {
+      "check_id": "FORMAL_ANALYSIS",
+      "status": "PASS",
+      "detail": "descriptive=735, paired=588, pooled=28, corrected_significant=63"
     }
   ]
 }

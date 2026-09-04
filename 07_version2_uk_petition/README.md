@@ -12,7 +12,7 @@ V1核心文件保持不变。V2携带一份逐字节相同的V1基线快照，�
 AB78E6C64AFB6FD487E40A48FBBCD1B09A84EE3FBC9085530F8833DE3543D7EC
 ```
 
-当前状态：**代码与复现接口就绪；15次烟雾运行已完成（5个条件×3个 `alpha`×1个种子），单元测试11/11通过，独立发布QA 9/9通过。烟雾结果不是正式研究证据；计划中的5,250次正式实验尚未运行。**
+当前状态：**5,250次正式时延实验已完成（5个条件×21个 `alpha`×50个共同随机种子），生成31,500条制度事件；单元测试11/11通过，正式输出已纳入独立发布QA。烟雾结果仍只用于管道验证，不作为正式研究证据。**
 
 ## V2增加了什么
 
@@ -112,7 +112,8 @@ V1的热度衰减率、偏好漂移率、互动规则、学习成本和信任系
 │  ├─ base_v1.py
 │  └─ model_v2.py
 ├─ 02_experiment_code/
-│  └─ run_v2_experiment.py
+│  ├─ run_v2_experiment.py
+│  └─ analyze_v2_formal.py
 ├─ 03_data/
 │  ├─ README.md
 │  ├─ case_700024_parameters.json
@@ -124,10 +125,18 @@ V1的热度衰减率、偏好漂移率、互动规则、学习成本和信任系
 │  ├─ MODEL_CARD_V2.md
 │  └─ DATA_DICTIONARY_V2.md
 ├─ 05_outputs/
-│  └─ smoke/
+│  ├─ smoke/
+│  │  ├─ v2_run_summaries.csv
+│  │  ├─ v2_event_log.csv
+│  │  └─ v2_run_manifest.json
+│  └─ formal/
 │     ├─ v2_run_summaries.csv
 │     ├─ v2_event_log.csv
-│     └─ v2_run_manifest.json
+│     ├─ v2_run_manifest.json
+│     ├─ v2_formal_descriptive.csv
+│     ├─ v2_formal_paired_vs_typical22.csv
+│     ├─ v2_formal_pooled_delay_effects.csv
+│     └─ V2_FORMAL_RESULTS.md
 └─ 06_reproducibility/
    ├─ build_v2_manifest.py
    ├─ release_qa_v2.json
@@ -156,10 +165,11 @@ python 07_version2_uk_petition/02_experiment_code/run_v2_experiment.py --scope s
 
 当前烟雾矩阵已经完成15次运行：5个时延条件×`alpha={0.40,0.60,0.80}`×种子73000，共生成15行摘要和90行事件。它只检查数据管道、场景生成、输出字段和可重复性，不能作为论文的正式估计或置信区间输入。运行清单把证据状态明确写为 `smoke_only_not_formal_evidence`。
 
-## 正式5,250次实验
+## 正式5,250次实验（已完成）
 
 ```powershell
 python 07_version2_uk_petition/02_experiment_code/run_v2_experiment.py --scope formal --workers 8
+python 07_version2_uk_petition/02_experiment_code/analyze_v2_formal.py
 ```
 
 正式设计为：
@@ -171,7 +181,16 @@ python 07_version2_uk_petition/02_experiment_code/run_v2_experiment.py --scope f
 - 每次300名公众、300个时间步，摘要使用末100步窗口；
 - 经验重抽样时，同一个种子只抽取一次整数天时延，并在该种子的21个 `alpha` 水平保持相同，防止破坏配对设计。
 
-正式实验运行前后都应执行测试和V2验证器。仅当原始结果行数、主键、每格重复数、时延取值、运行签名和文件哈希全部通过QA后，才可把结果写成论文过去时结论。
+正式运行结果位于 [`05_outputs/formal/`](05_outputs/formal/)；完整解读见
+[`V2_FORMAL_RESULTS.md`](05_outputs/formal/V2_FORMAL_RESULTS.md)。主要结论是：以22天回应为
+参照，3天、11天、57天和经验重抽样组在“末100步平均政府信任”上的种子区组合并比较，
+经七指标Holm校正后均不显著。按alpha分层后出现的63个校正后显著单元全部来自“回应后7天
+请愿热度AUC”，其他六项持久或全程指标均无校正后显著单元。该AUC按各组回应日对齐，不能
+解释为独立的回应降温因果效应。
+
+正式实验运行前后均执行测试和V2验证器。原始结果行数、主键、每格重复数、时延取值、运行
+签名和文件哈希均需通过QA；这些结果只支持模型内部回应时点比较，不支持“回应与不回应”的
+因果比较。
 
 ## 数据来源与许可
 

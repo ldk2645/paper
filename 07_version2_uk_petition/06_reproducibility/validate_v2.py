@@ -283,6 +283,47 @@ def check_documents(checks: list[dict[str, str]]) -> None:
     add(checks, "DOCUMENT_PLACEHOLDERS", not hits, f"hits={hits}")
 
 
+def check_formal_analysis(checks: list[dict[str, str]]) -> None:
+    base = V2_ROOT / "05_outputs" / "formal"
+    descriptive_path = base / "v2_formal_descriptive.csv"
+    paired_path = base / "v2_formal_paired_vs_typical22.csv"
+    pooled_path = base / "v2_formal_pooled_delay_effects.csv"
+    report_path = base / "V2_FORMAL_RESULTS.md"
+    required = (descriptive_path, paired_path, pooled_path, report_path)
+    if not all(path.is_file() for path in required):
+        add(checks, "FORMAL_ANALYSIS", False, "formal analysis output set is incomplete")
+        return
+
+    descriptive = pd.read_csv(descriptive_path)
+    paired = pd.read_csv(paired_path)
+    pooled = pd.read_csv(pooled_path)
+    report = report_path.read_text(encoding="utf-8")
+    significant = paired[paired["paired_t_p_holm_21alpha"].lt(0.05)]
+    valid = (
+        len(descriptive) == 5 * 21 * 7
+        and len(paired) == 4 * 21 * 7
+        and len(pooled) == 4 * 7
+        and not descriptive.duplicated(["condition_id", "alpha", "outcome"]).any()
+        and not paired.duplicated(["condition_id", "alpha", "outcome"]).any()
+        and not pooled.duplicated(["condition_id", "outcome"]).any()
+        and paired["n_seed_blocks"].eq(50).all()
+        and pooled["n_seed_blocks"].eq(50).all()
+        and len(significant) == 63
+        and significant["outcome"].eq("petition_heat_auc_post_7_days").all()
+        and len(pooled[pooled["outcome"].eq("mean_trust")]) == 4
+        and "不是“回应相对于不回应”的效应" in report
+    )
+    add(
+        checks,
+        "FORMAL_ANALYSIS",
+        valid,
+        (
+            f"descriptive={len(descriptive)}, paired={len(paired)}, "
+            f"pooled={len(pooled)}, corrected_significant={len(significant)}"
+        ),
+    )
+
+
 def main() -> int:
     checks: list[dict[str, str]] = []
     for function in (
@@ -317,6 +358,15 @@ def main() -> int:
         add(
             checks,
             "CHECK_DOCUMENTS",
+            False,
+            f"{type(error).__name__}: {error}",
+        )
+    try:
+        check_formal_analysis(checks)
+    except Exception as error:
+        add(
+            checks,
+            "CHECK_FORMAL_ANALYSIS",
             False,
             f"{type(error).__name__}: {error}",
         )
