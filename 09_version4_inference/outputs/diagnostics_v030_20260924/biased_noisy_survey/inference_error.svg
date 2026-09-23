@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="460" viewBox="0 0 840 460">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial,sans-serif" font-size="13" fill="#222">
+<text x="70" y="25" font-size="18">Synthetic pilot: government inference error</text>
+<text x="70" y="45">Mean and pointwise 95% seed-bootstrap intervals; not confirmatory evidence</text>
+<line x1="70" y1="380.00" x2="630" y2="380.00" stroke="#e5e7eb"/>
+<text x="60" y="384.00" text-anchor="end">0.000</text>
+<text x="70.00" y="402" text-anchor="middle">0.0</text>
+<line x1="70" y1="316.00" x2="630" y2="316.00" stroke="#e5e7eb"/>
+<text x="60" y="320.00" text-anchor="end">0.089</text>
+<text x="182.00" y="402" text-anchor="middle">0.2</text>
+<line x1="70" y1="252.00" x2="630" y2="252.00" stroke="#e5e7eb"/>
+<text x="60" y="256.00" text-anchor="end">0.177</text>
+<text x="294.00" y="402" text-anchor="middle">0.4</text>
+<line x1="70" y1="188.00" x2="630" y2="188.00" stroke="#e5e7eb"/>
+<text x="60" y="192.00" text-anchor="end">0.266</text>
+<text x="406.00" y="402" text-anchor="middle">0.6</text>
+<line x1="70" y1="124.00" x2="630" y2="124.00" stroke="#e5e7eb"/>
+<text x="60" y="128.00" text-anchor="end">0.354</text>
+<text x="518.00" y="402" text-anchor="middle">0.8</text>
+<line x1="70" y1="60.00" x2="630" y2="60.00" stroke="#e5e7eb"/>
+<text x="60" y="64.00" text-anchor="end">0.443</text>
+<text x="630.00" y="402" text-anchor="middle">1.0</text>
+<polyline points="70.00,320.32 210.00,304.16 350.00,203.16 490.00,160.19 630.00,139.68" fill="none" stroke="#2563eb" stroke-width="2"/>
+<line x1="70.0" x2="70.0" y1="337.2758257393554" y2="302.5098472714277" stroke="#2563eb"/>
+<circle cx="70.0" cy="320.31807943757974" r="3" fill="#2563eb"/>
+<line x1="210.0" x2="210.0" y1="323.84005869278946" y2="283.9029616530653" stroke="#2563eb"/>
+<circle cx="210.0" cy="304.1577659828003" r="3" fill="#2563eb"/>
+<line x1="350.0" x2="350.0" y1="241.4890773733644" y2="167.56943871629633" stroke="#2563eb"/>
+<circle cx="350.0" cy="203.15601434172765" r="3" fill="#2563eb"/>
+<line x1="490.0" x2="490.0" y1="189.64538132876447" y2="127.31615472659385" stroke="#2563eb"/>
+<circle cx="490.0" cy="160.19280647223576" r="3" fill="#2563eb"/>
+<line x1="630.0" x2="630.0" y1="170.3045569273314" y2="101.73913043478257" stroke="#2563eb"/>
+<circle cx="630.0" cy="139.67508283477113" r="3" fill="#2563eb"/>
+<text x="665" y="90" fill="#2563eb">platform</text>
+<polyline points="70.00,240.82 210.00,240.82 350.00,240.82 490.00,240.82 630.00,240.82" fill="none" stroke="#059669" stroke-width="2"/>
+<line x1="70.0" x2="70.0" y1="252.41311234001643" y2="229.3842505127861" stroke="#059669"/>
+<circle cx="70.0" cy="240.81505624159314" r="3" fill="#059669"/>
+<line x1="210.0" x2="210.0" y1="252.41207753833348" y2="229.7284399979769" stroke="#059669"/>
+<circle cx="210.0" cy="240.81505624159314" r="3" fill="#059669"/>
+<line x1="350.0" x2="350.0" y1="252.4614919372785" y2="229.4197899905056" stroke="#059669"/>
+<circle cx="350.0" cy="240.81505624159314" r="3" fill="#059669"/>
+<line x1="490.0" x2="490.0" y1="252.46230688577907" y2="230.23372605453355" stroke="#059669"/>
+<circle cx="490.0" cy="240.81505624159314" r="3" fill="#059669"/>
+<line x1="630.0" x2="630.0" y1="252.6085903673325" y2="229.22181865817433" stroke="#059669"/>
+<circle cx="630.0" cy="240.81505624159314" r="3" fill="#059669"/>
+<text x="665" y="115" fill="#059669">survey</text>
+<polyline points="70.00,311.75 210.00,308.01 350.00,259.97 490.00,230.38 630.00,214.68" fill="none" stroke="#d97706" stroke-width="2"/>
+<line x1="70.0" x2="70.0" y1="321.2531711394313" y2="302.20519947456233" stroke="#d97706"/>
+<circle cx="70.0" cy="311.7549374769657" r="3" fill="#d97706"/>
+<line x1="210.0" x2="210.0" y1="319.94184103445053" y2="295.987810884602" stroke="#d97706"/>
+<circle cx="210.0" cy="308.0117517898785" r="3" fill="#d97706"/>
+<line x1="350.0" x2="350.0" y1="287.1289658534703" y2="228.64800665421032" stroke="#d97706"/>
+<circle cx="350.0" cy="259.97198377134646" r="3" fill="#d97706"/>
+<line x1="490.0" x2="490.0" y1="251.89713038793857" y2="203.72336541129545" stroke="#d97706"/>
+<circle cx="490.0" cy="230.3771614996152" r="3" fill="#d97706"/>
+<line x1="630.0" x2="630.0" y1="243.40924781186567" y2="183.17321458263595" stroke="#d97706"/>
+<circle cx="630.0" cy="214.67635149375252" r="3" fill="#d97706"/>
+<text x="665" y="140" fill="#d97706">fused</text>
+<polyline points="70.00,380.00 210.00,380.00 350.00,380.00 490.00,380.00 630.00,380.00" fill="none" stroke="#6b7280" stroke-width="2"/>
+<line x1="70.0" x2="70.0" y1="380.0" y2="380.0" stroke="#6b7280"/>
+<circle cx="70.0" cy="380.0" r="3" fill="#6b7280"/>
+<line x1="210.0" x2="210.0" y1="380.0" y2="380.0" stroke="#6b7280"/>
+<circle cx="210.0" cy="380.0" r="3" fill="#6b7280"/>
+<line x1="350.0" x2="350.0" y1="380.0" y2="380.0" stroke="#6b7280"/>
+<circle cx="350.0" cy="380.0" r="3" fill="#6b7280"/>
+<line x1="490.0" x2="490.0" y1="380.0" y2="380.0" stroke="#6b7280"/>
+<circle cx="490.0" cy="380.0" r="3" fill="#6b7280"/>
+<line x1="630.0" x2="630.0" y1="380.0" y2="380.0" stroke="#6b7280"/>
+<circle cx="630.0" cy="380.0" r="3" fill="#6b7280"/>
+<text x="665" y="165" fill="#6b7280">oracle</text>
+<text x="310" y="435">Popularity weight alpha</text>
+<text transform="translate(18,290) rotate(-90)">Total variation error</text>
+</g></svg>

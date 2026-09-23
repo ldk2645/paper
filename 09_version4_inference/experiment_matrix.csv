@@ -1,0 +1,11 @@
+experiment_id,priority,purpose,design,initial_repeats,status,gate
+E0,replaced,Build new model authorized by user,"Fresh implementation; do not inherit legacy results",NA,rebuilt_v030,No claim of legacy replication
+E1,required,Verify minimal inference model,"Fixed preferences; no government feedback; controlled content supply; extreme cases",8,development_complete,18 tests plus 320 structural diagnostic worlds; not formal validation
+E2,required,Main information comparison,"11 alpha levels x 50 seeds; 550 shared worlds and 4 estimators; N=300; T=1000; final window=300",50,candidate_not_frozen,Add calibrated estimator and freeze configuration after design checks
+E3a,required,Emotion mechanism,"No emotion advantage/original direction/reversed direction; distinguish source from topic",50,planned,Change emotion independently of content arrival rates
+E3b,required,Preference mechanism,"Fixed preferences versus drift; report current and initial preference references",50,planned,Do not merge initial and contemporaneous targets
+E3c,required,Ranking structure,"Deterministic Top-K versus probabilistic recommendation; record exploration and tie rules",50,planned,Separate sorting artifacts from dynamic effects
+E3d,required,Information value,"Sample sizes 10/30/90; matched-size activity panels; survey-only/platform-only/fused estimators",50,planned,Match timing and separate quantity from measurement quality
+E4,required,Scale and duration,"N=100/300/1000; T=300/1000/3000; preselected alpha anchors; state supply scaling",50,planned,Diagnose convergence rather than assume steady state
+E5,extension,Government feedback,"Delayed inference-responsive publication; separate active-arm worlds",50,smoke_complete_36_worlds,Only claim governance consequences when information changes actions; formal experiment pending
+E6,conditional,Transition and persistence,"Fine grid; multiple initial states; forward/reverse paths; perturbation recovery",precision_based,planned,Required only if retaining phase-transition or irreversibility claims

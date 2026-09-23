@@ -1,0 +1,57 @@
+{
+  "status": "complete",
+  "started_utc": "2026-09-23T16:48:50.787068+00:00",
+  "model_version": "0.3.0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "workers": 2,
+  "source_sha256": {
+    "__init__.py": "76ea7047a49035e34882e89575ce1c7507defd2910e88dd0b56b48fe2855db8a",
+    "cli.py": "93b501aa1543e6fff4797e875b5e51e71940c3f3454a63de73524a3f9cbaef5b",
+    "model.py": "505015034680c0dec1a782e813ce9704a33f43f77c471a714697454b06cd1ff7"
+  },
+  "specification": {
+    "model": {
+      "n_agents": 120,
+      "steps": 240,
+      "final_window": 80,
+      "survey_size": 12,
+      "max_item_age": 100,
+      "emotion_advantage": -0.25,
+      "drift_rate": 0.0,
+      "government_policy": "none"
+    },
+    "alphas": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "seeds": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "save_trajectories": true
+  },
+  "planned_world_runs": 40,
+  "analysis": {
+    "bootstrap_draws": 2000,
+    "analysis_seed": 90210,
+    "unit": "independent seed/world",
+    "intervals": "pointwise, percentile; not simultaneous",
+    "paired": true
+  },
+  "interpretation": "Synthetic exploratory model outputs; not legacy replication or empirical validation",
+  "finished_utc": "2026-09-23T16:48:53.034101+00:00",
+  "elapsed_seconds": 2.134249299997464,
+  "successful_world_runs": 40,
+  "failed_world_runs": 0
+}
