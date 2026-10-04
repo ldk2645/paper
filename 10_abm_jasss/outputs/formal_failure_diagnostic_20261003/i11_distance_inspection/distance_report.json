@@ -1,0 +1,313 @@
+{
+  "all_distance_fields_checked": [
+    "platform_representation_gap",
+    "perception_error",
+    "exposure_gap",
+    "visible_signal_current_gap",
+    "visible_signal_matched_gap",
+    "signal_estimate_distance"
+  ],
+  "arm": "I11",
+  "eligible_for_formal_analysis": false,
+  "group_id": "a01_seed71100",
+  "out_of_bounds": [
+    {
+      "P_true": {
+        "all_finite": true,
+        "maximum": 0.7513583388856152,
+        "minimum": 0.015547847617928563,
+        "sum_builtin": 0.9999999999999999,
+        "sum_decimal_of_stored_binary": "0.9999999999999998820388036335",
+        "sum_fsum": 0.9999999999999999,
+        "sum_numpy": 0.9999999999999999,
+        "values": [
+          0.7513583388856152,
+          0.214158222705646,
+          0.018935590790810117,
+          0.015547847617928563
+        ]
+      },
+      "estimate_input_packet_id": "public-0000000264",
+      "excess_above_one": 2.220446049250313e-16,
+      "excess_in_ulps_at_one": 1.0,
+      "government_estimate": {
+        "all_finite": true,
+        "maximum": 1.0,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "in_final_window": true,
+      "metric": "signal_estimate_distance",
+      "signal_estimate_tv_decimal_of_binary": "1.000000000000000027755575616",
+      "signal_estimate_tv_fsum": 1.0,
+      "signal_estimate_tv_numpy": 1.0000000000000002,
+      "tick": 265,
+      "used_public_signal": {
+        "all_finite": true,
+        "maximum": 0.5212264150943396,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1.000000000000000055511151231",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          0.0,
+          0.27122641509433965,
+          0.5212264150943396,
+          0.20754716981132076
+        ]
+      },
+      "value": 1.0000000000000002,
+      "value_hex": "0x1.0000000000001p+0"
+    },
+    {
+      "P_true": {
+        "all_finite": true,
+        "maximum": 0.7513583388856152,
+        "minimum": 0.015547847617928563,
+        "sum_builtin": 0.9999999999999999,
+        "sum_decimal_of_stored_binary": "0.9999999999999998820388036335",
+        "sum_fsum": 0.9999999999999999,
+        "sum_numpy": 0.9999999999999999,
+        "values": [
+          0.7513583388856152,
+          0.214158222705646,
+          0.018935590790810117,
+          0.015547847617928563
+        ]
+      },
+      "estimate_input_packet_id": "public-0000000264",
+      "excess_above_one": 2.220446049250313e-16,
+      "excess_in_ulps_at_one": 1.0,
+      "government_estimate": {
+        "all_finite": true,
+        "maximum": 1.0,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "in_final_window": true,
+      "metric": "signal_estimate_distance",
+      "signal_estimate_tv_decimal_of_binary": "1.000000000000000027755575616",
+      "signal_estimate_tv_fsum": 1.0,
+      "signal_estimate_tv_numpy": 1.0000000000000002,
+      "tick": 266,
+      "used_public_signal": {
+        "all_finite": true,
+        "maximum": 0.5212264150943396,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1.000000000000000055511151231",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          0.0,
+          0.27122641509433965,
+          0.5212264150943396,
+          0.20754716981132076
+        ]
+      },
+      "value": 1.0000000000000002,
+      "value_hex": "0x1.0000000000001p+0"
+    },
+    {
+      "P_true": {
+        "all_finite": true,
+        "maximum": 0.7513583388856152,
+        "minimum": 0.015547847617928563,
+        "sum_builtin": 0.9999999999999999,
+        "sum_decimal_of_stored_binary": "0.9999999999999998820388036335",
+        "sum_fsum": 0.9999999999999999,
+        "sum_numpy": 0.9999999999999999,
+        "values": [
+          0.7513583388856152,
+          0.214158222705646,
+          0.018935590790810117,
+          0.015547847617928563
+        ]
+      },
+      "estimate_input_packet_id": "public-0000000264",
+      "excess_above_one": 2.220446049250313e-16,
+      "excess_in_ulps_at_one": 1.0,
+      "government_estimate": {
+        "all_finite": true,
+        "maximum": 1.0,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "in_final_window": true,
+      "metric": "signal_estimate_distance",
+      "signal_estimate_tv_decimal_of_binary": "1.000000000000000027755575616",
+      "signal_estimate_tv_fsum": 1.0,
+      "signal_estimate_tv_numpy": 1.0000000000000002,
+      "tick": 267,
+      "used_public_signal": {
+        "all_finite": true,
+        "maximum": 0.5212264150943396,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1.000000000000000055511151231",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          0.0,
+          0.27122641509433965,
+          0.5212264150943396,
+          0.20754716981132076
+        ]
+      },
+      "value": 1.0000000000000002,
+      "value_hex": "0x1.0000000000001p+0"
+    },
+    {
+      "P_true": {
+        "all_finite": true,
+        "maximum": 0.7513583388856152,
+        "minimum": 0.015547847617928563,
+        "sum_builtin": 0.9999999999999999,
+        "sum_decimal_of_stored_binary": "0.9999999999999998820388036335",
+        "sum_fsum": 0.9999999999999999,
+        "sum_numpy": 0.9999999999999999,
+        "values": [
+          0.7513583388856152,
+          0.214158222705646,
+          0.018935590790810117,
+          0.015547847617928563
+        ]
+      },
+      "estimate_input_packet_id": "public-0000000264",
+      "excess_above_one": 2.220446049250313e-16,
+      "excess_in_ulps_at_one": 1.0,
+      "government_estimate": {
+        "all_finite": true,
+        "maximum": 1.0,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "in_final_window": true,
+      "metric": "signal_estimate_distance",
+      "signal_estimate_tv_decimal_of_binary": "1.000000000000000027755575616",
+      "signal_estimate_tv_fsum": 1.0,
+      "signal_estimate_tv_numpy": 1.0000000000000002,
+      "tick": 268,
+      "used_public_signal": {
+        "all_finite": true,
+        "maximum": 0.5212264150943396,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1.000000000000000055511151231",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          0.0,
+          0.27122641509433965,
+          0.5212264150943396,
+          0.20754716981132076
+        ]
+      },
+      "value": 1.0000000000000002,
+      "value_hex": "0x1.0000000000001p+0"
+    },
+    {
+      "P_true": {
+        "all_finite": true,
+        "maximum": 0.7513583388856152,
+        "minimum": 0.015547847617928563,
+        "sum_builtin": 0.9999999999999999,
+        "sum_decimal_of_stored_binary": "0.9999999999999998820388036335",
+        "sum_fsum": 0.9999999999999999,
+        "sum_numpy": 0.9999999999999999,
+        "values": [
+          0.7513583388856152,
+          0.214158222705646,
+          0.018935590790810117,
+          0.015547847617928563
+        ]
+      },
+      "estimate_input_packet_id": "public-0000000264",
+      "excess_above_one": 2.220446049250313e-16,
+      "excess_in_ulps_at_one": 1.0,
+      "government_estimate": {
+        "all_finite": true,
+        "maximum": 1.0,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "in_final_window": true,
+      "metric": "signal_estimate_distance",
+      "signal_estimate_tv_decimal_of_binary": "1.000000000000000027755575616",
+      "signal_estimate_tv_fsum": 1.0,
+      "signal_estimate_tv_numpy": 1.0000000000000002,
+      "tick": 269,
+      "used_public_signal": {
+        "all_finite": true,
+        "maximum": 0.5212264150943396,
+        "minimum": 0.0,
+        "sum_builtin": 1.0,
+        "sum_decimal_of_stored_binary": "1.000000000000000055511151231",
+        "sum_fsum": 1.0,
+        "sum_numpy": 1.0,
+        "values": [
+          0.0,
+          0.27122641509433965,
+          0.5212264150943396,
+          0.20754716981132076
+        ]
+      },
+      "value": 1.0000000000000002,
+      "value_hex": "0x1.0000000000001p+0"
+    }
+  ],
+  "out_of_bounds_count": 5,
+  "seed": 71100,
+  "snapshot_state_hash": "19be33542f200fa6514f6a28fed777b415c8225ce950a96e42ef813808f1bb4a",
+  "summary_check": {
+    "status": "reproduced_failure",
+    "traceback": "Traceback (most recent call last):\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_failure_diagnostic_20261003\\inspect_distance.py\", line 89, in main\n    summarize_world(world.trajectory, world.events, config.analysis_config())\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\abm_jasss\\research_outcomes.py\", line 155, in summarize_world\n    value = _observed_metric(row, key, value, vector_key in row if vector_key else False)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\abm_jasss\\research_outcomes.py\", line 89, in _observed_metric\n    recorded = _distance(row.get(key), key)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\abm_jasss\\research_outcomes.py\", line 54, in _distance\n    raise ValueError(f\"{name} must be in [0, 1]\")\nValueError: signal_estimate_distance must be in [0, 1]\n"
+  },
+  "ticks_completed": 300
+}

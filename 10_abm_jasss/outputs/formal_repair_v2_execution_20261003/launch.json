@@ -1,0 +1,12 @@
+{
+  "additional_independent_samples": 0,
+  "candidate_project": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\formal_repair_resume_20261003",
+  "parent_registry_hash": "707b7d97cf8c3b0ada81caa246610fc6346b9fc4c224897b00171cf19931a3d8",
+  "repair_registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+  "source_batch": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_20261003",
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal_repair_v2_execution",
+  "started_at": "2026-10-03T11:17:26.552872+00:00",
+  "workers": 12,
+  "wrapper_hash": "59ebd39c8be1b4f18585e1ca2f676e1e3d59a2dfccb8570442a5afc3ed9d60b2"
+}

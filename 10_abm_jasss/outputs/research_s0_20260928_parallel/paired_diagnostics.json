@@ -1,0 +1,4030 @@
+{
+  "0.25": {
+    "E2": {
+      "execution_coverage": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.04999999999999997,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.050000000000000044,
+            "a00_seed51002": -0.15000000000000002,
+            "a00_seed51003": -0.04999999999999993
+          },
+          "sample_sd": 0.10000000000000003,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.04999999999999997,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.050000000000000044,
+            "a00_seed51002": 0.15000000000000002,
+            "a00_seed51003": 0.04999999999999993
+          },
+          "sample_sd": 0.10000000000000003,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.08333333333333333,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.15000000000000002,
+            "a00_seed51003": 0.09999999999999998
+          },
+          "sample_sd": 0.07637626158259735,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.03333333333333336,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.050000000000000044,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.050000000000000044
+          },
+          "sample_sd": 0.028867513459481315,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "exposure_gap": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0006500930983172984,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.002159919546657653,
+            "a00_seed51002": -0.00020964025170575745,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0013117428051507849,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0006500930983172984,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.002159919546657653,
+            "a00_seed51002": 0.00020964025170575745,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0013117428051507849,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0006500930983172984,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.002159919546657653,
+            "a00_seed51002": 0.00020964025170575745,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0013117428051507849,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "perception_error": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.02300100819313684,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.008028886298010685,
+            "a00_seed51002": 0.04417590004264485,
+            "a00_seed51003": 0.03285601083477635
+          },
+          "sample_sd": 0.027462260231423324,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.02300100819313684,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.008028886298010685,
+            "a00_seed51002": -0.04417590004264485,
+            "a00_seed51003": -0.03285601083477635
+          },
+          "sample_sd": 0.027462260231423324,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.025075636822682896,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0004856289947261505,
+            "a00_seed51002": -0.04417590004264485,
+            "a00_seed51003": -0.03153663942012999
+          },
+          "sample_sd": 0.023021109006999354,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0020746286295460583,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.007543257303284534,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0013193714146463587
+          },
+          "sample_sd": 0.004781695296740734,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "platform_representation_gap": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0008194220838894928,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0008832895300222854,
+            "a00_seed51002": 0.001574976721646193,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0007894284048845033,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0008194220838894928,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.0008832895300222854,
+            "a00_seed51002": -0.001574976721646193,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0007894284048845033,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0008194220838894928,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.0008832895300222854,
+            "a00_seed51002": -0.001574976721646193,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0007894284048845033,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "response_completion_L": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_execution": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0015630254312131164,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.006148714570028302,
+            "a00_seed51002": 0.0009862277390824126,
+            "a00_seed51003": -0.002445866015471365
+          },
+          "sample_sd": 0.0043262253227724316,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0015630254312131164,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.006148714570028302,
+            "a00_seed51002": -0.0009862277390824126,
+            "a00_seed51003": 0.002445866015471365
+          },
+          "sample_sd": 0.0043262253227724316,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.003038026485850535,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.000372011926411453,
+            "a00_seed51002": -0.0009862277390824126,
+            "a00_seed51003": 0.01047231912304547
+          },
+          "sample_sd": 0.006445606684224681,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.004601051917063652,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.005776702643616849,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.008026453107574105
+          },
+          "sample_sd": 0.004140362706956396,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_trigger": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0015139495536621677,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0061075487421959895,
+            "a00_seed51002": 0.0008460762774580299,
+            "a00_seed51003": -0.0024117763586675167
+          },
+          "sample_sd": 0.004298751688380184,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0015139495536621677,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.0061075487421959895,
+            "a00_seed51002": -0.0008460762774580299,
+            "a00_seed51003": 0.0024117763586675167
+          },
+          "sample_sd": 0.004298751688380184,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0030377389841308444,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.000407607025091572,
+            "a00_seed51002": -0.0008460762774580299,
+            "a00_seed51003": 0.010366900254942135
+          },
+          "sample_sd": 0.006351024918978655,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.004551688537793012,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0056999417171044175,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.007955123896274618
+          },
+          "sample_sd": 0.004099983301687817,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "waiting_time": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      }
+    },
+    "E4": {
+      "execution_coverage": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -3.700743415417188e-17,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.050000000000000044,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.04999999999999993
+          },
+          "sample_sd": 0.04999999999999999,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.08333333333333333,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.15000000000000002,
+            "a00_seed51003": 0.09999999999999998
+          },
+          "sample_sd": 0.07637626158259735,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.08333333333333333,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": -0.04999999999999993,
+            "a00_seed51003": -0.20000000000000007
+          },
+          "sample_sd": 0.10408329997330669,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.01666666666666668,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.15000000000000002,
+            "a00_seed51002": 0.09999999999999998,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.12583057392117916,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "exposure_gap": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "perception_error": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.006217413583289884,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.014203770084906697,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": -0.03285601083477635
+          },
+          "sample_sd": 0.024138100977529265,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.008195561024708253,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.05612332249425475,
+            "a00_seed51003": -0.03153663942012999
+          },
+          "sample_sd": 0.044400930689458905,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.05551902121700003,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.07616878123075413,
+            "a00_seed51002": 0.062029431532293705,
+            "a00_seed51003": 0.02835885088795226
+          },
+          "sample_sd": 0.024560872168980553,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "platform_representation_gap": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0006344166147934557,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.001903249844380367
+          },
+          "sample_sd": 0.0010988418099881182,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.022324439233988847,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.020600122209572858,
+            "a00_seed51002": -0.01654902355348256,
+            "a00_seed51003": -0.029824171938911126
+          },
+          "sample_sd": 0.006803480217087779,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "response_completion_L": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_execution": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0006056027093783353,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.004396564640079537,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.002579756511944531
+          },
+          "sample_sd": 0.003527368733950193,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.004974749585705281,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.007128832627163018,
+            "a00_seed51002": -0.02916365875692084,
+            "a00_seed51003": 0.036959074886873666
+          },
+          "sample_sd": 0.03311395523709257,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.039019780999653385,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": -0.04271915056602904,
+            "a00_seed51003": -0.07434019243293111
+          },
+          "sample_sd": 0.03730790873437932,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0027976939843413393,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.005855869237774147,
+            "a00_seed51002": 0.007718362260573541,
+            "a00_seed51003": 0.006530588930224623
+          },
+          "sample_sd": 0.007517700359846378,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_trigger": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0006130336645280657,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.004397578850458883,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0025584778568746858
+          },
+          "sample_sd": 0.003518314786128952,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.004894132308241946,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.006965025964794758,
+            "a00_seed51002": -0.028965165698692785,
+            "a00_seed51003": 0.036682536658623865
+          },
+          "sample_sd": 0.03287281029363435,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.03896257060860664,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": -0.04258533867148806,
+            "a00_seed51003": -0.07430237315433186
+          },
+          "sample_sd": 0.037283427959610545,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0028068682566157652,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -0.005712625380236425,
+            "a00_seed51002": 0.007642240025225511,
+            "a00_seed51003": 0.006490990124858209
+          },
+          "sample_sd": 0.007400518424715098,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "waiting_time": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -2.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": -2.0,
+            "a00_seed51002": -2.0,
+            "a00_seed51003": -2.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a00_seed51001": 0.0,
+            "a00_seed51002": 0.0,
+            "a00_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      }
+    }
+  },
+  "0.75": {
+    "E2": {
+      "execution_coverage": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.15000000000000002,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.3500000000000001,
+            "a01_seed51002": -0.09999999999999998,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.1802775637731995,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.11666666666666665,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.10000000000000009,
+            "a01_seed51002": 0.09999999999999998,
+            "a01_seed51003": 0.1499999999999999
+          },
+          "sample_sd": 0.028867513459481218,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.03333333333333336,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.25,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.1499999999999999
+          },
+          "sample_sd": 0.20207259421636897,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.13333333333333333,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.30000000000000004,
+            "a01_seed51002": 0.09999999999999998,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.1527525231651947,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.01666666666666668,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.050000000000000044,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.028867513459481315,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "exposure_gap": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.02628046919985344,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.06033961702463453,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.01850179057492579
+          },
+          "sample_sd": 0.030912751843411176,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 2.744026800792036e-05,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 8.232080402376107e-05,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 4.7527938363024884e-05,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.02630790946786136,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.06042193782865829,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.01850179057492579
+          },
+          "sample_sd": 0.030958104946371412,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.025879559359622106,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.05913688750394053,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": -0.01850179057492579
+          },
+          "sample_sd": 0.030250892054512358,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0004009098402313338,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0012027295206940014,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0006943962125349912,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "perception_error": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.12853892900415298,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.2668425821460987,
+            "a01_seed51002": 0.11374213808194353,
+            "a01_seed51003": 0.0050320667844167555
+          },
+          "sample_sd": 0.13153096690393504,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.09700778435434014,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.1285148897621508,
+            "a01_seed51002": -0.11374213808194353,
+            "a01_seed51003": -0.0487663252189261
+          },
+          "sample_sd": 0.042426257585210535,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.03153114464981283,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.13832769238394785,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": -0.04373425843450934
+          },
+          "sample_sd": 0.09503840432241667,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.1313380981736029,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.27524008965444846,
+            "a01_seed51002": -0.11374213808194353,
+            "a01_seed51003": -0.0050320667844167555
+          },
+          "sample_sd": 0.13596068278915543,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0027991691694499257,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.008397507508349777,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.004848303220467648,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "platform_representation_gap": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.013765698482194055,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.029681154448094993,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.011615940998487173
+          },
+          "sample_sd": 0.01495689891895986,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0008913580122657158,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.002674074036797147,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0015438773649778222,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.014657056494459772,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.03235522848489214,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.011615940998487173
+          },
+          "sample_sd": 0.01639059151380076,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.013129365849612681,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.02777215655035087,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": -0.011615940998487173
+          },
+          "sample_sd": 0.01394779591725167,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0006363326325813748,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0019089978977441246,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.001102160450145,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "response_completion_L": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_execution": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.02318213964064623,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.07303042091759815,
+            "a01_seed51002": 0.002673556671152544,
+            "a01_seed51003": 0.0008104453245069143
+          },
+          "sample_sd": 0.043179927694150744,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0034871046427396393,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.010972242775640684,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": 0.0021626278237307783
+          },
+          "sample_sd": 0.0069186443591641895,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.01969503499790659,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.062058178141957465,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0029730731482376926
+          },
+          "sample_sd": 0.03671766215009749,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.01444372369332351,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.04681517307562999,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": -0.0008104453245069143
+          },
+          "sample_sd": 0.028049970540197058,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.00873841594732272,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.02621524784196816,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.015135380398433072,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_trigger": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.021423341665673206,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.06772929224553847,
+            "a01_seed51002": 0.002673556671152544,
+            "a01_seed51003": 0.0007857105773663164
+          },
+          "sample_sd": 0.04011323703027655,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0025094664462340655,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.008039328186123962,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": 0.0021626278237307783
+          },
+          "sample_sd": 0.0053648577114273075,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.01891387521943914,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.05968996405941451,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0029483384010970948
+          },
+          "sample_sd": 0.03534388547749128,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.01270292125760745,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.04156803102134121,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": -0.0007857105773663164
+          },
+          "sample_sd": 0.025015733288727606,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.008720420408065754,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.026161261224197263,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.015104211210130409,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "waiting_time": {
+        "interaction": {
+          "cell_order": [
+            "I11",
+            "I10",
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": 1.0,
+            "I01": -1.0,
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "1111": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule0": {
+          "cell_order": [
+            "I10",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I10": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "pref_given_rule1": {
+          "cell_order": [
+            "I11",
+            "I01"
+          ],
+          "coefficients": {
+            "I01": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref0": {
+          "cell_order": [
+            "I01",
+            "I00"
+          ],
+          "coefficients": {
+            "I00": -1.0,
+            "I01": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "rule_given_pref1": {
+          "cell_order": [
+            "I11",
+            "I10"
+          ],
+          "coefficients": {
+            "I10": -1.0,
+            "I11": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      }
+    },
+    "E4": {
+      "execution_coverage": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.1333333333333333,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.15000000000000002,
+            "a01_seed51002": 0.09999999999999998,
+            "a01_seed51003": 0.1499999999999999
+          },
+          "sample_sd": 0.02886751345948128,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.19999999999999998,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.30000000000000004,
+            "a01_seed51002": 0.09999999999999998,
+            "a01_seed51003": 0.19999999999999996
+          },
+          "sample_sd": 0.10000000000000003,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.11666666666666665,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.09999999999999998,
+            "a01_seed51002": -0.09999999999999998,
+            "a01_seed51003": -0.15000000000000002
+          },
+          "sample_sd": 0.028867513459481315,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.06666666666666665,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.09999999999999998,
+            "a01_seed51003": 0.09999999999999998
+          },
+          "sample_sd": 0.05773502691896256,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "exposure_gap": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.005815877068727493,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.005269022977073712,
+            "a01_seed51002": 0.012178608229108767,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.006107692825257162,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.20379159529909996,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.23802611448470412,
+            "a01_seed51002": -0.16405120410476384,
+            "a01_seed51003": -0.2092974673078319
+          },
+          "sample_sd": 0.03729353578520616,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "perception_error": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0920464913781885,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.11363101083369587,
+            "a01_seed51002": -0.11374213808194353,
+            "a01_seed51003": -0.0487663252189261
+          },
+          "sample_sd": 0.03748176455820013,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.0051144146371499,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.012781481990908838,
+            "a01_seed51002": -0.0025617619205408615,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.006762292317675299,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.08206708775578507,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.11087300671686501,
+            "a01_seed51002": -0.0853920963670427,
+            "a01_seed51003": -0.04993616018344749
+          },
+          "sample_sd": 0.030604192164767605,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "platform_representation_gap": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.002104602602119532,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0011329033835246194,
+            "a01_seed51002": -0.007446711189883215,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.004660950615667823,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.13728378256109472,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.17681719498621623,
+            "a01_seed51002": -0.06588239697173473,
+            "a01_seed51003": -0.16915175572533317
+          },
+          "sample_sd": 0.06195408088113259,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "response_completion_L": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_execution": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.007683585693348038,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.02356168592746588,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": 0.0021626278237307783
+          },
+          "sample_sd": 0.013961830839852533,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0011620159647337165,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.0005682342322992362,
+            "a01_seed51002": -0.000627238308481548,
+            "a01_seed51003": 0.004681520434981934
+          },
+          "sample_sd": 0.0030481230548198707,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.05063260501864497,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.06249737455630544,
+            "a01_seed51002": -0.030915805416105946,
+            "a01_seed51003": -0.05848463508352353
+          },
+          "sample_sd": 0.017192721118081275,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.001666805101597002,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.011768413046558956,
+            "a01_seed51002": -0.0020516464693931535,
+            "a01_seed51003": -0.004716351272374797
+          },
+          "sample_sd": 0.008849125675853362,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "targeting_error_trigger": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.006525822262004192,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.02008839563343434,
+            "a01_seed51002": -0.002673556671152544,
+            "a01_seed51003": 0.0021626278237307783
+          },
+          "sample_sd": 0.011991860466946199,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -7.671784757257161e-05,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.004228780133821108,
+            "a01_seed51002": -0.0006828938438785404,
+            "a01_seed51003": 0.004681520434981934
+          },
+          "sample_sd": 0.00448597269947958,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -0.050756620828857936,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -0.06286942198694434,
+            "a01_seed51002": -0.030915805416105946,
+            "a01_seed51003": -0.05848463508352353
+          },
+          "sample_sd": 0.017321953014290143,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.00035286872987468537,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.007439451296339272,
+            "a01_seed51002": -0.0019921404336179505,
+            "a01_seed51003": -0.004388704673097266
+          },
+          "sample_sd": 0.006253048807739919,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      },
+      "waiting_time": {
+        "B1": {
+          "cell_order": [
+            "B1",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B1": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B2": {
+          "cell_order": [
+            "B2",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B2": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": -2.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": -2.0,
+            "a01_seed51002": -2.0,
+            "a01_seed51003": -2.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B3": {
+          "cell_order": [
+            "B3",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B3": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        },
+        "B4": {
+          "cell_order": [
+            "B4",
+            "B0"
+          ],
+          "coefficients": {
+            "B0": -1.0,
+            "B4": 1.0
+          },
+          "joint_support": 1.0,
+          "mean": 0.0,
+          "missing_pattern_counts": {
+            "11": 3
+          },
+          "n_joint_valid": 3,
+          "n_none_valid": 0,
+          "n_partially_valid": 0,
+          "n_single_sided_valid": 0,
+          "n_total": 3,
+          "paired_values": {
+            "a01_seed51001": 0.0,
+            "a01_seed51002": 0.0,
+            "a01_seed51003": 0.0
+          },
+          "sample_sd": 0.0,
+          "scope": "S0 descriptive pairing and missingness only; no inferential claim"
+        }
+      }
+    }
+  }
+}

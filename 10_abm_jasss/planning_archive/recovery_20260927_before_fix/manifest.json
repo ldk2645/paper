@@ -1,0 +1,14 @@
+[
+  {
+    "original_path": "ABM_JASSS\\abm_jasss\\research_config.py",
+    "backup_file": "research_config.py",
+    "sha256": "C9798328AA882A1CC24E27D7A974B64F5D48D93DEE97493BEEC8F301590218EF",
+    "original_modified": "2026-09-27T22:13:44.0077615+08:00"
+  },
+  {
+    "original_path": "ABM_JASSS\\abm_jasss\\research_world.py",
+    "backup_file": "research_world.py",
+    "sha256": "5A14284E677A25C2B5B623BBE95BD90AE86B641942186B71DFF71F04ED3AE9F8",
+    "original_modified": "2026-09-27T22:17:47.9678701+08:00"
+  }
+]

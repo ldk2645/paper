@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "recorded_at_utc": "2026-10-04T02:49:19.176406+00:00",
+  "scope": "Editorial completion of accepted E2-E4 results; no simulation, raw revalidation or new inference",
+  "document_checks": {
+    "documents": 12,
+    "local_links_checked": 189,
+    "utf8_replacement_characters": 0,
+    "unpaired_code_fences": 0,
+    "errors": []
+  },
+  "frozen_plan_check": {
+    "status": "ready",
+    "models_executed": 0,
+    "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+    "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+    "method": "root read-only run_formal_study.py plan during this review"
+  },
+  "independent_manuscript_review": {
+    "reported_by": "/root/formal_run_review",
+    "result": "no discrepancies",
+    "chinese_effect_table_values": 64,
+    "chinese_interval_pairs": 18,
+    "english_interval_pairs": 48,
+    "primary_csv_line_index_entries": 102,
+    "auxiliary_csv_line_index_entries": 20,
+    "checked_claims": [
+      "Holm family and stratum counts",
+      "all table directions and Holm markers",
+      "three pilot-risk observed halfwidths",
+      "execution coverage and execution tick conversion",
+      "E4 exposure and preference displacement",
+      "all 38 completion-rate auxiliary rows equal one",
+      "non-rejection wording and interval-versus-Holm distinction"
+    ]
+  },
+  "document_sha256": {
+    "README.md": "f130c969caf979447d72844f786825c89cb89cea9577d2b8dacf122e35785c0b",
+    "project_handoff_20261003.md": "b693a1d26612ff0889506143d6fd71e93d771dfd077c46d5db9284fd83cf61b5",
+    "project_handoff_20261004.md": "e7853681f4b5448e05e1c98c0142492d8a0ef21ea5716e384ef6390b883fe0d5",
+    "formal_execution_incident_20261003.md": "67e6f87b728114f7ec7ea203475a1b195aa5469d56b465be2c5bf5c70425a802",
+    "formal_execution_acceptance_20261004.md": "6a7b2046868a6773e28a0c2c5236c9f36b1f3bd0951ca424ada0455eb3f25717",
+    "research_plan.md": "6c8d17f9f2c80fc5f01a0bf050bcc78aa1ee5daa77014972ccf344b33242f2c1",
+    "paper_outline_jasss.md": "135627c2efcf42613a62f1b26176074fbd0e885fdaae97199a8c77c8fbc66f8d",
+    "manuscript_methods_formal_20261004.md": "cebaec852049fe84409221f47061d192c9614ccd0b0367ffa6c729deb99042a9",
+    "manuscript_results_formal_20261004.md": "e2b7056dbdf8f237f2774911e21174c157806ed1876285fcf21201a083532fbd",
+    "manuscript_work_20261004/methods_en.md": "cae9a80b9f9bd690efa00a8b3c7e0db48424cc90624fd9130bab8232184e6f83",
+    "manuscript_work_20261004/results_en.md": "f1dddecdcb6bd276789773bd506efbdbcc90e7b436baecb6d708d41611944bb5",
+    "manuscript_work_20261004/results_evidence_map.md": "bfad278eb1d18cda117e32dfcafad05070f4fb77b302252cf5ae2286291b8135"
+  },
+  "input_sha256": {
+    "outputs/formal_e2_e4_repaired_v2_20261004_analysis/primary.csv": "140a389e05bc8c1c9ecfd6587e7808a1908b9dd6a618857109e317aea876e3e5",
+    "outputs/formal_e2_e4_repaired_v2_20261004_analysis/auxiliary.csv": "faa3e28c31214293f88f77b39806009bfb8c92ad1a8a368aa3d0455ba92bf0ed",
+    "outputs/formal_release_review_20261004/verification.json": "b84e7b36b459f49ff1336871f5e482bb7c94e9b6f301236a318d6769cae41fac"
+  }
+}

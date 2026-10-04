@@ -41,3 +41,9 @@ Thumbs.db
 Desktop.ini
 .idea/
 .vscode/
+
+# Separate local environments and regenerated plotting caches
+.venv-sim/
+.venv-report/
+10_abm_jasss/outputs/formal_reporting_tools_20261003/vendor/
+10_abm_jasss/outputs/formal_reporting_tools_20261003/matplotlib_cache/

@@ -1,0 +1,71 @@
+{
+  "checks": {
+    "a00_seed51001": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    },
+    "a00_seed51002": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    },
+    "a00_seed51003": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    },
+    "a01_seed51001": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    },
+    "a01_seed51002": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    },
+    "a01_seed51003": {
+      "b0_logs_equal_uninterrupted": true,
+      "branch_ordinary_supply_equal": true,
+      "branch_pre_treatment_hash_equal": true,
+      "e2_common_initial_state_and_supply": true,
+      "fork_parent_isolation": true,
+      "inherited_plans_unchanged": true,
+      "snapshot_continuation_equal": true
+    }
+  },
+  "e2_worlds": 24,
+  "e4_suffixes": 30,
+  "formal_ready": false,
+  "groups": 6,
+  "not_claimed": [
+    "Complete S1",
+    "Precision target",
+    "Formal design freeze",
+    "Empirical validity"
+  ],
+  "scope": "Cross-layer records, pairing, continuation and artifact generation",
+  "stage": "S0",
+  "status": "passed"
+}

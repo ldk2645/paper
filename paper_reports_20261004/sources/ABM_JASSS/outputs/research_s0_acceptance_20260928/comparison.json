@@ -1,0 +1,70 @@
+{
+  "batch_ids": [
+    "s0-a564a747abdb4884a45d24ba37b56223",
+    "s0-9913a44b8a3941a5bc4b7a3c73abb38d"
+  ],
+  "byte_compared_files": 664,
+  "compared_files": 720,
+  "formal_ready": false,
+  "ignored_manifest_fields": [
+    "batch_id",
+    "finished_at",
+    "started_at",
+    "workers"
+  ],
+  "ignored_metadata_fields": [
+    "batch_id",
+    "parent_world_id",
+    "world_id"
+  ],
+  "left": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\research_s0_20260928_serial",
+  "normalized_manifest_files": 2,
+  "normalized_metadata_files": 54,
+  "raw_files": 648,
+  "read_only": true,
+  "right": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\research_s0_20260928_parallel",
+  "scope": "S0 stored-artifact reproducibility; no fresh simulation or formal release",
+  "source_hash": "7850fb9466b42d8eb87289a0c3c080d413ab1ce2a2464cc647e1f5703b80c3cc",
+  "stage": "S0",
+  "status": "passed",
+  "validations": [
+    {
+      "analysis_source_sha256": "3770de02b9708087dbb4cfe5bf0d78177455a7bd74444cfe7ff087001fecd209",
+      "batch_id": "s0-a564a747abdb4884a45d24ba37b56223",
+      "e2_worlds": 24,
+      "e4_suffixes": 30,
+      "formal_ready": false,
+      "groups": 6,
+      "hashed_files": 758,
+      "initial_state_validation": "stored initial hashes agree across paired worlds and snapshot references",
+      "paired_diagnostics_rebuilt": true,
+      "pending_events": 145,
+      "read_only": true,
+      "rebuilt_world_summaries": 54,
+      "response_events": 2715,
+      "scope": "Stored artifact integrity and recorded semantics; no fresh simulation or formal release",
+      "stage": "S0",
+      "status": "passed",
+      "trajectory_records": 3240
+    },
+    {
+      "analysis_source_sha256": "3770de02b9708087dbb4cfe5bf0d78177455a7bd74444cfe7ff087001fecd209",
+      "batch_id": "s0-9913a44b8a3941a5bc4b7a3c73abb38d",
+      "e2_worlds": 24,
+      "e4_suffixes": 30,
+      "formal_ready": false,
+      "groups": 6,
+      "hashed_files": 758,
+      "initial_state_validation": "stored initial hashes agree across paired worlds and snapshot references",
+      "paired_diagnostics_rebuilt": true,
+      "pending_events": 145,
+      "read_only": true,
+      "rebuilt_world_summaries": 54,
+      "response_events": 2715,
+      "scope": "Stored artifact integrity and recorded semantics; no fresh simulation or formal release",
+      "stage": "S0",
+      "status": "passed",
+      "trajectory_records": 3240
+    }
+  ]
+}

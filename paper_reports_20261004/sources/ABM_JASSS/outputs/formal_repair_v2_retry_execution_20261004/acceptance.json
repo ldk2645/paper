@@ -1,0 +1,108 @@
+{
+  "additional_independent_samples": 0,
+  "analysis_inventory_hash": "03200e6ea5afd7f6525a74f9cd688ee0710371eac79d5cb8e38c50bb6a75bbe7",
+  "batch_id": "formal_recovered_245a476e7f5646e7bdb8a17b430f1ad6",
+  "batch_inventory_hash": "268388316dad024c97bdb53c4dca35120c163567fb6f78288e988379526c2a3b",
+  "batch_manifest_hash": "0542945f9c14b832408421c3da9617edae50248e983d5e6895bcf8dbc254cbb5",
+  "commands": [
+    {
+      "command": [
+        "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-B",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+        "plan",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_repair_v2_20261003"
+      ],
+      "completed_at": "2026-10-03T16:18:33.090269+00:00",
+      "elapsed_seconds": 1.8900000000139698,
+      "log_sha256": "5de06540e8f669eb45c9c754ffd7690a18327fc663adc393dccd0ff6fb45b05f",
+      "returncode": 0,
+      "stage": "frozen_plan"
+    },
+    {
+      "command": [
+        "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-B",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\recover_formal_study.py",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_20261003",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_repair_v2_20261003",
+        "--output",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004",
+        "--workers",
+        "12"
+      ],
+      "completed_at": "2026-10-03T19:11:22.528398+00:00",
+      "elapsed_seconds": 10369.405999999959,
+      "log_sha256": "5cad658b6d420deefb4c12f9f5dbf7233b61f73bcdabaaea177fcd4fa8ab5055",
+      "returncode": 0,
+      "stage": "recover"
+    },
+    {
+      "command": [
+        "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-B",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+        "validate",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004",
+        "--workers",
+        "12"
+      ],
+      "completed_at": "2026-10-03T21:13:23.258278+00:00",
+      "elapsed_seconds": 7320.7029999999795,
+      "log_sha256": "cebb26de4ac22c082982d35ebb28dd18f51c262e13be39d18520c441c41a620d",
+      "returncode": 0,
+      "stage": "validate"
+    },
+    {
+      "command": [
+        "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-B",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+        "analyze",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004",
+        "--output",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_analysis",
+        "--validation",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_repair_v2_retry_execution_20261004\\validation.json"
+      ],
+      "completed_at": "2026-10-03T21:51:58.837051+00:00",
+      "elapsed_seconds": 2315.5620000000345,
+      "log_sha256": "131ac54001ab3a6b6c31fa8698f0a22fb5bcfc08d874edc3447af9ea6c88abd9",
+      "returncode": 0,
+      "stage": "analyze"
+    },
+    {
+      "command": [
+        "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-B",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_reporting_tools_20261003\\report_formal_results.py",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_analysis",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_repair_v2_20261003",
+        "--output",
+        "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_report"
+      ],
+      "completed_at": "2026-10-03T21:52:11.227460+00:00",
+      "elapsed_seconds": 12.35899999999674,
+      "log_sha256": "9d7552d0129ee70fdfc0d12046636d83c7b3d034fd11d4b5a4f02e2765c800a8",
+      "returncode": 0,
+      "stage": "report"
+    }
+  ],
+  "completed_at": "2026-10-03T21:52:11.472835+00:00",
+  "groups": 1184,
+  "independent_seeds": 1000,
+  "original_status_retained": "failed",
+  "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+  "report_inventory_hash": "c81f7c2e0c20a18305acd2c5920b3fa6a496f96c7929b4bd77407f4177583bd5",
+  "rerun_groups": 1,
+  "reused_groups": 1183,
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal_repaired_v2_retry_execution_and_analysis",
+  "status": "passed",
+  "table_rows": {
+    "auxiliary": 532,
+    "primary": 102
+  },
+  "validation_report_hash": "9e5fa326f17bdc5c1b495c65a20a734ea0d281d57daaf218b5df5cd20788ae4c",
+  "world_records": 21312
+}

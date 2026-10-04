@@ -1,0 +1,15 @@
+{
+  "observed_at": "2026-10-03T16:18:19.189267+00:00",
+  "status": "registration_failed",
+  "error": "Register-ScheduledTask: Access denied; subsequent task queries found no task.",
+  "task_name": "ABM_JASSS_Formal_Recovery_20261004",
+  "task_created": false,
+  "process_launched": false,
+  "generated_registration_json_is_not_valid_confirmation": true,
+  "failed_attempt_files_sha256": {
+    "register_task.ps1": "337aeaf4e68a99030383ffd32c9c938da609f0a86bf4800286aaf464754ff4d4",
+    "registration.json": "59d2024e66a10b94104e05ec3998fd7d92c9d674ce937ab81b0d5522b7b15a2e",
+    "task_configuration.json": "1e911d0d119e2710877184423f4c91c68b1420de279633cd60ce2e8873efbeca"
+  },
+  "next_attempt": "same ordinary-user task, Interactive logon; retain Windows login during execution"
+}

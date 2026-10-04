@@ -1,0 +1,12 @@
+{
+  "launch_verification.json": "1b2d5339230d0955d4e96697bf2f880f92d21737a879f0d1ded4d680f0ae91f5",
+  "check_launch.py": "579e20e9cb99a64b1d399626340fb4485995ef68f9292938cfe89b255b03244c",
+  "task_configuration.json": "874ec14a8f13b5c54da468aadf1f58847b07374d3a9bac0e91cd9e200c8d21db",
+  "register_task.ps1": "95bb80bcf95a9099eb81d262581927856fb66865d995378eab5900549d8a0c88",
+  "run_task.py": "e3ff12ffbefb68d197e1fab8dd6b549cef13d44461e755fb9b420be5e4699905",
+  "registered_task.xml": "e47672576745075aeb9800650646f7a18a54d330b7c2915ceabd68bf673b3f16",
+  "registered_task_utf8.xml": "8ca0cd3125f843a824b6fae8fa94f860dd02b46a05ff4b234660a2287b823357",
+  "registration.json": "01b7804249f806fd6011342de3af91bfe4f194b0c9ef3fbcb04513f4feec9086",
+  "process.json": "849c849a7e8fe5194bfa6edb3faaa6cf3c3eacfa0cf2751954e5c3f594aee370",
+  "child.json": "cab4bdc8aed42e5b6830df1cdc66c5cfe04e774f08e29957d9f3fe9003117734"
+}

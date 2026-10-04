@@ -1,0 +1,60 @@
+{
+  "batch_id": "s0-a564a747abdb4884a45d24ba37b56223",
+  "code_version": "0.5.0-dev",
+  "expected_groups": 6,
+  "expected_world_records": 54,
+  "formal_ready": false,
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "schema_version": "research-1",
+  "scope": "Development technical validation; not formal, precision, or empirical evidence",
+  "source_hash": "7850fb9466b42d8eb87289a0c3c080d413ab1ce2a2464cc647e1f5703b80c3cc",
+  "specification": {
+    "alphas": [
+      0.25,
+      0.75
+    ],
+    "branches": {
+      "B0": {},
+      "B1": {
+        "pref_info": true
+      },
+      "B2": {
+        "government_delay": 1
+      },
+      "B3": {
+        "response_capacity": 2
+      },
+      "B4": {
+        "alpha": 0.0
+      }
+    },
+    "fork_tick": 30,
+    "formal_ready": false,
+    "model": {
+      "completion_end": 39,
+      "completion_followup": 20,
+      "completion_start": 10,
+      "final_window": 20,
+      "government_delay": 3,
+      "inference_grid": 4,
+      "n_agents": 24,
+      "reference_agents": 4,
+      "response_capacity": 1,
+      "steps": 60,
+      "survey_size": 8
+    },
+    "seeds": [
+      51001,
+      51002,
+      51003
+    ],
+    "stage": "S0"
+  },
+  "specification_hash": "1e1e9871d70ec324f1f707e3a2e3a26865abae6b4a2b4e0f89df4a7931a793cc",
+  "stage": "S0",
+  "started_at": "2026-09-28T14:09:25.386307+00:00",
+  "status": "running",
+  "workers": 1
+}

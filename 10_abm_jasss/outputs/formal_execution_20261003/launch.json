@@ -1,0 +1,22 @@
+{
+  "additional_sampling": false,
+  "analysis": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_20261003_analysis",
+  "batch": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_20261003",
+  "registry": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_20261003",
+  "registry_hash": "707b7d97cf8c3b0ada81caa246610fc6346b9fc4c224897b00171cf19931a3d8",
+  "resource_preflight": {
+    "disk_free_bytes": 534419972096,
+    "logical_cpus": 20,
+    "memory_available_bytes": 14607740928,
+    "memory_total_bytes": 33597796352
+  },
+  "sample_sizes": {
+    "0.25": 184,
+    "0.75": 1000
+  },
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal_execution",
+  "started_at": "2026-10-03T05:43:16.004321+00:00",
+  "workers": 12,
+  "wrapper_hash": "fca7406d970f623d63c853c65681198d5bc93e6dae35e4eb31a46406480a23c5"
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "ABM_JASSS_Formal_Recovery_20261004",
+  "registered_at": "2026-10-03T16:18:30.2743389Z",
+  "user": "LDK\\17003",
+  "logon_type": "Interactive",
+  "run_level": "Limited",
+  "recurring": false,
+  "automatic_retry": false,
+  "wrapper_hash": "11f328afd1c2e92ee2bbb8e000f789e0b0e4afbb900304732007dc800356ea97",
+  "runner_hash": "e3ff12ffbefb68d197e1fab8dd6b549cef13d44461e755fb9b420be5e4699905"
+}

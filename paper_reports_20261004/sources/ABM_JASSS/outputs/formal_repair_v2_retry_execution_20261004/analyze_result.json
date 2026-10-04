@@ -1,0 +1,18 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+    "analyze",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004",
+    "--output",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_analysis",
+    "--validation",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_repair_v2_retry_execution_20261004\\validation.json"
+  ],
+  "completed_at": "2026-10-03T21:51:58.837051+00:00",
+  "elapsed_seconds": 2315.5620000000345,
+  "log_sha256": "131ac54001ab3a6b6c31fa8698f0a22fb5bcfc08d874edc3447af9ea6c88abd9",
+  "returncode": 0,
+  "stage": "analyze"
+}

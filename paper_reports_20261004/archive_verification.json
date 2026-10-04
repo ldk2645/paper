@@ -1,0 +1,645 @@
+{
+  "status": "passed",
+  "verified_at_utc": "2026-10-04T03:02:21.003442+00:00",
+  "source_copy_count": 157,
+  "source_copy_bytes": 9068614,
+  "all_source_and_copy_sha256_match": true,
+  "original_files_modified": false,
+  "source_copy_files": [
+    {
+      "source_relative_path": "ABM_JASSS/README.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/project_handoff_20261004.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_experiment_protocol.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/innovation_preservation.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/research_plan.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/technical_checklist_response_20260927.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/ODD_research.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/comparison.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/descriptive_counts.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/research_engine.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/revision_validation_20260926.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/s0_validation_20260928.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/s1_validation_20260929.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/signal_and_outcome_contract.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial_command.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/artifact_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.csv",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/report.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/stability.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/precision_pilot_protocol_20260930.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/precision_pilot_validation_20261002.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_protocol_20261003.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_freeze_validation_20261003.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/execution_plan.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/registry_validation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/artifact_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/configuration.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/inference_spec.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/seed_audit.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/seed_registry.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/artifact_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/configuration.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/inference_spec.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_audit.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_registry.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_incident_20261003.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_numeric_repair_protocol_20261003.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_numeric_repair_resume_protocol_20261003.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_20261003/failures.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_20261003/manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/numeric_repair_policy.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/repair_context.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_interruption_20261003/observation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/execution_plan.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/registry_validation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_interruption_20261004/observation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_acceptance_20261004.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/configuration.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/failures.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/recovery_provenance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/analysis_manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/artifact_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/auxiliary.csv",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/inference.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/primary.csv",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/report.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/artifact_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/auxiliary_zh.csv",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.pdf",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.png",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.svg",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/primary_zh.csv",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/reporting_manifest.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/summary.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_release_review_20261004/manuscript_review.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_release_review_20261004/verification.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/acceptance.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analysis.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_started.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/evidence_hashes.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/execute.py",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_started.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/launch.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_started.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_started.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate.log",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_started.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validation.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_task_20261004/disable_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_task_20261004/task_result.json",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/empirical_motivation_protocol.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_core_revision.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_methods_formal_20261004.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_results_formal_20261004.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/methods_en.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/methods_evidence_audit.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/results_en.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/results_evidence_map.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/paper_outline_jasss.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/diagnostic_report.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/core_restoration_v040_20260926/core_pilot_report.md",
+      "source_and_copy_match": true
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/response_alignment_v040_20260926/report.md",
+      "source_and_copy_match": true
+    }
+  ],
+  "metadata_sha256": {
+    "README.md": "c9e76653b43e1eca5ea106159dd412cd3709c5e192b4af77cfeda3a9058801df",
+    "manifest.csv": "a76d5abe8bdff9560e5123bdb43c09fb1eaa40eafb84cacdbd301a28b5c7f6df",
+    "manifest.json": "89c396d61bd60e87c74c1a5cb343b089cee697cbb38b6f72450d583e60ae9e3e",
+    "link_audit.json": "4056f5aa2b45ed525e9c7ac3c169ea2c8676dbde912a02cee0d8e6f307defbfd",
+    "build_archive.py": "9d14796e36742780de3ea80cfafec172008cc97018a4837f8cb8307a2abb725a"
+  }
+}

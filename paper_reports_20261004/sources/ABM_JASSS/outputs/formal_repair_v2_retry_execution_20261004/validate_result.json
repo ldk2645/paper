@@ -1,0 +1,16 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+    "validate",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004",
+    "--workers",
+    "12"
+  ],
+  "completed_at": "2026-10-03T21:13:23.258278+00:00",
+  "elapsed_seconds": 7320.7029999999795,
+  "log_sha256": "cebb26de4ac22c082982d35ebb28dd18f51c262e13be39d18520c441c41a620d",
+  "returncode": 0,
+  "stage": "validate"
+}

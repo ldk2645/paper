@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "scripts/validate_precision_pilot.py",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_expansion",
+    "--workers",
+    "3"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "elapsed_seconds": 459.23399999999674,
+  "log_sha256": "43017fa333d3f8cd688a0b2e2918247d2c220db8da9d6a6a59a86ee52199c7dc",
+  "name": "validate_expansion",
+  "returncode": 0
+}

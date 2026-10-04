@@ -1,0 +1,14 @@
+{
+  "task_name": "ABM_JASSS_Formal_Recovery_20261004",
+  "root": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "python": "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "pythonw": "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\pythonw.exe",
+  "wrapper": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_repair_v2_retry_execution_20261004\\execute.py",
+  "wrapper_sha256": "11f328afd1c2e92ee2bbb8e000f789e0b0e4afbb900304732007dc800356ea97",
+  "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+  "trigger": "manual_once",
+  "recurring": false,
+  "automatic_retry": false,
+  "run_level": "Limited",
+  "logon_type": "Interactive"
+}

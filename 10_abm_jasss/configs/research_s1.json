@@ -1,0 +1,40 @@
+{
+  "stage": "S1",
+  "formal_ready": false,
+  "model": {
+    "n_agents": 24,
+    "steps": 60,
+    "final_window": 20,
+    "survey_size": 8,
+    "inference_grid": 4,
+    "reference_agents": 4,
+    "completion_start": 10,
+    "completion_end": 39,
+    "completion_followup": 20,
+    "government_delay": 3,
+    "response_capacity": 1
+  },
+  "alphas": [0.25, 0.75],
+  "seeds": [52001, 52002],
+  "administrative_delays": [0, 1, 3, 10],
+  "observation_delays": [0, 2],
+  "scheduling_capacities": [1, 2],
+  "dynamics": {
+    "alphas": [0.25, 0.5, 0.75],
+    "stage_ticks": 20,
+    "recovery_fork": 30,
+    "recovery_end": 60,
+    "reference_start": 10,
+    "reference_end": 29,
+    "reference_alpha": 0.0,
+    "recovery_window": 5,
+    "recovery_consecutive": 3,
+    "recovery_tolerance": 0.05,
+    "sizes": [12, 24],
+    "durations": [60, 90],
+    "initial_conditions": {"balanced": [1, 1, 1, 1], "skewed": [1, 1, 1, 3]},
+    "supply_scaling": "proportional",
+    "capacity_scaling": "fixed",
+    "interventions": {"recovery_control": {}, "recovery_alpha0": {"alpha": 0.0}, "recovery_information": {"pref_info": true}}
+  }
+}

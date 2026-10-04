@@ -1,0 +1,11 @@
+START frozen_plan
+PASS frozen_plan: 1.9s
+START recover
+PASS recover: 10369.4s
+START validate
+PASS validate: 7320.7s
+START analyze
+PASS analyze: 2315.6s
+START report
+PASS report: 12.4s
+COMPLETE repaired formal batch, validation, analysis and figures

@@ -1,0 +1,14 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\scripts\\run_formal_study.py",
+    "plan",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_20261003"
+  ],
+  "elapsed_seconds": 0.9530000000086147,
+  "finished_at": "2026-10-03T05:43:16.972468+00:00",
+  "log_sha256": "347bee8e852c693f4d5d19cdb649a589404a3edd8ca49965d72313602ef7640b",
+  "returncode": 0,
+  "stage": "plan"
+}

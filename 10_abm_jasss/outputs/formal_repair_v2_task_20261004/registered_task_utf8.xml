@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Task xmlns:ns0="http://schemas.microsoft.com/windows/2004/02/mit/task" version="1.3">
+  <ns0:RegistrationInfo>
+    <ns0:Description>One manual ABM_JASSS formal recovery, full validation, frozen analysis and reports. No recurring trigger or automatic retry. Disables itself when finished.</ns0:Description>
+    <ns0:URI>\ABM_JASSS_Formal_Recovery_20261004</ns0:URI>
+  </ns0:RegistrationInfo>
+  <ns0:Principals>
+    <ns0:Principal id="Author">
+      <ns0:UserId>S-1-5-21-1913897349-888099192-3596512878-1001</ns0:UserId>
+      <ns0:LogonType>InteractiveToken</ns0:LogonType>
+    </ns0:Principal>
+  </ns0:Principals>
+  <ns0:Settings>
+    <ns0:DisallowStartIfOnBatteries>false</ns0:DisallowStartIfOnBatteries>
+    <ns0:StopIfGoingOnBatteries>false</ns0:StopIfGoingOnBatteries>
+    <ns0:ExecutionTimeLimit>PT0S</ns0:ExecutionTimeLimit>
+    <ns0:MultipleInstancesPolicy>IgnoreNew</ns0:MultipleInstancesPolicy>
+    <ns0:IdleSettings>
+      <ns0:Duration>PT10M</ns0:Duration>
+      <ns0:WaitTimeout>PT1H</ns0:WaitTimeout>
+      <ns0:StopOnIdleEnd>true</ns0:StopOnIdleEnd>
+      <ns0:RestartOnIdle>false</ns0:RestartOnIdle>
+    </ns0:IdleSettings>
+    <ns0:UseUnifiedSchedulingEngine>true</ns0:UseUnifiedSchedulingEngine>
+  </ns0:Settings>
+  <ns0:Triggers />
+  <ns0:Actions Context="Author">
+    <ns0:Exec>
+      <ns0:Command>C:\Users\17003\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\pythonw.exe</ns0:Command>
+      <ns0:Arguments>-B "D:\UserData\Desktop\ZLS\ABM_JASSS\outputs\formal_repair_v2_task_20261004\run_task.py"</ns0:Arguments>
+      <ns0:WorkingDirectory>D:\UserData\Desktop\ZLS\ABM_JASSS</ns0:WorkingDirectory>
+    </ns0:Exec>
+  </ns0:Actions>
+</ns0:Task>

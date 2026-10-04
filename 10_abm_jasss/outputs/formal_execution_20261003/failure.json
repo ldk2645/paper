@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_execution_20261003\\execute.py\", line 119, in <module>\n    main()\n  File \"D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_execution_20261003\\execute.py\", line 80, in main\n    raise RuntimeError(f'{stage} failed; inspect {log_path}')\nRuntimeError: run failed; inspect D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_execution_20261003\\run.log\n"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-27",
+  "status": "passed",
+  "scope": "plan documents only; no simulations or code changes",
+  "checklist_items_covered": 19,
+  "experiment_matrix_rows": 18,
+  "local_document_links": "valid",
+  "source_checklist_sha256": "5ec8a7a8e51a34de9690ab48361f639f9211ea10c4ca02817a1bfe0e7090ba09",
+  "five_model_and_diagnostic_source_files_unchanged": true,
+  "formal_ready": false,
+  "document_sha256": {
+    "research_plan.md": "b1e970de3209c73e77fb104c1e9a45c6ee3148331b8871be4ebc4428ed253f16",
+    "formal_experiment_protocol.md": "9603b2ae82ece96c62e656b2588f8b41936d54d9ad704ccfcfd035c72449b17e",
+    "technical_checklist_response_20260927.md": "e8b897e6eb43859e832e6b5e515d544b3d46549be37252c16470038cea13e9f0",
+    "experiment_matrix.csv": "8510fde7846d3dbd47022c15f84fdc51f35b0a778b6319294724c43381488a5d",
+    "README.md": "b58eefda2244bc46c29aa7c358257808a86abfa2e329e684ad4e7794dadac4a2",
+    "paper_outline_jasss.md": "e32248edc716c603510be3d434710868c93cfe9ce5aa0c719f34905774abbd07",
+    "innovation_preservation.md": "d195c7e3db0d3a9bf0997e1043423a6b4f66f80b4427779987df10e8f231b04d"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "formal_ready": true,
+  "groups": 1184,
+  "independent_seeds": 1000,
+  "models_executed": 0,
+  "registry_hash": "707b7d97cf8c3b0ada81caa246610fc6346b9fc4c224897b00171cf19931a3d8",
+  "sample_sizes": {
+    "0.25": 184,
+    "0.75": 1000
+  },
+  "scope": "Frozen E2/E3/E4 design; no dynamic or empirical study release",
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal_plan",
+  "statistical_arms": 22496,
+  "status": "ready",
+  "world_records": 21312
+}

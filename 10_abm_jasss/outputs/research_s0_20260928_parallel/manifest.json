@@ -1,0 +1,79 @@
+{
+  "batch_id": "s0-9913a44b8a3941a5bc4b7a3c73abb38d",
+  "code_version": "0.5.0-dev",
+  "completed_groups": 6,
+  "expected_groups": 6,
+  "expected_world_records": 54,
+  "failed_groups": 0,
+  "finished_at": "2026-09-28T14:09:37.716263+00:00",
+  "formal_ready": false,
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "schema_version": "research-1",
+  "scope": "Development technical validation; not formal, precision, or empirical evidence",
+  "source_hash": "7850fb9466b42d8eb87289a0c3c080d413ab1ce2a2464cc647e1f5703b80c3cc",
+  "source_sha256": {
+    "__init__.py": "db19bd2562e9992ebd44e88b64895921d7492c7f172a12350927a499ce5e8811",
+    "cli.py": "0c7f0993a46a3d25a2c1885d6d4706aabf95b6fa4ace454e20a64e510502856b",
+    "governance.py": "a16d5d64d4d66108fbb87419f211b253b6c001db01076b63b7202e1978d9050d",
+    "government_sensing.py": "65ebf387f3be1cb72f2729a3f66a0de3b4077790c53bfb7705da73beac487213",
+    "model.py": "3fe2d6db2a9531a3f9f04ee8f58c298d4467c5aafebea5016f56f7cf48d0b074",
+    "public_signals.py": "bcc64cb92bdfb27ccb9cba285c81220c06bc80371cb8f05d05a0a2f0937527c9",
+    "research_cli.py": "bb21e4b6b1ecac787ed8b793217d8dbf1d525e9eb10f07d9d42eba25ec1f03bc",
+    "research_config.py": "5f2e30e02533058ae0f77f9e244f0390b17535d6b2514c99b8ced3485a2230c6",
+    "research_governance.py": "5b3c37adee1b731df14d678b05fb5ea15df58a0daf569e6973d7e75368794a84",
+    "research_outcomes.py": "3770de02b9708087dbb4cfe5bf0d78177455a7bd74444cfe7ff087001fecd209",
+    "research_randomness.py": "6d2b779e56d9f7b37009ad31fa4f5aff66d757bc5aecdd970a8475d3c3e4349c",
+    "research_world.py": "cc9976dd156af86ec82f4381f556081c4dc7fc91fd258353c836aa8573626c53",
+    "response_diagnostics.py": "eca3b02298b9d743c43e22cc9bcd0b77684b748dc4c06c4d90d943a42551078d"
+  },
+  "specification": {
+    "alphas": [
+      0.25,
+      0.75
+    ],
+    "branches": {
+      "B0": {},
+      "B1": {
+        "pref_info": true
+      },
+      "B2": {
+        "government_delay": 1
+      },
+      "B3": {
+        "response_capacity": 2
+      },
+      "B4": {
+        "alpha": 0.0
+      }
+    },
+    "fork_tick": 30,
+    "formal_ready": false,
+    "model": {
+      "completion_end": 39,
+      "completion_followup": 20,
+      "completion_start": 10,
+      "final_window": 20,
+      "government_delay": 3,
+      "inference_grid": 4,
+      "n_agents": 24,
+      "reference_agents": 4,
+      "response_capacity": 1,
+      "steps": 60,
+      "survey_size": 8
+    },
+    "seeds": [
+      51001,
+      51002,
+      51003
+    ],
+    "stage": "S0"
+  },
+  "specification_hash": "1e1e9871d70ec324f1f707e3a2e3a26865abae6b4a2b4e0f89df4a7931a793cc",
+  "stage": "S0",
+  "started_at": "2026-09-28T14:09:25.373478+00:00",
+  "status": "complete",
+  "workers": 2,
+  "world_records": 54
+}

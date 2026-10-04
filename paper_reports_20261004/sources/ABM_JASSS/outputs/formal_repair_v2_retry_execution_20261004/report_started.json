@@ -1,0 +1,14 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_reporting_tools_20261003\\report_formal_results.py",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_analysis",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_repair_v2_20261003",
+    "--output",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_report"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "stage": "report",
+  "started_at": "2026-10-03T21:51:58.851129+00:00"
+}

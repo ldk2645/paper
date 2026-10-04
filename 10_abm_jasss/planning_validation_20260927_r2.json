@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-27",
+  "revision": "r2",
+  "status": "passed",
+  "scope": "Plan and protocol documents only; no simulation code edits or new simulation tests/runs",
+  "formal_ready": false,
+  "current_model_version": "0.4.0",
+  "source_supplement_sha256": "6d1156d9d3f9cee9ddc4d0de2a5fa6cff965da291e2493801dad9328fab2a3ab",
+  "previous_revision_archive": "planning_archive/20260927_r1",
+  "previous_revision_document_hashes_match": {
+    "research_plan.md": true,
+    "formal_experiment_protocol.md": true,
+    "technical_checklist_response_20260927.md": true,
+    "experiment_matrix.csv": true,
+    "README.md": true,
+    "paper_outline_jasss.md": true,
+    "innovation_preservation.md": true
+  },
+  "original_checklist_items": 19,
+  "supplement_contract_items": 6,
+  "planned_acceptance_cases": 14,
+  "new_acceptance_cases_executed": false,
+  "experiment_matrix_rows": 19,
+  "paper_chapters": 7,
+  "core_innovations": 5,
+  "local_markdown_links_checked": 28,
+  "five_model_and_diagnostic_source_files_unchanged": true,
+  "model_source_sha256": {
+    "__init__.py": "db19bd2562e9992ebd44e88b64895921d7492c7f172a12350927a499ce5e8811",
+    "model.py": "3fe2d6db2a9531a3f9f04ee8f58c298d4467c5aafebea5016f56f7cf48d0b074",
+    "governance.py": "a16d5d64d4d66108fbb87419f211b253b6c001db01076b63b7202e1978d9050d",
+    "cli.py": "0c7f0993a46a3d25a2c1885d6d4706aabf95b6fa4ace454e20a64e510502856b",
+    "response_diagnostics.py": "eca3b02298b9d743c43e22cc9bcd0b77684b748dc4c06c4d90d943a42551078d"
+  },
+  "legacy_suite_manifest_unchanged": true,
+  "legacy_source_files_verified_against_existing_manifest": 984,
+  "primary_outcome_1": "platform_representation_gap = TV(P_t, S_public_t)",
+  "architecture_recovery_basis": "exposure_gap = TV(P_t, E_t)",
+  "legacy_output_fields_reinterpreted": false,
+  "review": "Independent semantic review incorporated: legal survey without public data; evidence identity; missing-signal delivery time; joint measurable support for all main outcomes",
+  "document_sha256": {
+    "research_plan.md": "5bcf9ec20cb209cecc7009b8d35d3f1835d88aaeffb8931e6a498db6acf19536",
+    "formal_experiment_protocol.md": "86c19d7f102d178fcc048e3103db9270d793c5e20ef27009ff7afecc16332c32",
+    "signal_and_outcome_contract.md": "517ec0f995bdd3a36fd21f406765178712b013d6d609566ceb6c3c2361700de9",
+    "technical_checklist_response_20260927.md": "5b354472753c0eeec2b9fafa9a02771d5dfbade12b1a9865a5101bf5dbb65412",
+    "experiment_matrix.csv": "58a82a5122459f91b1b0ad5e5be0a164a090d5d49556529cd9810075eea1378c",
+    "README.md": "c097f0545b67636f561e5050422291ab47f24e15ac50032021b377b0c506b0bd",
+    "paper_outline_jasss.md": "dd237cdb744370547e099d30ff233fc30a2132696f053f0fb4964e18e0e31d72",
+    "innovation_preservation.md": "9d8d0fab381b640e84037d42c7fe9842a9a2fd522ed7aeba30469dab9e91d316",
+    "empirical_motivation_protocol.md": "818f542dfabbc1f6221e7eba5b54a1767c41bb1c603bd880c83e3a4ca83e3647"
+  }
+}

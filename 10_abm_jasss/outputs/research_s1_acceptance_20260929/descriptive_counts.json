@@ -1,0 +1,44 @@
+{
+  "trajectory_records": 8280,
+  "response_event_records": 6248,
+  "pending_event_records": 306,
+  "support": {
+    "closed": {
+      "records": 80,
+      "statuses": {
+        "complete": 80
+      },
+      "measurable": {
+        "platform_representation_gap": 80,
+        "perception_error": 80,
+        "targeting_error_trigger": 80,
+        "response_completion_L": 80
+      }
+    },
+    "replay": {
+      "records": 16,
+      "statuses": {
+        "complete": 16
+      },
+      "measurable": {
+        "platform_representation_gap": 16,
+        "perception_error": 16,
+        "targeting_error_trigger": 16,
+        "response_completion_L": 16
+      }
+    },
+    "dynamic": {
+      "records": 38,
+      "statuses": {
+        "checkpoint": 14,
+        "complete": 24
+      },
+      "measurable": {
+        "platform_representation_gap": 24,
+        "perception_error": 24,
+        "targeting_error_trigger": 24,
+        "response_completion_L": 30
+      }
+    }
+  }
+}

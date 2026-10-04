@@ -1,0 +1,203 @@
+{
+  "formal_ready": false,
+  "groups": [
+    {
+      "checks": {
+        "common_initial_state": true,
+        "common_ordinary_supply": true,
+        "fixed_donor_plan": true
+      },
+      "group_id": "a00_seed52001",
+      "kind": "mechanisms",
+      "run_ids": [
+        "closed_a00_seed52001_baseline",
+        "closed_a00_seed52001_delay0_obs0",
+        "closed_a00_seed52001_delay0_obs2",
+        "closed_a00_seed52001_delay1_obs0",
+        "closed_a00_seed52001_delay1_obs2",
+        "closed_a00_seed52001_delay3_obs0",
+        "closed_a00_seed52001_delay3_obs2",
+        "closed_a00_seed52001_delay10_obs0",
+        "closed_a00_seed52001_delay10_obs2",
+        "closed_a00_seed52001_capacity1",
+        "closed_a00_seed52001_capacity2",
+        "closed_a00_seed52001_heat_off",
+        "closed_a00_seed52001_alpha_zero",
+        "closed_a00_seed52001_heat_control_off",
+        "closed_a00_seed52001_reply_off",
+        "closed_a00_seed52001_softmax",
+        "closed_a00_seed52001_softmax_heat_off",
+        "closed_a00_seed52001_trust10",
+        "closed_a00_seed52001_trust01",
+        "closed_a00_seed52001_trust00",
+        "replay_a00_seed52001_delay0",
+        "replay_a00_seed52001_delay1",
+        "replay_a00_seed52001_delay3",
+        "replay_a00_seed52001_delay10"
+      ]
+    },
+    {
+      "checks": {
+        "common_initial_state": true,
+        "common_ordinary_supply": true,
+        "fixed_donor_plan": true
+      },
+      "group_id": "a00_seed52002",
+      "kind": "mechanisms",
+      "run_ids": [
+        "closed_a00_seed52002_baseline",
+        "closed_a00_seed52002_delay0_obs0",
+        "closed_a00_seed52002_delay0_obs2",
+        "closed_a00_seed52002_delay1_obs0",
+        "closed_a00_seed52002_delay1_obs2",
+        "closed_a00_seed52002_delay3_obs0",
+        "closed_a00_seed52002_delay3_obs2",
+        "closed_a00_seed52002_delay10_obs0",
+        "closed_a00_seed52002_delay10_obs2",
+        "closed_a00_seed52002_capacity1",
+        "closed_a00_seed52002_capacity2",
+        "closed_a00_seed52002_heat_off",
+        "closed_a00_seed52002_alpha_zero",
+        "closed_a00_seed52002_heat_control_off",
+        "closed_a00_seed52002_reply_off",
+        "closed_a00_seed52002_softmax",
+        "closed_a00_seed52002_softmax_heat_off",
+        "closed_a00_seed52002_trust10",
+        "closed_a00_seed52002_trust01",
+        "closed_a00_seed52002_trust00",
+        "replay_a00_seed52002_delay0",
+        "replay_a00_seed52002_delay1",
+        "replay_a00_seed52002_delay3",
+        "replay_a00_seed52002_delay10"
+      ]
+    },
+    {
+      "checks": {
+        "common_initial_state": true,
+        "common_ordinary_supply": true,
+        "fixed_donor_plan": true
+      },
+      "group_id": "a01_seed52001",
+      "kind": "mechanisms",
+      "run_ids": [
+        "closed_a01_seed52001_baseline",
+        "closed_a01_seed52001_delay0_obs0",
+        "closed_a01_seed52001_delay0_obs2",
+        "closed_a01_seed52001_delay1_obs0",
+        "closed_a01_seed52001_delay1_obs2",
+        "closed_a01_seed52001_delay3_obs0",
+        "closed_a01_seed52001_delay3_obs2",
+        "closed_a01_seed52001_delay10_obs0",
+        "closed_a01_seed52001_delay10_obs2",
+        "closed_a01_seed52001_capacity1",
+        "closed_a01_seed52001_capacity2",
+        "closed_a01_seed52001_heat_off",
+        "closed_a01_seed52001_alpha_zero",
+        "closed_a01_seed52001_heat_control_off",
+        "closed_a01_seed52001_reply_off",
+        "closed_a01_seed52001_softmax",
+        "closed_a01_seed52001_softmax_heat_off",
+        "closed_a01_seed52001_trust10",
+        "closed_a01_seed52001_trust01",
+        "closed_a01_seed52001_trust00",
+        "replay_a01_seed52001_delay0",
+        "replay_a01_seed52001_delay1",
+        "replay_a01_seed52001_delay3",
+        "replay_a01_seed52001_delay10"
+      ]
+    },
+    {
+      "checks": {
+        "common_initial_state": true,
+        "common_ordinary_supply": true,
+        "fixed_donor_plan": true
+      },
+      "group_id": "a01_seed52002",
+      "kind": "mechanisms",
+      "run_ids": [
+        "closed_a01_seed52002_baseline",
+        "closed_a01_seed52002_delay0_obs0",
+        "closed_a01_seed52002_delay0_obs2",
+        "closed_a01_seed52002_delay1_obs0",
+        "closed_a01_seed52002_delay1_obs2",
+        "closed_a01_seed52002_delay3_obs0",
+        "closed_a01_seed52002_delay3_obs2",
+        "closed_a01_seed52002_delay10_obs0",
+        "closed_a01_seed52002_delay10_obs2",
+        "closed_a01_seed52002_capacity1",
+        "closed_a01_seed52002_capacity2",
+        "closed_a01_seed52002_heat_off",
+        "closed_a01_seed52002_alpha_zero",
+        "closed_a01_seed52002_heat_control_off",
+        "closed_a01_seed52002_reply_off",
+        "closed_a01_seed52002_softmax",
+        "closed_a01_seed52002_softmax_heat_off",
+        "closed_a01_seed52002_trust10",
+        "closed_a01_seed52002_trust01",
+        "closed_a01_seed52002_trust00",
+        "replay_a01_seed52002_delay0",
+        "replay_a01_seed52002_delay1",
+        "replay_a01_seed52002_delay3",
+        "replay_a01_seed52002_delay10"
+      ]
+    },
+    {
+      "checks": {
+        "dynamic_registration_and_lineage": true
+      },
+      "group_id": "dynamics_seed52001",
+      "kind": "dynamics",
+      "run_ids": [
+        "dynamic_dynamics_seed52001_healthy_candidate",
+        "dynamic_dynamics_seed52001_recovery_parent",
+        "dynamic_dynamics_seed52001_continuation_00_forward",
+        "dynamic_dynamics_seed52001_continuation_01_forward",
+        "dynamic_dynamics_seed52001_continuation_02_forward",
+        "dynamic_dynamics_seed52001_continuation_03_reverse",
+        "dynamic_dynamics_seed52001_continuation_04_reverse",
+        "dynamic_dynamics_seed52001_continuation_05_reverse",
+        "dynamic_dynamics_seed52001_recovery_control",
+        "dynamic_dynamics_seed52001_recovery_alpha0",
+        "dynamic_dynamics_seed52001_recovery_information",
+        "dynamic_dynamics_seed52001_size_duration_balanced_n12_t60",
+        "dynamic_dynamics_seed52001_size_duration_balanced_n12_t90",
+        "dynamic_dynamics_seed52001_size_duration_balanced_n24_t60",
+        "dynamic_dynamics_seed52001_size_duration_balanced_n24_t90",
+        "dynamic_dynamics_seed52001_size_duration_skewed_n12_t60",
+        "dynamic_dynamics_seed52001_size_duration_skewed_n12_t90",
+        "dynamic_dynamics_seed52001_size_duration_skewed_n24_t60",
+        "dynamic_dynamics_seed52001_size_duration_skewed_n24_t90"
+      ]
+    },
+    {
+      "checks": {
+        "dynamic_registration_and_lineage": true
+      },
+      "group_id": "dynamics_seed52002",
+      "kind": "dynamics",
+      "run_ids": [
+        "dynamic_dynamics_seed52002_healthy_candidate",
+        "dynamic_dynamics_seed52002_recovery_parent",
+        "dynamic_dynamics_seed52002_continuation_00_forward",
+        "dynamic_dynamics_seed52002_continuation_01_forward",
+        "dynamic_dynamics_seed52002_continuation_02_forward",
+        "dynamic_dynamics_seed52002_continuation_03_reverse",
+        "dynamic_dynamics_seed52002_continuation_04_reverse",
+        "dynamic_dynamics_seed52002_continuation_05_reverse",
+        "dynamic_dynamics_seed52002_recovery_control",
+        "dynamic_dynamics_seed52002_recovery_alpha0",
+        "dynamic_dynamics_seed52002_recovery_information",
+        "dynamic_dynamics_seed52002_size_duration_balanced_n12_t60",
+        "dynamic_dynamics_seed52002_size_duration_balanced_n12_t90",
+        "dynamic_dynamics_seed52002_size_duration_balanced_n24_t60",
+        "dynamic_dynamics_seed52002_size_duration_balanced_n24_t90",
+        "dynamic_dynamics_seed52002_size_duration_skewed_n12_t60",
+        "dynamic_dynamics_seed52002_size_duration_skewed_n12_t90",
+        "dynamic_dynamics_seed52002_size_duration_skewed_n24_t60",
+        "dynamic_dynamics_seed52002_size_duration_skewed_n24_t90"
+      ]
+    }
+  ],
+  "stage": "S1",
+  "status": "passed"
+}

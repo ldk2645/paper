@@ -1,0 +1,107 @@
+{
+  "status": "passed",
+  "created_at": "2026-10-04T03:06:42.394027+00:00",
+  "scope": "Curated GitHub delivery; not a fresh simulation or full raw-data validation",
+  "source_copies_checked": 1069,
+  "source_copies_byte_identical": true,
+  "published_release_evidence_hashes_checked": 64,
+  "complete_output_inventory_checks": [
+    {
+      "directory": "outputs/formal_registry_20261003",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 121
+    },
+    {
+      "directory": "outputs/formal_registry_repair_20261003",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 259
+    },
+    {
+      "directory": "outputs/formal_registry_repair_v2_20261003",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 259
+    },
+    {
+      "directory": "outputs/formal_e2_e4_repaired_v2_20261004_analysis",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 5
+    },
+    {
+      "directory": "outputs/formal_e2_e4_repaired_v2_20261004_report",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 23
+    },
+    {
+      "directory": "outputs/formal_execution_20261003",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 11
+    },
+    {
+      "directory": "outputs/formal_freeze_acceptance_20261003",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 5
+    },
+    {
+      "directory": "outputs/formal_repair_freeze_acceptance_20261003",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 5
+    },
+    {
+      "directory": "outputs/formal_repair_interruption_20261003",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 1
+    },
+    {
+      "directory": "outputs/formal_repair_v2_freeze_acceptance_20261003",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 5
+    },
+    {
+      "directory": "outputs/formal_repair_v2_interruption_20261004",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 1
+    },
+    {
+      "directory": "outputs/formal_repair_v2_retry_execution_20261004",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 21
+    },
+    {
+      "directory": "outputs/precision_pilot_20261002_acceptance",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 15
+    },
+    {
+      "directory": "outputs/precision_pilot_20261002_planning",
+      "inventory": "artifact_hashes.json",
+      "files_checked": 5
+    },
+    {
+      "directory": "outputs/research_s0_acceptance_20260928",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 4
+    },
+    {
+      "directory": "outputs/research_s1_acceptance_20260929",
+      "inventory": "evidence_hashes.json",
+      "files_checked": 7
+    }
+  ],
+  "frozen_plan_in_published_directory": {
+    "status": "ready",
+    "formal_ready": true,
+    "models_executed": 0,
+    "groups": 1184,
+    "world_records": 21312,
+    "independent_seeds": 1000,
+    "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230"
+  },
+  "frozen_sources_changed": false,
+  "tests_rerun": false,
+  "additional_samples": 0,
+  "common_secret_pattern_matches": [],
+  "files_at_least_100_MiB": 0,
+  "unbundled_link_occurrences": 198,
+  "full_raw_data_included": false,
+  "reporting_environment": "Dependencies declared from accepted rendering manifest; no vendor or Windows fonts bundled"
+}

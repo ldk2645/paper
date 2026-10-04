@@ -1,0 +1,17 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "tests",
+    "-v"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "elapsed_seconds": 99.26600000000326,
+  "log_sha256": "25a0d5ae01030485048d0141d92b9dd93ddea0a6cb2b77201bcdd2f9a41f1cf9",
+  "name": "tests",
+  "returncode": 0
+}

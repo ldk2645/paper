@@ -1,0 +1,4 @@
+# Separate plotting environment; versions recorded in the accepted report manifest.
+matplotlib==3.11.2
+numpy==2.5.3
+Pillow==12.3.0

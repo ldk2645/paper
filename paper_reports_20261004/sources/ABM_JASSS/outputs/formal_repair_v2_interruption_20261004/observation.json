@@ -1,0 +1,33 @@
+{
+  "observed_at": "2026-10-03T16:10:05.392557+00:00",
+  "status": "unclean_interruption_observed",
+  "cause": "unknown",
+  "python_processes_observed": 0,
+  "batch_directory_exists": false,
+  "recover_result_exists": false,
+  "eligible_for_formal_analysis": false,
+  "additional_independent_samples": 0,
+  "prior_execution_files_sha256": {
+    "candidate_plan.json": "3dbfa0609c745a3829725f6df1e6667f1db320d7f674a5a518debc9479654ff8",
+    "candidate_plan.log": "5de06540e8f669eb45c9c754ffd7690a18327fc663adc393dccd0ff6fb45b05f",
+    "candidate_plan_result.json": "7628fc5a4a96252f83d3b14ec88590df61080ee654b33c92901c303bf068e7b4",
+    "candidate_plan_started.json": "7cc3ebadb2f716e4f0f4e397cdb5d54f1df5d183c649883a5cca4ef9798bb7aa",
+    "execute.py": "59ebd39c8be1b4f18585e1ca2f676e1e3d59a2dfccb8570442a5afc3ed9d60b2",
+    "launch.json": "b130a83ab194cdbfbc6f8c86d81b998dc005bd2f6f263599f687c06d11e81540",
+    "promoted_plan.json": "3dbfa0609c745a3829725f6df1e6667f1db320d7f674a5a518debc9479654ff8",
+    "promoted_plan.log": "5de06540e8f669eb45c9c754ffd7690a18327fc663adc393dccd0ff6fb45b05f",
+    "promoted_plan_result.json": "8e0050a5ab1a86ba24430e470454cbd8fd83981981c3075a3c01048880b6179e",
+    "promoted_plan_started.json": "9436338ce0f13d07b2cbb882cfed208adff1cd48ecc9409522cab6ec0f86872c",
+    "promotion.json": "9a57283a3af647ac9e18c666200416e9b724464b2557830692c25d732663405c",
+    "recover.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "recover_started.json": "2e905422971668e3ce38dd35d78b2eace7592c4520840f6839d88c2fa1d56836"
+  },
+  "prior_launcher_files_sha256": {
+    "process.json": "58a205dc0ac29cbff24fbe8740c965e12866d87577cd0e55d3ce60192d7e8da6",
+    "status.py": "36be879e8664a4d61acfda805e87dae2ec854203fca0953be46a2f7dc510f5eb",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.log": "42ad8753dacb4a305fe1c25242f08d798fdbf8ec29dab5cbb7370503f6efb80e"
+  },
+  "last_observed_active_at": "2026-10-03T11:40:08.616280+00:00",
+  "last_observed_read_gb_approx": 19.3
+}

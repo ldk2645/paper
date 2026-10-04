@@ -1,0 +1,21 @@
+{
+  "artifact_inventory_hash": "268388316dad024c97bdb53c4dca35120c163567fb6f78288e988379526c2a3b",
+  "auxiliary_records_rebuilt": true,
+  "batch_id": "formal_recovered_245a476e7f5646e7bdb8a17b430f1ad6",
+  "derived_rebuilt": true,
+  "formal_ready": true,
+  "groups": 1184,
+  "hashed_files": 282188,
+  "independent_seeds": 1000,
+  "manifest_hash": "0542945f9c14b832408421c3da9617edae50248e983d5e6895bcf8dbc254cbb5",
+  "read_only": true,
+  "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+  "replay_diagnostics_rebuilt": true,
+  "response_events": 4840670,
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal",
+  "statistical_records_rebuilt": true,
+  "status": "passed",
+  "trajectory_records": 6393600,
+  "world_records": 21312
+}

@@ -1,0 +1,16 @@
+{
+  "model": {
+    "n_agents": 40,
+    "steps": 100,
+    "final_window": 30,
+    "survey_size": 8,
+    "platform_panel_size": 8,
+    "max_item_age": 60,
+    "ranking": "softmax",
+    "drift_rate": 0.03,
+    "government_policy": "communicate"
+  },
+  "alphas": [0.0, 0.5, 1.0],
+  "seeds": [201, 202, 203],
+  "save_trajectories": true
+}

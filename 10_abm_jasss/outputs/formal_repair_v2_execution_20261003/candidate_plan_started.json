@@ -1,0 +1,12 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\formal_repair_resume_20261003\\scripts\\run_formal_study.py",
+    "plan",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\formal_repair_resume_20261003\\outputs\\formal_registry_repair_v2_20261003"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\formal_repair_resume_20261003",
+  "stage": "candidate_plan",
+  "started_at": "2026-10-03T11:17:26.553872+00:00"
+}

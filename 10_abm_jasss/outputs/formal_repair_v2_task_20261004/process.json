@@ -1,0 +1,14 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_repair_v2_retry_execution_20261004\\execute.py"
+  ],
+  "parent_pid": 2880,
+  "runner_executable": "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\pythonw.exe",
+  "runner_pid": 22500,
+  "started_at": "2026-10-03T16:18:30.834276+00:00",
+  "task_name": "ABM_JASSS_Formal_Recovery_20261004",
+  "working_directory": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "wrapper_sha256": "11f328afd1c2e92ee2bbb8e000f789e0b0e4afbb900304732007dc800356ea97"
+}

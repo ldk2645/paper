@@ -1,0 +1,33 @@
+{
+  "study_scope": "Original-core restoration pilot: reverse black box and delayed government response",
+  "model": {
+    "n_agents": 120,
+    "steps": 240,
+    "final_window": 80,
+    "survey_size": 12,
+    "max_item_age": 100,
+    "cold_start_rounds": 2,
+    "population_weights": [1, 1, 1, 1],
+    "emotion_advantage": 0.25,
+    "official_emotion_mean": 0.15,
+    "drift_rate": 0.03,
+    "government_policy": "respond",
+    "government_interval": 1,
+    "government_delay": 3,
+    "routine_publication_interval": 10,
+    "observation_interval": 1,
+    "observation_window": 1,
+    "response_threshold": 0.15,
+    "response_heat_retention": 0.7,
+    "response_capacity": 1,
+    "response_strategy": "hard",
+    "trust_update_rate": 0.06,
+    "trust_feedback_strength": 0.25,
+    "trust_rule": "exposure",
+    "trust_response_gain": 0.0
+  },
+  "arms": ["platform"],
+  "alphas": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "seeds": [301, 302, 303, 304, 305, 306, 307, 308],
+  "save_trajectories": true
+}

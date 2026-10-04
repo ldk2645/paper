@@ -1,0 +1,1194 @@
+{
+  "scope": "All published project Markdown; frozen snapshot and historical links are included",
+  "resolved_local_links": 449,
+  "unbundled_references": [
+    {
+      "document": "formal_execution_incident_20261003.md",
+      "target": "formal_repair_20261003/formal_numeric_repair_protocol_20261003.md",
+      "original_target_exists": true,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "formal_execution_incident_20261003.md",
+      "target": "formal_repair_20261003/outputs/formal_repair_freeze_acceptance_20261003/acceptance.json",
+      "original_target_exists": true,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "formal_execution_incident_20261003.md",
+      "target": "formal_repair_20261003/outputs/formal_registry_repair_20261003/manifest.json",
+      "original_target_exists": true,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "formal_execution_incident_20261003.md",
+      "target": "outputs/formal_repair_v2_launcher_20261003/process.json",
+      "original_target_exists": true,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/ODD_research.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "configs/precision_pilot_20260930.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/planning.csv",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/stability.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_initial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_expansion/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "formal_freeze_readiness_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "project_handoff_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/research_engine.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/research_engine.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/research_engine.md",
+      "target": "configs/research_s1.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/research_engine.md",
+      "target": "README.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/research_engine.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "configs/research_s0.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_execution_protocol_20260929.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "planning_inputs/ABM_技术补充与作用说明_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/ODD_research.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "configs/precision_pilot_20260930.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/planning.csv",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/stability.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_initial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_expansion/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "formal_freeze_readiness_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "project_handoff_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "configs/research_s1.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "README.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "configs/research_s0.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_execution_protocol_20260929.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/signal_and_outcome_contract.md",
+      "target": "planning_inputs/ABM_技术补充与作用说明_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/parent_registry/source_snapshot/signal_and_outcome_contract.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/formal_numeric_repair_protocol_20261003.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/ODD_research.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/ODD_research.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "configs/precision_pilot_20260930.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/planning.csv",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/stability.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_initial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_expansion/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "formal_freeze_readiness_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "project_handoff_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "configs/research_s1.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "README.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/research_engine.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "configs/research_s0.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_execution_protocol_20260929.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "planning_inputs/ABM_技术补充与作用说明_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/ODD_research.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "configs/precision_pilot_20260930.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/planning.csv",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/stability.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_initial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_expansion/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "formal_freeze_readiness_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "project_handoff_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "configs/research_s1.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "README.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/research_engine.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "configs/research_s0.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s0_validation_20260928.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_execution_protocol_20260929.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/signal_and_outcome_contract.md",
+      "target": "planning_inputs/ABM_技术补充与作用说明_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/parent_registry/source_snapshot/signal_and_outcome_contract.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/ODD_research.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/ODD_research.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "configs/precision_pilot_20260930.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/planning.csv",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/stability.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_initial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_expansion/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "formal_freeze_readiness_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/precision_pilot_validation_20261002.md",
+      "target": "project_handoff_20261002.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "configs/research_s1.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "README.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "outputs/precision_pilot_20261002_planning/report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/research_engine.md",
+      "target": "formal_execution_protocol_20261003.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_20260928_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "outputs/research_s0_acceptance_20260928/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "configs/research_s0.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s0_validation_20260928.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_execution_protocol_20260929.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "s1_dynamic_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/tests.log",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_serial/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_20260929_parallel/manifest.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/comparison.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/s1_validation_20260929.md",
+      "target": "outputs/research_s1_acceptance_20260929/acceptance.json",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "planning_inputs/ABM_技术补充与作用说明_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "outputs/formal_registry_repair_v2_20261003/source_snapshot/signal_and_outcome_contract.md",
+      "target": "formal_experiment_protocol.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/README.md",
+      "target": "manuscript_core_revision.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/README.md",
+      "target": "diagnostic_report.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/README.md",
+      "target": "ODD.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/README.md",
+      "target": "parameters.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/README.md",
+      "target": "revision_validation_20260926.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/research_plan.md",
+      "target": "planning_inputs/reverse_black_box_technical_checklist_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    },
+    {
+      "document": "planning_archive/20260927_r1/technical_checklist_response_20260927.md",
+      "target": "planning_inputs/reverse_black_box_technical_checklist_20260927.md",
+      "original_target_exists": false,
+      "reason": "reference outside selected delivery or historical snapshot"
+    }
+  ]
+}

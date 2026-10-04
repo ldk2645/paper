@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "scripts/validate_precision_pilot.py",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_initial",
+    "--workers",
+    "3"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "elapsed_seconds": 363.9689999999973,
+  "log_sha256": "5e8ea2824607b16943c45373de0838dd569f392e2214a4d7d976df873e7c2e04",
+  "name": "validate_initial",
+  "returncode": 0
+}

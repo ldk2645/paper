@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "scope": "explicit_synthetic_fixture_only",
+  "tests_run": 7,
+  "models_created_or_stepped": 0,
+  "formal_results_read": false,
+  "script_sha256": {
+    "report_formal_results.py": "92f5eda32b8edede4d77b342b15011ee0111e3cc646b1eb45e2c6edf89ab111a",
+    "check_reporting_fixture.py": "7c8b29317ad9863a442642db31a50219ee96e49b00f9574f3f93c00edd77f04f"
+  },
+  "preview_directory": "synthetic_preview_v2",
+  "preview_inventory_sha256": "f891df8a5f4e5ac69551609d25f8b80c9f4866247ca8041132a325cf67ff39e3",
+  "preview_hashed_files": 23,
+  "visual_inspection": "Chinese glyphs and caption spacing checked on primary_1 alpha_0_25 PNG; no missing-glyph warnings during six-figure render"
+}

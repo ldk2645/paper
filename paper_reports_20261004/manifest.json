@@ -1,0 +1,1426 @@
+{
+  "archive_type": "selected_research_report_archive_not_full_replication_package",
+  "created_at_utc": "2026-10-04T03:02:20.969166+00:00",
+  "source_root": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "source_files_preserved": true,
+  "source_copy_byte_verification": "passed",
+  "copied_file_count": 157,
+  "copied_bytes": 9068614,
+  "frozen_registry_copies": "selected_files_only; original inventories are provenance indexes, not assertions that all listed source files are included here",
+  "raw_data": "not included; no raw-data artifact_hashes.json copied",
+  "files": [
+    {
+      "source_relative_path": "ABM_JASSS/README.md",
+      "archive_relative_path": "sources/ABM_JASSS/README.md",
+      "bytes": 16056,
+      "sha256": "f130c969caf979447d72844f786825c89cb89cea9577d2b8dacf122e35785c0b",
+      "stage": "00",
+      "purpose": "当前正式阶段状态和接续入口；其中历史段落按其日期解释",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/project_handoff_20261004.md",
+      "archive_relative_path": "sources/ABM_JASSS/project_handoff_20261004.md",
+      "bytes": 7025,
+      "sha256": "e7853681f4b5448e05e1c98c0142492d8a0ef21ea5716e384ef6390b883fe0d5",
+      "stage": "00",
+      "purpose": "当前正式阶段状态和接续入口；其中历史段落按其日期解释",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_experiment_protocol.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_experiment_protocol.md",
+      "bytes": 25308,
+      "sha256": "86c19d7f102d178fcc048e3103db9270d793c5e20ef27009ff7afecc16332c32",
+      "stage": "01",
+      "purpose": "保留原核心创新、研究设计演变、实验范围和技术落实依据",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/innovation_preservation.md",
+      "archive_relative_path": "sources/ABM_JASSS/innovation_preservation.md",
+      "bytes": 7340,
+      "sha256": "9d8d0fab381b640e84037d42c7fe9842a9a2fd522ed7aeba30469dab9e91d316",
+      "stage": "01",
+      "purpose": "保留原核心创新、研究设计演变、实验范围和技术落实依据",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/research_plan.md",
+      "archive_relative_path": "sources/ABM_JASSS/research_plan.md",
+      "bytes": 24240,
+      "sha256": "6c8d17f9f2c80fc5f01a0bf050bcc78aa1ee5daa77014972ccf344b33242f2c1",
+      "stage": "01",
+      "purpose": "保留原核心创新、研究设计演变、实验范围和技术落实依据",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/technical_checklist_response_20260927.md",
+      "archive_relative_path": "sources/ABM_JASSS/technical_checklist_response_20260927.md",
+      "bytes": 9892,
+      "sha256": "b5322b31661c39b7b771ae16d817d775dded57dc69a6022106ca45296a1a2198",
+      "stage": "01",
+      "purpose": "保留原核心创新、研究设计演变、实验范围和技术落实依据",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/ODD_research.md",
+      "archive_relative_path": "sources/ABM_JASSS/ODD_research.md",
+      "bytes": 17342,
+      "sha256": "dd771bb16493c5b15bce5458f5f9e4c513141a372f7c08b7e3d16c34e6270898",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s0_acceptance_20260928/acceptance.json",
+      "bytes": 29309,
+      "sha256": "77b1a6d3b3bcb34e3507d21914773f50da77ae10d7017c943430f78ae8074bfc",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/comparison.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s0_acceptance_20260928/comparison.json",
+      "bytes": 2483,
+      "sha256": "7c7e25b6fe9a812bae640ef0d3731ab219cd5251518d2d54ff91bb437ac50193",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s0_acceptance_20260928/evidence_hashes.json",
+      "bytes": 352,
+      "sha256": "3d77aaf1ee2ce277eb8036c93b0b91580333d5750c285994077d67f55566dde0",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.json",
+      "bytes": 282,
+      "sha256": "507b78fbb839e622be856b9bb1a60c6384f59a964d591d6e1b71ad619c87a28b",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s0_acceptance_20260928/tests.log",
+      "bytes": 20479,
+      "sha256": "a180d677490a998fd001d6196e177940df3eb374d854fe7c07741364840e6946",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/acceptance.json",
+      "bytes": 284445,
+      "sha256": "ace7bfa8f5f06a434e3cb7290185fc6cf32f90d1f7e76330b3f386323819b846",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison.json",
+      "bytes": 1435,
+      "sha256": "9e21de677ec9ce93ca10fb9b48a03bcc14bbb617bbcd5a4328583a39b964f506",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/comparison_command.json",
+      "bytes": 348,
+      "sha256": "18bd80810dd704690095cad161c81d7e4e97ccff82e9b71369b1e28ce5ba91b9",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/descriptive_counts.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/descriptive_counts.json",
+      "bytes": 1015,
+      "sha256": "dd285289dd4ccfb1ab92e09bccd00ccb149317c39a047a35c958c8d7bde03798",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/evidence_hashes.json",
+      "bytes": 643,
+      "sha256": "0da75cb611f3e59740b4083e0ad9732163198fde186cfa9477c1052f57847e98",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/s0_preservation.json",
+      "bytes": 693,
+      "sha256": "8f579afdb5415706e6ba3ff79bb7e65e8ea4806896e3d5deda189082157f547c",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.json",
+      "bytes": 282,
+      "sha256": "fad2730858d33422ed3f5ee1a9bd34c2d30b965ae2b61974599e7a987153c553",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/research_s1_acceptance_20260929/tests.log",
+      "bytes": 27448,
+      "sha256": "e19354b9d3b2da86ec1ac21f645dbfcdd6d63db42c6c937ecbf01ddabf6d6465",
+      "stage": "02",
+      "purpose": "开发阶段测试、串并行比较与验收的完整小型证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/research_engine.md",
+      "archive_relative_path": "sources/ABM_JASSS/research_engine.md",
+      "bytes": 20299,
+      "sha256": "c0327e5132c52d294c553b1dea25f36976df6c50e2f72731c1fee8817daf302a",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/revision_validation_20260926.md",
+      "archive_relative_path": "sources/ABM_JASSS/revision_validation_20260926.md",
+      "bytes": 4979,
+      "sha256": "dab294ca0c202f0ed2bee4a9089e530103319b8b071911739f06414c7d39ad6c",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/s0_validation_20260928.md",
+      "archive_relative_path": "sources/ABM_JASSS/s0_validation_20260928.md",
+      "bytes": 8037,
+      "sha256": "d03aa37a88e52d75c892147cd983ae50c644ded410caa0d067ee71578e68f121",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/s1_validation_20260929.md",
+      "archive_relative_path": "sources/ABM_JASSS/s1_validation_20260929.md",
+      "bytes": 9085,
+      "sha256": "a346c953ff0cddb390f248e94fd0b7407dff586019f990a6174a90252ab0c08c",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/signal_and_outcome_contract.md",
+      "archive_relative_path": "sources/ABM_JASSS/signal_and_outcome_contract.md",
+      "bytes": 16129,
+      "sha256": "517ec0f995bdd3a36fd21f406765178712b013d6d609566ceb6c3c2361700de9",
+      "stage": "02",
+      "purpose": "现行模型、测量合同、核心恢复与 S0/S1 开发验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/acceptance.json",
+      "bytes": 4755,
+      "sha256": "cdc5d79b866425c19199efc02d355f298f50c27a68591938c52ad48f920f4186",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis.log",
+      "bytes": 221,
+      "sha256": "c2ea6d2a5c15a237103231f6a19383f63b54a1fd0530baecae938232faec867e",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/analysis_command.json",
+      "bytes": 953,
+      "sha256": "31bb07951d5ae59123a36a9ecb754601dcc3d25db29b798d312b23210672f1cd",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/evidence_hashes.json",
+      "bytes": 1400,
+      "sha256": "e5a8f77a9a846cfc8a2e1e0f71964e9550bbe0d21e4401d8b1304dda58edbb8e",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion.log",
+      "bytes": 1662,
+      "sha256": "d927a50a4446e19eaa4abd9e4ee07e2ed909db5e15a1fb802f328f84fc5d830a",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/expansion_command.json",
+      "bytes": 615,
+      "sha256": "d2aee1b7ee34d208108cffc47e5bca413baab7265c40ed870af0bdfa034e1cd3",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial.log",
+      "bytes": 1582,
+      "sha256": "6bdc002cc75a7e28abf0310c037977f7ba2cb5f6f3c7773abfd38df93ab3ce84",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/initial_command.json",
+      "bytes": 609,
+      "sha256": "36c1101f79b5e9d736c62c82506653ac881090af8259cf2181727b8d6051f37a",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests.log",
+      "bytes": 36253,
+      "sha256": "25a0d5ae01030485048d0141d92b9dd93ddea0a6cb2b77201bcdd2f9a41f1cf9",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/tests_command.json",
+      "bytes": 424,
+      "sha256": "77459e3b020d38e3c7828fb7ae779f5461e53283c2c9ea62c21c1aa9e19307f3",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.json",
+      "bytes": 930,
+      "sha256": "bdbcbec1eea259dcb0cf2da3a93d45bc77a86dc4acbf0dbd4d4ffed55770a3c7",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion.log",
+      "bytes": 889,
+      "sha256": "43017fa333d3f8cd688a0b2e2918247d2c220db8da9d6a6a59a86ee52199c7dc",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_expansion_command.json",
+      "bytes": 522,
+      "sha256": "401edc465e96e4a75e49baef5b80ae3530d1f48bc1118ba69cd058aaa70d976a",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.json",
+      "bytes": 926,
+      "sha256": "d2fe168aa7859cc763e056360f458c1d0c91efb78af917ece4b99ae6f8805db4",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial.log",
+      "bytes": 885,
+      "sha256": "5e8ea2824607b16943c45373de0838dd569f392e2214a4d7d976df873e7c2e04",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial_command.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_acceptance/validate_initial_command.json",
+      "bytes": 517,
+      "sha256": "7450a405354524aca0ebcbe159e27d3fdf55be110d492c80f702ca36e624e2a8",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/analysis_manifest.json",
+      "bytes": 8478,
+      "sha256": "d79026935ada713e46618cc2f96d88baf1575928be028ee71135da4557108b4a",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/artifact_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/artifact_hashes.json",
+      "bytes": 443,
+      "sha256": "747f4f36d4dec26c3a96bb78478e639ab3156474ea355a1f563a4dabaee20fff",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.csv",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.csv",
+      "bytes": 21090,
+      "sha256": "c9f042db80d3caef43c21069a4834c5917815367bd2307c5434faef512eef486",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/planning.json",
+      "bytes": 412838,
+      "sha256": "61d236c1813735df081ac4547733efe27c038348747e6249e88a26b52d2594bf",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/report.md",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/report.md",
+      "bytes": 2921,
+      "sha256": "fecb567b680553c84f55e09ffc813fdcc9d76f859a14c01d7db7e6778a082804",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/precision_pilot_20261002_planning/stability.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/precision_pilot_20261002_planning/stability.json",
+      "bytes": 54382,
+      "sha256": "a53256ff40d8821d697281d4f694829616e488ae3e9ee900204768da80264112",
+      "stage": "03",
+      "purpose": "独立精度规划及验收；保留 3 项预算风险和 61 项方差不稳定标记",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/precision_pilot_protocol_20260930.md",
+      "archive_relative_path": "sources/ABM_JASSS/precision_pilot_protocol_20260930.md",
+      "bytes": 6279,
+      "sha256": "168c244cfb6d4c1d81819621fc153b583c0adcaa8fc92deef4971e816aff03c6",
+      "stage": "03",
+      "purpose": "独立 pilot 运行前协议、固定预算和实测验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/precision_pilot_validation_20261002.md",
+      "archive_relative_path": "sources/ABM_JASSS/precision_pilot_validation_20261002.md",
+      "bytes": 7791,
+      "sha256": "9768df24052931c3e7097c03e296a879606d107c474a64c9739211f2d04114a8",
+      "stage": "03",
+      "purpose": "独立 pilot 运行前协议、固定预算和实测验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_protocol_20261003.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_execution_protocol_20261003.md",
+      "bytes": 9999,
+      "sha256": "439bf0d6beec7f7812e8a4b27c2938ea00ed8702ff8dda7a73e2d67d65facbdc",
+      "stage": "04",
+      "purpose": "正式固定样本、种子、估计对象、102 项检验和冻结时状态",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_freeze_validation_20261003.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_freeze_validation_20261003.md",
+      "bytes": 5249,
+      "sha256": "25849ba4389433578981f1659be98f1e2c88699fa582906174280dae5cfbb5b8",
+      "stage": "04",
+      "purpose": "正式固定样本、种子、估计对象、102 项检验和冻结时状态",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/acceptance.json",
+      "bytes": 492,
+      "sha256": "fdef946eea14c0b0ed81c92554bc0e18dcc78c555c659a1615ca54cf6b48793b",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/evidence_hashes.json",
+      "bytes": 429,
+      "sha256": "aab41fc5acacff33157c9b23593927a8ef64ad107d39dc1b156d1178fb74dce9",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/execution_plan.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/execution_plan.json",
+      "bytes": 443,
+      "sha256": "53015c3c613500f6763d4c6cc8bdb7971466c50c9eec8ac3d484041c0fe383f9",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/registry_validation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/registry_validation.json",
+      "bytes": 15933,
+      "sha256": "a83aa8f3ffa2a6745107359b627d8a90a8f60d13f7c33794b683d52d438cb861",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.json",
+      "bytes": 6813,
+      "sha256": "e227fb94bcb7733118c4f68ffb157b8103840650ea2f6d5562bd79386ca93624",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_freeze_acceptance_20261003/tests.log",
+      "bytes": 43333,
+      "sha256": "c32894e80ca4e40745bcf94080e985a4fe6a0c77374bfc64f519bcee224a0632",
+      "stage": "04",
+      "purpose": "原正式冻结验收与测试证据",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/artifact_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/artifact_hashes.json",
+      "bytes": 15011,
+      "sha256": "7bf40a0cba49b5709fbbd8ad450f978ea8493949e72a0f0d9bd691555314b9a9",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/configuration.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/configuration.json",
+      "bytes": 10132,
+      "sha256": "7ac6ebbea98bd4e140219b7213f1a64bbf81b6c0772703da115eca3660a3559a",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/inference_spec.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/inference_spec.json",
+      "bytes": 8531,
+      "sha256": "ef8f7bdf890bb20dc5cc9471e732ca321946da033db53352e113ce0668028ade",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/manifest.json",
+      "bytes": 15411,
+      "sha256": "707b7d97cf8c3b0ada81caa246610fc6346b9fc4c224897b00171cf19931a3d8",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/seed_audit.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/seed_audit.json",
+      "bytes": 302178,
+      "sha256": "73b24bd92cee8e3a1d456e7da53aa2477cff5c14627e66bb46ac6c09a75e157f",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_20261003/seed_registry.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_20261003/seed_registry.json",
+      "bytes": 13376,
+      "sha256": "db433e957dd68fd1e8954b24de6e80e0f183066ab236633b99d2e2689386ed31",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/artifact_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/artifact_hashes.json",
+      "bytes": 34281,
+      "sha256": "97602f482fd02f307c651415fefdfcb7508267d34215d20046733f97c0270f30",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/configuration.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/configuration.json",
+      "bytes": 10132,
+      "sha256": "7ac6ebbea98bd4e140219b7213f1a64bbf81b6c0772703da115eca3660a3559a",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/inference_spec.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/inference_spec.json",
+      "bytes": 8531,
+      "sha256": "ef8f7bdf890bb20dc5cc9471e732ca321946da033db53352e113ce0668028ade",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/manifest.json",
+      "bytes": 17553,
+      "sha256": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_audit.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_audit.json",
+      "bytes": 302178,
+      "sha256": "73b24bd92cee8e3a1d456e7da53aa2477cff5c14627e66bb46ac6c09a75e157f",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_registry.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/seed_registry.json",
+      "bytes": 13376,
+      "sha256": "db433e957dd68fd1e8954b24de6e80e0f183066ab236633b99d2e2689386ed31",
+      "stage": "04",
+      "purpose": "冻结溯源关键文件；此归档仅保存选集，未包含完整冻结包",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_incident_20261003.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_execution_incident_20261003.md",
+      "bytes": 9621,
+      "sha256": "67e6f87b728114f7ec7ea203475a1b195aa5469d56b465be2c5bf5c70425a802",
+      "stage": "05",
+      "purpose": "保留原失败事实、1 ULP 数值修复边界、中断及恢复过程",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_numeric_repair_protocol_20261003.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_numeric_repair_protocol_20261003.md",
+      "bytes": 4691,
+      "sha256": "3ad32c5e2f7de3399979a70951eb2658db3af999d6cfed39d0a08cec7d604029",
+      "stage": "05",
+      "purpose": "保留原失败事实、1 ULP 数值修复边界、中断及恢复过程",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_numeric_repair_resume_protocol_20261003.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_numeric_repair_resume_protocol_20261003.md",
+      "bytes": 6988,
+      "sha256": "2c0ad241237d0f9605d63015246c5570c9a6f1f7502b0be188e8d001a70c6f45",
+      "stage": "05",
+      "purpose": "保留原失败事实、1 ULP 数值修复边界、中断及恢复过程",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_20261003/failures.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_20261003/failures.json",
+      "bytes": 2779,
+      "sha256": "cdd187054eab5caaf9cd1f3022163cfc280f0d9bcf79386c9587fb5d4bc1bace",
+      "stage": "05",
+      "purpose": "原始批次失败状态和失败名册；未改写为成功",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_20261003/manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_20261003/manifest.json",
+      "bytes": 10782,
+      "sha256": "b168182289db3a112d04a93f36c9ce161f525fa4a62056ad2f1bf2e4223677f6",
+      "stage": "05",
+      "purpose": "原始批次失败状态和失败名册；未改写为成功",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/numeric_repair_policy.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/numeric_repair_policy.json",
+      "bytes": 842,
+      "sha256": "ff2a5092c01fb19e3865305c522f6f2b2216ce42cf885c3f3ac928291c0936ee",
+      "stage": "05",
+      "purpose": "修复 v2 数值边界政策与修复上下文",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_registry_repair_v2_20261003/repair_context.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_registry_repair_v2_20261003/repair_context.json",
+      "bytes": 2355,
+      "sha256": "407f446bbc39ca5bd3f78c4d91eac95e5a81dd473d73f0f899f9ed2763386b9e",
+      "stage": "05",
+      "purpose": "修复 v2 数值边界政策与修复上下文",
+      "role": "partial_registry_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_interruption_20261003/observation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_interruption_20261003/observation.json",
+      "bytes": 19576,
+      "sha256": "248b86f3e8cec5daf3acbe481569d6a05e1c2013de1d13162756b4791cc45cb1",
+      "stage": "05",
+      "purpose": "保留恢复中断的独立观察记录",
+      "role": "evidence"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/acceptance.json",
+      "bytes": 533,
+      "sha256": "d4eb6d408a9b88b80f566448b09b0950330afe869c61da30478e39e19079080a",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/evidence_hashes.json",
+      "bytes": 429,
+      "sha256": "c4d888ff2fcf2eca526d89315933a3343e05b9681de519c3728a2186b74ca9d5",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/execution_plan.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/execution_plan.json",
+      "bytes": 443,
+      "sha256": "eb7e8ada14f806ad5b850950e5eff02fb585a1aebdaa338436abb6c5d5b88198",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/registry_validation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/registry_validation.json",
+      "bytes": 18116,
+      "sha256": "436ad9123b6b9b9995f2a923f8c2eaa1742bdf4e0d2d3a61e528cefbb457ea46",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.json",
+      "bytes": 7336,
+      "sha256": "d98300186df6f1fa0f42643aa3d2165efcbd77e13687ceda179137d5cccc7953",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_freeze_acceptance_20261003/tests.log",
+      "bytes": 48203,
+      "sha256": "76387fbb6da2c8c7c8f1767e8af8bbfbed315086071ca8c78ceb2a08f8046a07",
+      "stage": "05",
+      "purpose": "修复 v2 冻结前 279 项测试与登记检查的完整证据包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_interruption_20261004/observation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_interruption_20261004/observation.json",
+      "bytes": 2098,
+      "sha256": "2b1e1f8df04328243f7a9aa0e9ec867095999e4c3092c203078781cb307f8862",
+      "stage": "05",
+      "purpose": "保留恢复中断的独立观察记录",
+      "role": "evidence"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/formal_execution_acceptance_20261004.md",
+      "archive_relative_path": "sources/ABM_JASSS/formal_execution_acceptance_20261004.md",
+      "bytes": 8599,
+      "sha256": "6a7b2046868a6773e28a0c2c5236c9f36b1f3bd0951ca424ada0455eb3f25717",
+      "stage": "06",
+      "purpose": "当前 E2–E4 正式批次完成、统计输出、来源与独立复核的总验收",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/configuration.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/configuration.json",
+      "bytes": 10132,
+      "sha256": "7ac6ebbea98bd4e140219b7213f1a64bbf81b6c0772703da115eca3660a3559a",
+      "stage": "06",
+      "purpose": "成功批次标识、配置、零失败和恢复来源；不包含完整原始数据",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/failures.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/failures.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "stage": "06",
+      "purpose": "成功批次标识、配置、零失败和恢复来源；不包含完整原始数据",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/manifest.json",
+      "bytes": 11402,
+      "sha256": "0542945f9c14b832408421c3da9617edae50248e983d5e6895bcf8dbc254cbb5",
+      "stage": "06",
+      "purpose": "成功批次标识、配置、零失败和恢复来源；不包含完整原始数据",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/recovery_provenance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004/recovery_provenance.json",
+      "bytes": 99118,
+      "sha256": "55af2d516f385a1ed78d410e3f0b604bda160a572b7251240d69440d9a264074",
+      "stage": "06",
+      "purpose": "成功批次标识、配置、零失败和恢复来源；不包含完整原始数据",
+      "role": "partial_batch_copy"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/analysis_manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/analysis_manifest.json",
+      "bytes": 803,
+      "sha256": "bb57202fe9cc0575911b19fde5a26df375ac57ece59385bc81c1a080fe7dac51",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/artifact_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/artifact_hashes.json",
+      "bytes": 421,
+      "sha256": "03200e6ea5afd7f6525a74f9cd688ee0710371eac79d5cb8e38c50bb6a75bbe7",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/auxiliary.csv",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/auxiliary.csv",
+      "bytes": 53514,
+      "sha256": "faa3e28c31214293f88f77b39806009bfb8c92ad1a8a368aa3d0455ba92bf0ed",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/inference.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/inference.json",
+      "bytes": 1790949,
+      "sha256": "19e18f2cd266abcfd811f2d59f2d8e493f0c3925b951cd7a3168a9eef08c4206",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/primary.csv",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/primary.csv",
+      "bytes": 25924,
+      "sha256": "140a389e05bc8c1c9ecfd6587e7808a1908b9dd6a618857109e317aea876e3e5",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/report.md",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_analysis/report.md",
+      "bytes": 1077,
+      "sha256": "9f2c40b82635241793bde08cba13d1c3c30e608346fb3d7877f4282e009406aa",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/artifact_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/artifact_hashes.json",
+      "bytes": 2340,
+      "sha256": "c81f7c2e0c20a18305acd2c5920b3fa6a496f96c7929b4bd77407f4177583bd5",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/auxiliary_zh.csv",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/auxiliary_zh.csv",
+      "bytes": 57811,
+      "sha256": "9d19a4b7937919f49dce62218b0398e873589cca7cd051c5f4123c1fe3e2b8e0",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.pdf",
+      "bytes": 89485,
+      "sha256": "dbf82feea3e501284504b5e90d375e7d44b258c6a163f2160f49487636897867",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.png",
+      "bytes": 391047,
+      "sha256": "9b2cb8acd9021bade7cc2c702e9e7481d659cd14f9460e3b959d1fd6b177a304",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_1.svg",
+      "bytes": 279109,
+      "sha256": "a7ab958396675b8cfd83bfec1baf25404a24ac21ff078f3cc03a4991c85706d2",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.pdf",
+      "bytes": 89953,
+      "sha256": "311623fdc3589be708f1a114830117b990e1486afbb474a90b7e75f2ddf8fb45",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.png",
+      "bytes": 382260,
+      "sha256": "5592e3eaea1e00aced9cb3c762a4ac548299eb3f0d71cf232c1f1fa08d7c588e",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_2.svg",
+      "bytes": 272801,
+      "sha256": "d17666828795930cea9013c12585bdb7ef88c47a8d4becb9c11bf81fec873faf",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.pdf",
+      "bytes": 89870,
+      "sha256": "0eb913bedaf840c2b5670afda42c3963cf317845ca21d9ee8e13f5e06b9fcb6a",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.png",
+      "bytes": 392020,
+      "sha256": "5967431e207a6200bb829084c4a970108a57f7d1b7b8545f9f314c795d6ba4a6",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_25_primary_3.svg",
+      "bytes": 282166,
+      "sha256": "e10166091d2b98577ae2367a57fdc16dec8089e2a25784d7568d1cad06d65d53",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.pdf",
+      "bytes": 89589,
+      "sha256": "ecde289c77ba5837e9d0f0aa4db33685adc83648e02499a96b3ff685e37ab329",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.png",
+      "bytes": 386287,
+      "sha256": "bd098a47b97c3ab7033ab9e8de940461a86864ab5e08a775e62fd655eea0dafa",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_1.svg",
+      "bytes": 279467,
+      "sha256": "13c8172a22032f521f1be9f43391a404e8c09aad7709111da461f0ba30e2781d",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.pdf",
+      "bytes": 89990,
+      "sha256": "3b3efa455228ddbc8441c93dfe013546db00bed87e913aab7181a1126948fb0c",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.png",
+      "bytes": 382565,
+      "sha256": "c5ed625f65ca49dc28e21bf15582c46a008f03c4c5f001af5fcc4ecc18924f6b",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_2.svg",
+      "bytes": 277443,
+      "sha256": "3c75b9101b72a1e67202166689d5631610350950495a20b4c105912133031810",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.pdf",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.pdf",
+      "bytes": 89877,
+      "sha256": "aa9223c8d6a4c8c5dbd5eaacbac4101edbbce29c18120093c91b69ea132407ee",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.png",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.png",
+      "bytes": 382930,
+      "sha256": "ef029803d3e09d7e291d8345ee8019299035ae1ae1a54554036de1d136cdb863",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.svg",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/forest_alpha_0_75_primary_3.svg",
+      "bytes": 279685,
+      "sha256": "64348a9d5b4cf67095629497adb5af1cc18afa4c0b02d3ed17fdf04864ef07cf",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/primary_zh.csv",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/primary_zh.csv",
+      "bytes": 30345,
+      "sha256": "7c676e3c142a22871425572c20fd5572e4ac0960fe8f6ab6c6ed498abee0642a",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md",
+      "bytes": 14768,
+      "sha256": "7146c91e73240a4089c9ded5b00854939275ebae1b7a065f0fc9422d8308029d",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/reporting_manifest.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/reporting_manifest.json",
+      "bytes": 2858,
+      "sha256": "96f47dee3b83103aac98a3050c57668363683287c568207703a2cf77d2bfd4ef",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/summary.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_e2_e4_repaired_v2_20261004_report/summary.json",
+      "bytes": 105809,
+      "sha256": "87148486070c02a66b63f9eabd39cdeb5aa3204ab387779b5db4fedc14557d3f",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_release_review_20261004/manuscript_review.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_release_review_20261004/manuscript_review.json",
+      "bytes": 3148,
+      "sha256": "6ad499d54a88ca022f7296b5bbd9705234a53e3382347d54ea1d501119058fe0",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_release_review_20261004/verification.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_release_review_20261004/verification.json",
+      "bytes": 22614,
+      "sha256": "b84e7b36b459f49ff1336871f5e482bb7c94e9b6f301236a318d6769cae41fac",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/acceptance.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/acceptance.json",
+      "bytes": 4860,
+      "sha256": "df001aecb81db4790fa087e5431a151f453a711f215c1f793645fc62d221d22e",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analysis.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analysis.json",
+      "bytes": 860,
+      "sha256": "1f84bdde4faf003875ae1bb6e960f885d266a286f04df16cc2c5d6c922e87491",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze.log",
+      "bytes": 831,
+      "sha256": "131ac54001ab3a6b6c31fa8698f0a22fb5bcfc08d874edc3447af9ea6c88abd9",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_result.json",
+      "bytes": 784,
+      "sha256": "cb3ecbf28118f1865ea67a3671aeda01b9ce55ced106d36c343caef40c6c7c4e",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_started.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/analyze_started.json",
+      "bytes": 688,
+      "sha256": "9fbe1cfc5c09bb4dc54fb72218fc48f52f370448ad948539692b617b679cc348",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/evidence_hashes.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/evidence_hashes.json",
+      "bytes": 1899,
+      "sha256": "99b26140303f468efa47db719ba1fa20494320ec6b6d1d1848d1b929e425eddb",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/execute.py",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/execute.py",
+      "bytes": 8900,
+      "sha256": "11f328afd1c2e92ee2bbb8e000f789e0b0e4afbb900304732007dc800356ea97",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.json",
+      "bytes": 507,
+      "sha256": "3dbfa0609c745a3829725f6df1e6667f1db320d7f674a5a518debc9479654ff8",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan.log",
+      "bytes": 470,
+      "sha256": "5de06540e8f669eb45c9c754ffd7690a18327fc663adc393dccd0ff6fb45b05f",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_result.json",
+      "bytes": 538,
+      "sha256": "f4bfc9429a71bb6f2dcffa1241fac01acff53500353ef219d49675df195de02b",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_started.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/frozen_plan_started.json",
+      "bytes": 442,
+      "sha256": "58afec5d8701ecada19cd5e637752f11407b3bb6c9ec3482d6cd054372fa6c34",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/launch.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/launch.json",
+      "bytes": 754,
+      "sha256": "b9c550f97243b0143c772008750d59a1530fc0c440b352f2f2437a874e080ad2",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover.log",
+      "bytes": 62392,
+      "sha256": "5cad658b6d420deefb4c12f9f5dbf7233b61f73bcdabaaea177fcd4fa8ab5055",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_result.json",
+      "bytes": 735,
+      "sha256": "169df733dfb30c8d7a883e53d41c47058fe885b87cb186d14a2b704503dce795",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_started.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/recover_started.json",
+      "bytes": 639,
+      "sha256": "0137911708f083b540af471a7382fcf3a7c6c64177ee4d9e6a2ea1d688361b82",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report.log",
+      "bytes": 313,
+      "sha256": "9d7552d0129ee70fdfc0d12046636d83c7b3d034fd11d4b5a4f02e2765c800a8",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_result.json",
+      "bytes": 768,
+      "sha256": "82f80f915e9195961a0a88fa14069af86931f9121edc17eaf31eae33f8912ed1",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_started.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/report_started.json",
+      "bytes": 673,
+      "sha256": "a92087610efa6e44601284bd442b426923d898d9f724202c11399e09f9d0089e",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate.log",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate.log",
+      "bytes": 778,
+      "sha256": "cebb26de4ac22c082982d35ebb28dd18f51c262e13be39d18520c441c41a620d",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_result.json",
+      "bytes": 565,
+      "sha256": "6b5f051f1ec6366027769a411f9fc1b9d3e77ec350fa29ff93f807d18e1022e8",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_started.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validate_started.json",
+      "bytes": 469,
+      "sha256": "1925e446180410644df79faf427334caa16b086d3bc9aa5d6bd7c6e8f71ec09c",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validation.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_retry_execution_20261004/validation.json",
+      "bytes": 817,
+      "sha256": "9e5fa326f17bdc5c1b495c65a20a734ea0d281d57daaf218b5df5cd20788ae4c",
+      "stage": "06",
+      "purpose": "已通过正式分析、完整表图、全流程验收或独立复核的小型完整包",
+      "role": "complete_small_package"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_task_20261004/disable_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_task_20261004/disable_result.json",
+      "bytes": 232,
+      "sha256": "b783f94c3442b5259c2710bc9427b81837d15a77566836bbdc558e50a49847ca",
+      "stage": "06",
+      "purpose": "后台执行成功结束并自禁用的机器记录",
+      "role": "evidence"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/formal_repair_v2_task_20261004/task_result.json",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/formal_repair_v2_task_20261004/task_result.json",
+      "bytes": 75,
+      "sha256": "a7970b3395744147e083428a7dc519ec238b765caf2f08a60ba0528127a2f6c6",
+      "stage": "06",
+      "purpose": "后台执行成功结束并自禁用的机器记录",
+      "role": "evidence"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/empirical_motivation_protocol.md",
+      "archive_relative_path": "sources/ABM_JASSS/empirical_motivation_protocol.md",
+      "bytes": 5471,
+      "sha256": "818f542dfabbc1f6221e7eba5b54a1767c41bb1c603bd880c83e3a4ca83e3647",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_core_revision.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_core_revision.md",
+      "bytes": 6008,
+      "sha256": "4c353f6180f73c5394cac8616fd6c1e25d5370eb59469a869612c32f9cd88542",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_methods_formal_20261004.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_methods_formal_20261004.md",
+      "bytes": 20293,
+      "sha256": "cebaec852049fe84409221f47061d192c9614ccd0b0367ffa6c729deb99042a9",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_results_formal_20261004.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_results_formal_20261004.md",
+      "bytes": 13795,
+      "sha256": "e2b7056dbdf8f237f2774911e21174c157806ed1876285fcf21201a083532fbd",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/methods_en.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_work_20261004/methods_en.md",
+      "bytes": 20497,
+      "sha256": "cae9a80b9f9bd690efa00a8b3c7e0db48424cc90624fd9130bab8232184e6f83",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/methods_evidence_audit.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_work_20261004/methods_evidence_audit.md",
+      "bytes": 23662,
+      "sha256": "3439017fe749764352822769673baebc69f0b6ccbfd7c31544920d4bbd36aa62",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/results_en.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_work_20261004/results_en.md",
+      "bytes": 19527,
+      "sha256": "f1dddecdcb6bd276789773bd506efbdbcc90e7b436baecb6d708d41611944bb5",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/manuscript_work_20261004/results_evidence_map.md",
+      "archive_relative_path": "sources/ABM_JASSS/manuscript_work_20261004/results_evidence_map.md",
+      "bytes": 6237,
+      "sha256": "bfad278eb1d18cda117e32dfcafad05070f4fb77b302252cf5ae2286291b8135",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/paper_outline_jasss.md",
+      "archive_relative_path": "sources/ABM_JASSS/paper_outline_jasss.md",
+      "bytes": 15184,
+      "sha256": "135627c2efcf42613a62f1b26176074fbd0e885fdaae97199a8c77c8fbc66f8d",
+      "stage": "07",
+      "purpose": "论文结构、中英方法及结果工作稿、证据映射和经验动机边界",
+      "role": "report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/diagnostic_report.md",
+      "archive_relative_path": "sources/ABM_JASSS/diagnostic_report.md",
+      "bytes": 3666,
+      "sha256": "a1a00a80196ebf24c751f20bb9461aaa86eaecfb6db790cf6f97051ebd9f6bd6",
+      "stage": "08",
+      "purpose": "历史开发证据；模型版本和测量定义不同，不能合并为正式样本",
+      "role": "historical_report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/core_restoration_v040_20260926/core_pilot_report.md",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/core_restoration_v040_20260926/core_pilot_report.md",
+      "bytes": 3186,
+      "sha256": "b10254c05ec0c8695dbf3dcfd2642cbde8c8e4656a076bedd9899ecfbdce9eab",
+      "stage": "08",
+      "purpose": "历史开发证据；模型版本和测量定义不同，不能合并为正式样本",
+      "role": "historical_report"
+    },
+    {
+      "source_relative_path": "ABM_JASSS/outputs/response_alignment_v040_20260926/report.md",
+      "archive_relative_path": "sources/ABM_JASSS/outputs/response_alignment_v040_20260926/report.md",
+      "bytes": 2436,
+      "sha256": "7335f1ad42dd5faae970b61f06e1f4deac3554b291cdf0113b3e11258027e09f",
+      "stage": "08",
+      "purpose": "历史开发证据；模型版本和测量定义不同，不能合并为正式样本",
+      "role": "historical_report"
+    }
+  ]
+}

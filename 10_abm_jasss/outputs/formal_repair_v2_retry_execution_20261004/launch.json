@@ -1,0 +1,13 @@
+{
+  "additional_independent_samples": 0,
+  "interruption_evidence_hash": "40ffb96cc86dcb734d4825ca0b6ddbf868ea07ef507a830983d007479c6b5137",
+  "parent_registry_hash": "707b7d97cf8c3b0ada81caa246610fc6346b9fc4c224897b00171cf19931a3d8",
+  "repair_registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+  "software_revision": "unchanged_frozen_v2",
+  "source_batch": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_20261003",
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "stage": "formal_repair_v2_retry_execution",
+  "started_at": "2026-10-03T16:18:31.185469+00:00",
+  "workers": 12,
+  "wrapper_hash": "11f328afd1c2e92ee2bbb8e000f789e0b0e4afbb900304732007dc800356ea97"
+}

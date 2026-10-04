@@ -1,0 +1,68 @@
+{
+  "additional_sampling": false,
+  "additional_tests": false,
+  "comparison_count": 102,
+  "created_at": "2026-10-03T21:52:10.682282+00:00",
+  "figures": [
+    "forest_alpha_0_25_primary_1.pdf",
+    "forest_alpha_0_25_primary_1.svg",
+    "forest_alpha_0_25_primary_1.png",
+    "forest_alpha_0_75_primary_1.pdf",
+    "forest_alpha_0_75_primary_1.svg",
+    "forest_alpha_0_75_primary_1.png",
+    "forest_alpha_0_25_primary_2.pdf",
+    "forest_alpha_0_25_primary_2.svg",
+    "forest_alpha_0_25_primary_2.png",
+    "forest_alpha_0_75_primary_2.pdf",
+    "forest_alpha_0_75_primary_2.svg",
+    "forest_alpha_0_75_primary_2.png",
+    "forest_alpha_0_25_primary_3.pdf",
+    "forest_alpha_0_25_primary_3.svg",
+    "forest_alpha_0_25_primary_3.png",
+    "forest_alpha_0_75_primary_3.pdf",
+    "forest_alpha_0_75_primary_3.svg",
+    "forest_alpha_0_75_primary_3.png"
+  ],
+  "generator_sha256": "92f5eda32b8edede4d77b342b15011ee0111e3cc646b1eb45e2c6edf89ab111a",
+  "provenance": {
+    "analysis": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_e2_e4_repaired_v2_20261004_analysis",
+    "analysis_inventory_hash": "03200e6ea5afd7f6525a74f9cd688ee0710371eac79d5cb8e38c50bb6a75bbe7",
+    "analysis_manifest_hash": "bb57202fe9cc0575911b19fde5a26df375ac57ece59385bc81c1a080fe7dac51",
+    "batch_id": "formal_recovered_245a476e7f5646e7bdb8a17b430f1ad6",
+    "batch_inventory_hash": "268388316dad024c97bdb53c4dca35120c163567fb6f78288e988379526c2a3b",
+    "batch_manifest_hash": "0542945f9c14b832408421c3da9617edae50248e983d5e6895bcf8dbc254cbb5",
+    "independent_seeds": 1000,
+    "registry": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\formal_registry_repair_v2_20261003",
+    "registry_hash": "f80eb9f1756f49de37655bd53f4d687276b3ebdb55dcfeff27f81cbac1e56230",
+    "registry_inventory_hash": "97602f482fd02f307c651415fefdfcb7508267d34215d20046733f97c0270f30",
+    "sample_sizes": {
+      "0.25": 184,
+      "0.75": 1000
+    },
+    "semantic_validation_complete": true,
+    "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+    "specification_hash": "18a89136561b64b01fc20e12bc47e2d7480f19b458808353b75707686a68249b",
+    "validation_report_hash": "9e5fa326f17bdc5c1b495c65a20a734ea0d281d57daaf218b5df5cd20788ae4c"
+  },
+  "renderer": {
+    "font": "C:\\Windows\\Fonts\\msyh.ttc",
+    "font_family": "Microsoft YaHei",
+    "font_sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "library": "matplotlib",
+    "numpy": "2.5.3",
+    "pillow": "12.3.0",
+    "python": "3.12.14",
+    "version": "3.11.2"
+  },
+  "schema": "formal-reporting-1",
+  "summary": {
+    "estimated": 102,
+    "holm_rejections": 45,
+    "pilot_budget_limited_count": 3,
+    "pilot_variance_unstable_count": 61,
+    "target_met": 102,
+    "target_not_met": 0,
+    "target_unavailable": 0
+  },
+  "synthetic_fixture_only": false
+}
