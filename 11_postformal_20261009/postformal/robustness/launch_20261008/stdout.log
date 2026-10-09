@@ -1,0 +1,185 @@
+{"stage": "run", "started_at": "2026-10-08T12:52:42.705753+00:00"}
+{"stage": "run", "completed": 50, "failed": 0, "total": 6000, "last_group": "baseline_a25_seed910050"}
+{"stage": "run", "completed": 100, "failed": 0, "total": 6000, "last_group": "baseline_a25_seed910100"}
+{"stage": "run", "completed": 150, "failed": 0, "total": 6000, "last_group": "baseline_a25_seed910150"}
+{"stage": "run", "completed": 200, "failed": 0, "total": 6000, "last_group": "baseline_a25_seed910199"}
+{"stage": "run", "completed": 250, "failed": 0, "total": 6000, "last_group": "baseline_a75_seed910050"}
+{"stage": "run", "completed": 300, "failed": 0, "total": 6000, "last_group": "baseline_a75_seed910100"}
+{"stage": "run", "completed": 350, "failed": 0, "total": 6000, "last_group": "baseline_a75_seed910150"}
+{"stage": "run", "completed": 400, "failed": 0, "total": 6000, "last_group": "baseline_a75_seed910200"}
+{"stage": "run", "completed": 450, "failed": 0, "total": 6000, "last_group": "grid6_a25_seed910050"}
+{"stage": "run", "completed": 500, "failed": 0, "total": 6000, "last_group": "grid6_a25_seed910100"}
+{"stage": "run", "completed": 550, "failed": 0, "total": 6000, "last_group": "grid6_a25_seed910150"}
+{"stage": "run", "completed": 600, "failed": 0, "total": 6000, "last_group": "grid6_a25_seed910200"}
+{"stage": "run", "completed": 650, "failed": 0, "total": 6000, "last_group": "grid6_a75_seed910050"}
+{"stage": "run", "completed": 700, "failed": 0, "total": 6000, "last_group": "grid6_a75_seed910100"}
+{"stage": "run", "completed": 750, "failed": 0, "total": 6000, "last_group": "grid6_a75_seed910150"}
+{"stage": "run", "completed": 800, "failed": 0, "total": 6000, "last_group": "grid6_a75_seed910200"}
+{"stage": "run", "completed": 850, "failed": 0, "total": 6000, "last_group": "reference8_a25_seed910050"}
+{"stage": "run", "completed": 900, "failed": 0, "total": 6000, "last_group": "reference8_a25_seed910100"}
+{"stage": "run", "completed": 950, "failed": 0, "total": 6000, "last_group": "reference8_a25_seed910150"}
+{"stage": "run", "completed": 1000, "failed": 0, "total": 6000, "last_group": "reference8_a25_seed910200"}
+{"stage": "run", "completed": 1050, "failed": 0, "total": 6000, "last_group": "reference8_a75_seed910050"}
+{"stage": "run", "completed": 1100, "failed": 0, "total": 6000, "last_group": "reference8_a75_seed910100"}
+{"stage": "run", "completed": 1150, "failed": 0, "total": 6000, "last_group": "reference8_a75_seed910150"}
+{"stage": "run", "completed": 1200, "failed": 0, "total": 6000, "last_group": "reference8_a75_seed910200"}
+{"stage": "run", "completed": 1250, "failed": 0, "total": 6000, "last_group": "reference16_a25_seed910050"}
+{"stage": "run", "completed": 1300, "failed": 0, "total": 6000, "last_group": "reference16_a25_seed910100"}
+{"stage": "run", "completed": 1350, "failed": 0, "total": 6000, "last_group": "reference16_a25_seed910150"}
+{"stage": "run", "completed": 1400, "failed": 0, "total": 6000, "last_group": "reference16_a25_seed910200"}
+{"stage": "run", "completed": 1450, "failed": 0, "total": 6000, "last_group": "reference16_a75_seed910050"}
+{"stage": "run", "completed": 1500, "failed": 0, "total": 6000, "last_group": "reference16_a75_seed910100"}
+{"stage": "run", "completed": 1550, "failed": 0, "total": 6000, "last_group": "reference16_a75_seed910150"}
+{"stage": "run", "completed": 1600, "failed": 0, "total": 6000, "last_group": "reference16_a75_seed910200"}
+{"stage": "run", "completed": 1650, "failed": 0, "total": 6000, "last_group": "survey6_a25_seed910050"}
+{"stage": "run", "completed": 1700, "failed": 0, "total": 6000, "last_group": "survey6_a25_seed910100"}
+{"stage": "run", "completed": 1750, "failed": 0, "total": 6000, "last_group": "survey6_a25_seed910150"}
+{"stage": "run", "completed": 1800, "failed": 0, "total": 6000, "last_group": "survey6_a25_seed910200"}
+{"stage": "run", "completed": 1850, "failed": 0, "total": 6000, "last_group": "survey6_a75_seed910050"}
+{"stage": "run", "completed": 1900, "failed": 0, "total": 6000, "last_group": "survey6_a75_seed910100"}
+{"stage": "run", "completed": 1950, "failed": 0, "total": 6000, "last_group": "survey6_a75_seed910150"}
+{"stage": "run", "completed": 2000, "failed": 0, "total": 6000, "last_group": "survey6_a75_seed910200"}
+{"stage": "run", "completed": 2050, "failed": 0, "total": 6000, "last_group": "survey24_a25_seed910050"}
+{"stage": "run", "completed": 2100, "failed": 0, "total": 6000, "last_group": "survey24_a25_seed910100"}
+{"stage": "run", "completed": 2150, "failed": 0, "total": 6000, "last_group": "survey24_a25_seed910150"}
+{"stage": "run", "completed": 2200, "failed": 0, "total": 6000, "last_group": "survey24_a75_seed910001"}
+{"stage": "run", "completed": 2250, "failed": 0, "total": 6000, "last_group": "survey24_a75_seed910050"}
+{"stage": "run", "completed": 2300, "failed": 0, "total": 6000, "last_group": "survey24_a75_seed910100"}
+{"stage": "run", "completed": 2350, "failed": 0, "total": 6000, "last_group": "survey24_a75_seed910150"}
+{"stage": "run", "completed": 2400, "failed": 0, "total": 6000, "last_group": "survey24_a75_seed910200"}
+{"stage": "run", "completed": 2450, "failed": 0, "total": 6000, "last_group": "prior5_a25_seed910050"}
+{"stage": "run", "completed": 2500, "failed": 0, "total": 6000, "last_group": "prior5_a25_seed910100"}
+{"stage": "run", "completed": 2550, "failed": 0, "total": 6000, "last_group": "prior5_a25_seed910150"}
+{"stage": "run", "completed": 2600, "failed": 0, "total": 6000, "last_group": "prior5_a75_seed910001"}
+{"stage": "run", "completed": 2650, "failed": 0, "total": 6000, "last_group": "prior5_a75_seed910050"}
+{"stage": "run", "completed": 2700, "failed": 0, "total": 6000, "last_group": "prior5_a75_seed910100"}
+{"stage": "run", "completed": 2750, "failed": 0, "total": 6000, "last_group": "prior5_a75_seed910150"}
+{"stage": "run", "completed": 2800, "failed": 0, "total": 6000, "last_group": "prior5_a75_seed910200"}
+{"stage": "run", "completed": 2850, "failed": 0, "total": 6000, "last_group": "regularization0_a25_seed910050"}
+{"stage": "run", "completed": 2900, "failed": 0, "total": 6000, "last_group": "regularization0_a25_seed910100"}
+{"stage": "run", "completed": 2950, "failed": 0, "total": 6000, "last_group": "regularization0_a25_seed910150"}
+{"stage": "run", "completed": 3000, "failed": 0, "total": 6000, "last_group": "regularization0_a75_seed910001"}
+{"stage": "run", "completed": 3050, "failed": 0, "total": 6000, "last_group": "regularization0_a75_seed910050"}
+{"stage": "run", "completed": 3100, "failed": 0, "total": 6000, "last_group": "regularization0_a75_seed910100"}
+{"stage": "run", "completed": 3150, "failed": 0, "total": 6000, "last_group": "regularization0_a75_seed910150"}
+{"stage": "run", "completed": 3200, "failed": 0, "total": 6000, "last_group": "regularization0_a75_seed910200"}
+{"stage": "run", "completed": 3250, "failed": 0, "total": 6000, "last_group": "regularization005_a25_seed910050"}
+{"stage": "run", "completed": 3300, "failed": 0, "total": 6000, "last_group": "regularization005_a25_seed910100"}
+{"stage": "run", "completed": 3350, "failed": 0, "total": 6000, "last_group": "regularization005_a25_seed910150"}
+{"stage": "run", "completed": 3400, "failed": 0, "total": 6000, "last_group": "regularization005_a75_seed910001"}
+{"stage": "run", "completed": 3450, "failed": 0, "total": 6000, "last_group": "regularization005_a75_seed910050"}
+{"stage": "run", "completed": 3500, "failed": 0, "total": 6000, "last_group": "regularization005_a75_seed910100"}
+{"stage": "run", "completed": 3550, "failed": 0, "total": 6000, "last_group": "regularization005_a75_seed910150"}
+{"stage": "run", "completed": 3600, "failed": 0, "total": 6000, "last_group": "regularization005_a75_seed910200"}
+{"stage": "run", "completed": 3650, "failed": 0, "total": 6000, "last_group": "survey_weight05_a25_seed910050"}
+{"stage": "run", "completed": 3700, "failed": 0, "total": 6000, "last_group": "survey_weight05_a25_seed910100"}
+{"stage": "run", "completed": 3750, "failed": 0, "total": 6000, "last_group": "survey_weight05_a25_seed910150"}
+{"stage": "run", "completed": 3800, "failed": 0, "total": 6000, "last_group": "survey_weight05_a75_seed910001"}
+{"stage": "run", "completed": 3850, "failed": 0, "total": 6000, "last_group": "survey_weight05_a75_seed910049"}
+{"stage": "run", "completed": 3900, "failed": 0, "total": 6000, "last_group": "survey_weight05_a75_seed910100"}
+{"stage": "run", "completed": 3950, "failed": 0, "total": 6000, "last_group": "survey_weight05_a75_seed910150"}
+{"stage": "run", "completed": 4000, "failed": 0, "total": 6000, "last_group": "survey_weight05_a75_seed910200"}
+{"stage": "run", "completed": 4050, "failed": 0, "total": 6000, "last_group": "survey_weight2_a25_seed910050"}
+{"stage": "run", "completed": 4100, "failed": 0, "total": 6000, "last_group": "survey_weight2_a25_seed910100"}
+{"stage": "run", "completed": 4150, "failed": 0, "total": 6000, "last_group": "survey_weight2_a25_seed910150"}
+{"stage": "run", "completed": 4200, "failed": 0, "total": 6000, "last_group": "survey_weight2_a25_seed910199"}
+{"stage": "run", "completed": 4250, "failed": 0, "total": 6000, "last_group": "survey_weight2_a75_seed910050"}
+{"stage": "run", "completed": 4300, "failed": 0, "total": 6000, "last_group": "survey_weight2_a75_seed910100"}
+{"stage": "run", "completed": 4350, "failed": 0, "total": 6000, "last_group": "survey_weight2_a75_seed910150"}
+{"stage": "run", "completed": 4400, "failed": 0, "total": 6000, "last_group": "survey_weight2_a75_seed910200"}
+{"stage": "run", "completed": 4450, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a25_seed910050"}
+{"stage": "run", "completed": 4500, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a25_seed910100"}
+{"stage": "run", "completed": 4550, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a25_seed910150"}
+{"stage": "run", "completed": 4600, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a25_seed910200"}
+{"stage": "run", "completed": 4650, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a75_seed910050"}
+{"stage": "run", "completed": 4700, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a75_seed910100"}
+{"stage": "run", "completed": 4750, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a75_seed910150"}
+{"stage": "run", "completed": 4800, "failed": 0, "total": 6000, "last_group": "grid6_reference8_a75_seed910200"}
+{"stage": "run", "completed": 4850, "failed": 0, "total": 6000, "last_group": "no_drift_a25_seed910050"}
+{"stage": "run", "completed": 4900, "failed": 0, "total": 6000, "last_group": "no_drift_a25_seed910100"}
+{"stage": "run", "completed": 4950, "failed": 0, "total": 6000, "last_group": "no_drift_a25_seed910150"}
+{"stage": "run", "completed": 5000, "failed": 0, "total": 6000, "last_group": "no_drift_a25_seed910199"}
+{"stage": "run", "completed": 5050, "failed": 0, "total": 6000, "last_group": "no_drift_a75_seed910050"}
+{"stage": "run", "completed": 5100, "failed": 0, "total": 6000, "last_group": "no_drift_a75_seed910100"}
+{"stage": "run", "completed": 5150, "failed": 0, "total": 6000, "last_group": "no_drift_a75_seed910150"}
+{"stage": "run", "completed": 5200, "failed": 0, "total": 6000, "last_group": "no_drift_a75_seed910200"}
+{"stage": "run", "completed": 5250, "failed": 0, "total": 6000, "last_group": "population200_a25_seed910050"}
+{"stage": "run", "completed": 5300, "failed": 0, "total": 6000, "last_group": "population200_a25_seed910100"}
+{"stage": "run", "completed": 5350, "failed": 0, "total": 6000, "last_group": "population200_a25_seed910150"}
+{"stage": "run", "completed": 5400, "failed": 0, "total": 6000, "last_group": "population200_a25_seed910200"}
+{"stage": "run", "completed": 5450, "failed": 0, "total": 6000, "last_group": "population200_a75_seed910050"}
+{"stage": "run", "completed": 5500, "failed": 0, "total": 6000, "last_group": "population200_a75_seed910100"}
+{"stage": "run", "completed": 5550, "failed": 0, "total": 6000, "last_group": "population200_a75_seed910150"}
+{"stage": "run", "completed": 5600, "failed": 0, "total": 6000, "last_group": "population200_a75_seed910200"}
+{"stage": "run", "completed": 5650, "failed": 0, "total": 6000, "last_group": "horizon450_a25_seed910050"}
+{"stage": "run", "completed": 5700, "failed": 0, "total": 6000, "last_group": "horizon450_a25_seed910100"}
+{"stage": "run", "completed": 5750, "failed": 0, "total": 6000, "last_group": "horizon450_a25_seed910150"}
+{"stage": "run", "completed": 5800, "failed": 0, "total": 6000, "last_group": "horizon450_a75_seed910001"}
+{"stage": "run", "completed": 5850, "failed": 0, "total": 6000, "last_group": "horizon450_a75_seed910050"}
+{"stage": "run", "completed": 5900, "failed": 0, "total": 6000, "last_group": "horizon450_a75_seed910100"}
+{"stage": "run", "completed": 5950, "failed": 0, "total": 6000, "last_group": "horizon450_a75_seed910150"}
+{"stage": "run", "completed": 6000, "failed": 0, "total": 6000, "last_group": "horizon450_a75_seed910200"}
+{"stage": "validate", "started_at": "2026-10-08T23:01:54.980890+00:00"}
+{"stage": "validate", "groups": 100, "total": 6000}
+{"stage": "validate", "groups": 200, "total": 6000}
+{"stage": "validate", "groups": 300, "total": 6000}
+{"stage": "validate", "groups": 400, "total": 6000}
+{"stage": "validate", "groups": 500, "total": 6000}
+{"stage": "validate", "groups": 600, "total": 6000}
+{"stage": "validate", "groups": 700, "total": 6000}
+{"stage": "validate", "groups": 800, "total": 6000}
+{"stage": "validate", "groups": 900, "total": 6000}
+{"stage": "validate", "groups": 1000, "total": 6000}
+{"stage": "validate", "groups": 1100, "total": 6000}
+{"stage": "validate", "groups": 1200, "total": 6000}
+{"stage": "validate", "groups": 1300, "total": 6000}
+{"stage": "validate", "groups": 1400, "total": 6000}
+{"stage": "validate", "groups": 1500, "total": 6000}
+{"stage": "validate", "groups": 1600, "total": 6000}
+{"stage": "validate", "groups": 1700, "total": 6000}
+{"stage": "validate", "groups": 1800, "total": 6000}
+{"stage": "validate", "groups": 1900, "total": 6000}
+{"stage": "validate", "groups": 2000, "total": 6000}
+{"stage": "validate", "groups": 2100, "total": 6000}
+{"stage": "validate", "groups": 2200, "total": 6000}
+{"stage": "validate", "groups": 2300, "total": 6000}
+{"stage": "validate", "groups": 2400, "total": 6000}
+{"stage": "validate", "groups": 2500, "total": 6000}
+{"stage": "validate", "groups": 2600, "total": 6000}
+{"stage": "validate", "groups": 2700, "total": 6000}
+{"stage": "validate", "groups": 2800, "total": 6000}
+{"stage": "validate", "groups": 2900, "total": 6000}
+{"stage": "validate", "groups": 3000, "total": 6000}
+{"stage": "validate", "groups": 3100, "total": 6000}
+{"stage": "validate", "groups": 3200, "total": 6000}
+{"stage": "validate", "groups": 3300, "total": 6000}
+{"stage": "validate", "groups": 3400, "total": 6000}
+{"stage": "validate", "groups": 3500, "total": 6000}
+{"stage": "validate", "groups": 3600, "total": 6000}
+{"stage": "validate", "groups": 3700, "total": 6000}
+{"stage": "validate", "groups": 3800, "total": 6000}
+{"stage": "validate", "groups": 3900, "total": 6000}
+{"stage": "validate", "groups": 4000, "total": 6000}
+{"stage": "validate", "groups": 4100, "total": 6000}
+{"stage": "validate", "groups": 4200, "total": 6000}
+{"stage": "validate", "groups": 4300, "total": 6000}
+{"stage": "validate", "groups": 4400, "total": 6000}
+{"stage": "validate", "groups": 4500, "total": 6000}
+{"stage": "validate", "groups": 4600, "total": 6000}
+{"stage": "validate", "groups": 4700, "total": 6000}
+{"stage": "validate", "groups": 4800, "total": 6000}
+{"stage": "validate", "groups": 4900, "total": 6000}
+{"stage": "validate", "groups": 5000, "total": 6000}
+{"stage": "validate", "groups": 5100, "total": 6000}
+{"stage": "validate", "groups": 5200, "total": 6000}
+{"stage": "validate", "groups": 5300, "total": 6000}
+{"stage": "validate", "groups": 5400, "total": 6000}
+{"stage": "validate", "groups": 5500, "total": 6000}
+{"stage": "validate", "groups": 5600, "total": 6000}
+{"stage": "validate", "groups": 5700, "total": 6000}
+{"stage": "validate", "groups": 5800, "total": 6000}
+{"stage": "validate", "groups": 5900, "total": 6000}
+{"stage": "validate", "groups": 6000, "total": 6000}
+{"stage": "analyze", "started_at": "2026-10-09T02:57:20.038071+00:00"}
+{"stage": "report", "started_at": "2026-10-09T03:31:09.607868+00:00"}
+{"status": "passed", "pipeline": "postformal/robustness/execution_20261008"}

@@ -1,0 +1,43 @@
+{
+  "id": "ipsos_history",
+  "requested_url": "https://www.ipsos.com/en-uk/issues-index-2018-onwards",
+  "started_at_utc": "2026-10-04T15:25:53.467195+00:00",
+  "request_headers": {
+    "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+  },
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://www.ipsos.com/en-uk/issues-index-2018-onwards",
+  "headers": {
+    "Date": "Sun, 04 Oct 2026 15:25:50 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "Cache-Control": "max-age=2764800, public",
+    "x-drupal-dynamic-cache": "MISS",
+    "content-language": "en-uk",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "vary": "Cookie,Accept-Encoding",
+    "x-robots-tag": "index",
+    "content-security-policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-drupal-cache": "MISS",
+    "last-modified": "Sat, 03 Oct 2026 22:08:25 GMT",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "x-request-id": "v-f465c6d8-bf76-11f1-9586-2f5208d97a64",
+    "x-ah-environment": "prod",
+    "Age": "62243",
+    "via": "varnish",
+    "x-cache": "HIT",
+    "x-cache-hits": "4",
+    "Strict-Transport-Security": "max-age=31536000",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a455338e6d49e61c-NRT"
+  },
+  "finished_at_utc": "2026-10-04T15:25:55.160246+00:00",
+  "body_path": "raw/20261004T152553466195Z/ipsos_history.body",
+  "bytes": 154538,
+  "sha256": "8ebf748c0595e4791af6fbc6ce79dd21a24d08c593c4580c9d7fee81dd50b4ca"
+}

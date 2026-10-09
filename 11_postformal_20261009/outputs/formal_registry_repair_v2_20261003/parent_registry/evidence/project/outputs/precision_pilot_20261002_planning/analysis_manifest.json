@@ -1,0 +1,103 @@
+{
+  "analysis_scope": "Registered summaries and planning reconstruction; raw semantics require supplied validation reports.",
+  "analysis_source_sha256": {
+    "scripts/analyze_precision_pilot.py": "207f58f5bc8aeb7c5e147b8cc4010d7ef5faf333cab9c2075df2809764565695",
+    "scripts/precision_statistics.py": "06295320dd99ed55aefe51d2f39976df9c7bf5198110a95a0b013eb458945306",
+    "scripts/run_precision_pilot.py": "436b92b76299d36c1344ba781f6591e6041bd393aca6af9064a34e005608ad70"
+  },
+  "created_at": "2026-10-02T02:16:45.457738+00:00",
+  "formal_ready": false,
+  "input_batches": {
+    "expansion": {
+      "batch_id": "precision_1393910eeef541f68fd9e15be3a21314",
+      "directory": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_expansion",
+      "input_hashes": {
+        "artifact_hashes.json": "db3333e011a665e2005655eb67ab9bf65b00ecfb4bf3e1873f5cc706b5160079",
+        "configuration.json": "fb70f7a97401155be9014d6e140e86310132f66feebe1c86c91f11f07d022be6",
+        "failures.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+        "manifest.json": "50efb99c1097d8b93a6df62b4a834ca46d51d449b00146514457825e1c8f8503",
+        "precision_analysis.json": "c601183886c0c3a45d89e5c0e6692581a38abdf63cbcf81df8bf6a30da984f83",
+        "resolved_design.json": "955fa3b24bdca98037677135c03161374986dd9b3b5c87b28857d0de1093e419",
+        "source_snapshot/abm_jasss/__init__.py": "db19bd2562e9992ebd44e88b64895921d7492c7f172a12350927a499ce5e8811",
+        "source_snapshot/abm_jasss/cli.py": "0c7f0993a46a3d25a2c1885d6d4706aabf95b6fa4ace454e20a64e510502856b",
+        "source_snapshot/abm_jasss/governance.py": "a16d5d64d4d66108fbb87419f211b253b6c001db01076b63b7202e1978d9050d",
+        "source_snapshot/abm_jasss/government_sensing.py": "65ebf387f3be1cb72f2729a3f66a0de3b4077790c53bfb7705da73beac487213",
+        "source_snapshot/abm_jasss/model.py": "3fe2d6db2a9531a3f9f04ee8f58c298d4467c5aafebea5016f56f7cf48d0b074",
+        "source_snapshot/abm_jasss/public_signals.py": "bcc64cb92bdfb27ccb9cba285c81220c06bc80371cb8f05d05a0a2f0937527c9",
+        "source_snapshot/abm_jasss/research_cli.py": "bb21e4b6b1ecac787ed8b793217d8dbf1d525e9eb10f07d9d42eba25ec1f03bc",
+        "source_snapshot/abm_jasss/research_config.py": "2fe45e558852a9760fa9b2e750375c4d851ab461b13a1b0a0414bcec4e6ef6f2",
+        "source_snapshot/abm_jasss/research_dynamics.py": "b1ce786106ca005f7aa71949fc68413afcb3b3b7fd98eafd3cadd9f632dda681",
+        "source_snapshot/abm_jasss/research_governance.py": "5b3c37adee1b731df14d678b05fb5ea15df58a0daf569e6973d7e75368794a84",
+        "source_snapshot/abm_jasss/research_outcomes.py": "3770de02b9708087dbb4cfe5bf0d78177455a7bd74444cfe7ff087001fecd209",
+        "source_snapshot/abm_jasss/research_randomness.py": "6d2b779e56d9f7b37009ad31fa4f5aff66d757bc5aecdd970a8475d3c3e4349c",
+        "source_snapshot/abm_jasss/research_replay.py": "e151f07eca47efd42ad0a2e62535d778d40a7159b984d15c63afa7c4f64d6ee8",
+        "source_snapshot/abm_jasss/research_s1_cli.py": "a6d3aa393bb58aba17dc634f2c005dd81dfb86b44570ec8080d196a7a359f2d3",
+        "source_snapshot/abm_jasss/research_world.py": "18d1bfceac578e7df004b7e5ce9780f3dae05d49ec05160e78d5199a7fdda1f4",
+        "source_snapshot/abm_jasss/response_diagnostics.py": "eca3b02298b9d743c43e22cc9bcd0b77684b748dc4c06c4d90d943a42551078d",
+        "source_snapshot/scripts/precision_statistics.py": "06295320dd99ed55aefe51d2f39976df9c7bf5198110a95a0b013eb458945306",
+        "source_snapshot/scripts/run_precision_pilot.py": "436b92b76299d36c1344ba781f6591e6041bd393aca6af9064a34e005608ad70",
+        "statistical_records.json": "f99d6d9fd0307567b6fc5440ec1a002bbb5cd41aaa1111a2762092932d6ac56d"
+      }
+    },
+    "initial": {
+      "batch_id": "precision_c2a2c9c8c485446aa72ec3d8a936ec81",
+      "directory": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_initial",
+      "input_hashes": {
+        "artifact_hashes.json": "1e3025b313b4415499bbfca9a538fed6bddc32eaba3c65d88c55ce2b467b5e9b",
+        "configuration.json": "fb70f7a97401155be9014d6e140e86310132f66feebe1c86c91f11f07d022be6",
+        "failures.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+        "manifest.json": "f5420a4fefa05c820b2ed68cdd4593aebb03fccdcdb97bbf9feb697f87bf9acb",
+        "precision_analysis.json": "3e3fccc9efb81927a2454a77492096487cb1be8af178a1285f671b5dd075e683",
+        "resolved_design.json": "1fda7b3a2979162ceeb5333784b56e16569dc911eb57ac3a4ab689b37a6a2b2f",
+        "source_snapshot/abm_jasss/__init__.py": "db19bd2562e9992ebd44e88b64895921d7492c7f172a12350927a499ce5e8811",
+        "source_snapshot/abm_jasss/cli.py": "0c7f0993a46a3d25a2c1885d6d4706aabf95b6fa4ace454e20a64e510502856b",
+        "source_snapshot/abm_jasss/governance.py": "a16d5d64d4d66108fbb87419f211b253b6c001db01076b63b7202e1978d9050d",
+        "source_snapshot/abm_jasss/government_sensing.py": "65ebf387f3be1cb72f2729a3f66a0de3b4077790c53bfb7705da73beac487213",
+        "source_snapshot/abm_jasss/model.py": "3fe2d6db2a9531a3f9f04ee8f58c298d4467c5aafebea5016f56f7cf48d0b074",
+        "source_snapshot/abm_jasss/public_signals.py": "bcc64cb92bdfb27ccb9cba285c81220c06bc80371cb8f05d05a0a2f0937527c9",
+        "source_snapshot/abm_jasss/research_cli.py": "bb21e4b6b1ecac787ed8b793217d8dbf1d525e9eb10f07d9d42eba25ec1f03bc",
+        "source_snapshot/abm_jasss/research_config.py": "2fe45e558852a9760fa9b2e750375c4d851ab461b13a1b0a0414bcec4e6ef6f2",
+        "source_snapshot/abm_jasss/research_dynamics.py": "b1ce786106ca005f7aa71949fc68413afcb3b3b7fd98eafd3cadd9f632dda681",
+        "source_snapshot/abm_jasss/research_governance.py": "5b3c37adee1b731df14d678b05fb5ea15df58a0daf569e6973d7e75368794a84",
+        "source_snapshot/abm_jasss/research_outcomes.py": "3770de02b9708087dbb4cfe5bf0d78177455a7bd74444cfe7ff087001fecd209",
+        "source_snapshot/abm_jasss/research_randomness.py": "6d2b779e56d9f7b37009ad31fa4f5aff66d757bc5aecdd970a8475d3c3e4349c",
+        "source_snapshot/abm_jasss/research_replay.py": "e151f07eca47efd42ad0a2e62535d778d40a7159b984d15c63afa7c4f64d6ee8",
+        "source_snapshot/abm_jasss/research_s1_cli.py": "a6d3aa393bb58aba17dc634f2c005dd81dfb86b44570ec8080d196a7a359f2d3",
+        "source_snapshot/abm_jasss/research_world.py": "18d1bfceac578e7df004b7e5ce9780f3dae05d49ec05160e78d5199a7fdda1f4",
+        "source_snapshot/abm_jasss/response_diagnostics.py": "eca3b02298b9d743c43e22cc9bcd0b77684b748dc4c06c4d90d943a42551078d",
+        "source_snapshot/scripts/precision_statistics.py": "06295320dd99ed55aefe51d2f39976df9c7bf5198110a95a0b013eb458945306",
+        "source_snapshot/scripts/run_precision_pilot.py": "436b92b76299d36c1344ba781f6591e6041bd393aca6af9064a34e005608ad70",
+        "statistical_records.json": "d06b4985b34bf06a918013ad92e2db87108e9cc5aa79bea885fe5e9e29594ee9"
+      }
+    }
+  },
+  "parents_per_alpha": 40,
+  "planning_items": 102,
+  "schema_version": "precision-combined-analysis-1",
+  "semantic_validation_complete": true,
+  "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+  "specification_hash": "73d615baa7e8d7f197bfc2bfd2675184e166e7e88450401f570c20d128c37415",
+  "stage": "precision_pilot",
+  "validation": {
+    "expansion": {
+      "artifact_inventory_hash": "db3333e011a665e2005655eb67ab9bf65b00ecfb4bf3e1873f5cc706b5160079",
+      "batch_id": "precision_1393910eeef541f68fd9e15be3a21314",
+      "manifest_hash": "50efb99c1097d8b93a6df62b4a834ca46d51d449b00146514457825e1c8f8503",
+      "passed": true,
+      "path": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_acceptance\\validate_expansion.json",
+      "sha256": "bdbcbec1eea259dcb0cf2da3a93d45bc77a86dc4acbf0dbd4d4ffed55770a3c7",
+      "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+      "status": "passed"
+    },
+    "initial": {
+      "artifact_inventory_hash": "1e3025b313b4415499bbfca9a538fed6bddc32eaba3c65d88c55ce2b467b5e9b",
+      "batch_id": "precision_c2a2c9c8c485446aa72ec3d8a936ec81",
+      "manifest_hash": "f5420a4fefa05c820b2ed68cdd4593aebb03fccdcdb97bbf9feb697f87bf9acb",
+      "passed": true,
+      "path": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_acceptance\\validate_initial.json",
+      "sha256": "d2fe168aa7859cc763e056360f458c1d0c91efb78af917ece4b99ae6f8805db4",
+      "source_hash": "67726e88836bbfc3c9cd8a6b214c48560ea46e637eac4c35573e3566fef332d1",
+      "status": "passed"
+    }
+  }
+}

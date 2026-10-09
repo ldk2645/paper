@@ -1,0 +1,43 @@
+{
+  "id": "ipsos_aug2026",
+  "requested_url": "https://www.ipsos.com/en-uk/immigration-remains-britains-biggest-issue-concern-about-climate-change-and-environment-rises",
+  "started_at_utc": "2026-10-04T15:25:59.297800+00:00",
+  "request_headers": {
+    "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+  },
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://www.ipsos.com/en-uk/immigration-remains-britains-biggest-issue-concern-about-climate-change-and-environment-rises",
+  "headers": {
+    "Date": "Sun, 04 Oct 2026 15:25:55 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "Cache-Control": "max-age=2764800, public",
+    "x-drupal-dynamic-cache": "MISS",
+    "content-language": "en-uk",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "vary": "Cookie,Accept-Encoding",
+    "x-robots-tag": "index",
+    "content-security-policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-drupal-cache": "MISS",
+    "last-modified": "Sat, 03 Oct 2026 06:16:09 GMT",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "x-request-id": "v-ed0f2c7e-bef1-11f1-920f-472f41520995",
+    "x-ah-environment": "prod",
+    "Age": "119384",
+    "via": "varnish",
+    "x-cache": "HIT",
+    "x-cache-hits": "33",
+    "Strict-Transport-Security": "max-age=31536000",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a45533b27a0d8be0-NRT"
+  },
+  "finished_at_utc": "2026-10-04T15:26:00.829160+00:00",
+  "body_path": "raw/20261004T152553466195Z/ipsos_aug2026.body",
+  "bytes": 53085,
+  "sha256": "679d948e59fb3fbef7f737a0c08cfaf462d94b6ca1f874dfaeda62f5fe3089c8"
+}

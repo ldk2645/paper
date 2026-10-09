@@ -1,0 +1,20 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "scripts/run_precision_pilot.py",
+    "--config",
+    "configs/precision_pilot_20260930.json",
+    "--output",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_expansion",
+    "--wave",
+    "expansion",
+    "--workers",
+    "3"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "elapsed_seconds": 408.4530000000086,
+  "log_sha256": "d927a50a4446e19eaa4abd9e4ee07e2ed909db5e15a1fb802f328f84fc5d830a",
+  "name": "expansion",
+  "returncode": 0
+}

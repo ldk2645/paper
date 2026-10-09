@@ -1,0 +1,113 @@
+{
+  "status": "feasibility_incomplete",
+  "source_bytes_validated": true,
+  "survey_development_rows": 24,
+  "paired_rows": 0,
+  "distance_metrics_computed": false,
+  "full_panel_protocol_frozen": false,
+  "history_first_month": "2018-01",
+  "history_last_month": "2023-10",
+  "history_month_rows": 67,
+  "history_missing_months_within_span": [
+    "2020-03",
+    "2020-05",
+    "2020-08"
+  ],
+  "history_malformed_rows": [],
+  "issues": [
+    "economy",
+    "health",
+    "immigration",
+    "crime"
+  ],
+  "blockers": [
+    "Trends first comparison request HTTP 429; bridge and repeated downloads not executed",
+    "Survey Great Britain vs planned Trends GB=United Kingdom: geographic mismatch unresolved",
+    "Broad survey categories vs English search terms: semantic mapping not frozen",
+    "No validated common scale or survey joint-response microdata/noise null",
+    "Historical HTML table does not cover the full requested 2018-to-current interval"
+  ],
+  "scope": "Only the six-month four-issue development slice is extracted; history dates audited without full-panel outcome analysis",
+  "script_sha256": "7a927f04df68929cda1f1ac4a9b25505163e28d16a05ef293e373640b6df9b68",
+  "protocol_sha256": "93112dcf793a4373730b6666d8edcc2a0ef4e54c88280a463a1fdc134c54b7cd",
+  "sources": {
+    "ipsos_history": {
+      "final_url": "https://www.ipsos.com/en-uk/issues-index-2018-onwards",
+      "body_path": "raw/20261004T152553466195Z/ipsos_history.body",
+      "sha256": "8ebf748c0595e4791af6fbc6ce79dd21a24d08c593c4580c9d7fee81dd50b4ca",
+      "finished_at_utc": "2026-10-04T15:25:55.160246+00:00"
+    },
+    "ipsos_archive": {
+      "final_url": "https://www.ipsos.com/en-uk/issues-index-archive",
+      "body_path": "raw/20261004T152553466195Z/ipsos_archive.body",
+      "sha256": "569610ea1c69c75230e085c31b223d69a3d0119b5d6ac63e1e522d917a4dd996",
+      "finished_at_utc": "2026-10-04T15:25:56.769283+00:00"
+    },
+    "ipsos_jan2018": {
+      "final_url": "https://www.ipsos.com/en-uk/issues-index-january-2018-public-concern-about-nhs-rises",
+      "body_path": "raw/20261004T152553466195Z/ipsos_jan2018.body",
+      "sha256": "f396b8f50ae0c850dff7a5d8c5de553089e6b5491cb4aa454964d23f1549f48f",
+      "finished_at_utc": "2026-10-04T15:25:59.296793+00:00"
+    },
+    "ipsos_aug2026": {
+      "final_url": "https://www.ipsos.com/en-uk/immigration-remains-britains-biggest-issue-concern-about-climate-change-and-environment-rises",
+      "body_path": "raw/20261004T152553466195Z/ipsos_aug2026.body",
+      "sha256": "679d948e59fb3fbef7f737a0c08cfaf462d94b6ca1f874dfaeda62f5fe3089c8",
+      "finished_at_utc": "2026-10-04T15:26:00.829160+00:00"
+    },
+    "google_data_help": {
+      "final_url": "https://support.google.com/trends/answer/4365533?hl=en",
+      "body_path": "raw/20261004T152553466195Z/google_data_help.body",
+      "sha256": "38809e9a488dae1198a99f1234d346e856b769afef22d202cc8c3ccdd7880eba",
+      "finished_at_utc": "2026-10-04T15:26:02.730974+00:00"
+    },
+    "google_compare_help": {
+      "final_url": "https://support.google.com/trends/answer/4359550?hl=en-GB",
+      "body_path": "raw/20261004T152553466195Z/google_compare_help.body",
+      "sha256": "df12c62072daae413628548feaaa7ffc49a12a6302e7c6f6da4b7a12ac5271ea",
+      "finished_at_utc": "2026-10-04T15:26:04.393771+00:00"
+    },
+    "ipsos_feb2018": {
+      "final_url": "https://www.ipsos.com/en-uk/issues-index-february-2018-nhs-and-brexit-continue-dominate-public-concern",
+      "body_path": "raw/20261007T144019733644Z/ipsos_feb2018.body",
+      "sha256": "f2c9d73914a6f40b7348e03e24457c6c6d9872aff06c4d042dc822d81c319234",
+      "finished_at_utc": "2026-10-07T14:40:22.310895+00:00"
+    },
+    "ipsos_mar2018": {
+      "final_url": "https://www.ipsos.com/en-uk/brexit-and-nhs-top-britons-concerns-worry-about-housing-rising",
+      "body_path": "raw/20261007T144019733644Z/ipsos_mar2018.body",
+      "sha256": "cae410d2bb506e0858a29c81ffda1320669f9c4529982627b17b6df1c3ff0476",
+      "finished_at_utc": "2026-10-07T14:40:24.656793+00:00"
+    },
+    "ipsos_apr2018": {
+      "final_url": "https://www.ipsos.com/en-uk/issues-index-concern-about-crime-reaches-seven-year-high",
+      "body_path": "raw/20261007T144019733644Z/ipsos_apr2018.body",
+      "sha256": "d6c235e09178eaf980bf7e0949e8ce312a04fb9a757f420d816431667cce8722",
+      "finished_at_utc": "2026-10-07T14:40:26.593471+00:00"
+    },
+    "ipsos_may2018": {
+      "final_url": "https://www.ipsos.com/en-uk/ipsos-issues-index-may-2018-nhs-and-brexit-are-still-seen-publics-top-issues",
+      "body_path": "raw/20261007T144019733644Z/ipsos_may2018.body",
+      "sha256": "39c7d33c08432a70382f80776afd2aefb6f392cbfc548e688fe4a2cf3f88806e",
+      "finished_at_utc": "2026-10-07T14:40:34.376270+00:00"
+    },
+    "ipsos_jun2018": {
+      "final_url": "https://www.ipsos.com/en-uk/ipsos-issues-index-june-2018-publics-two-main-concerns-remain-brexit-and-nhs",
+      "body_path": "raw/20261007T144019733644Z/ipsos_jun2018.body",
+      "sha256": "1daacde5a3cd333697e8c951b110f9c65f10b56fd76fbc3f95b833fd3bb993d6",
+      "finished_at_utc": "2026-10-07T14:40:37.568652+00:00"
+    },
+    "ipsos_apr2020": {
+      "final_url": "https://www.ipsos.com/en-uk/ipsos-issues-index-april-2020",
+      "body_path": "raw/20261007T144019733644Z/ipsos_apr2020.body",
+      "sha256": "dc87781e14d007bce394fceeff5444595643f9447f326521149047a6722576ae",
+      "finished_at_utc": "2026-10-07T14:40:39.361766+00:00"
+    },
+    "google_api_alpha": {
+      "final_url": "https://developers.google.com/search/apis/trends",
+      "body_path": "raw/20261007T144019733644Z/google_api_alpha.body",
+      "sha256": "828202caf8aaef86c1f42d68904e5c230557a9edb47ddeffc8f8e07967fe2471",
+      "finished_at_utc": "2026-10-07T14:40:40.635928+00:00"
+    }
+  }
+}

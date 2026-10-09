@@ -1,22 +1,34 @@
 # 反向黑箱：算法注意力与政府回应
 
-## 当前主线：0.5.1-dev，正式 E2–E4 已验收
+## 最新阶段：结构稳健性与No Drift已验收（2026-10-09）
 
-最新阶段成果位于 **[10_abm_jasss](10_abm_jasss/publication/README.md)**。2026-10-04 完成1184个区组、21312个物理终点、1000个独立seed；102项主分析、532行辅助结果及6幅森林图已通过验收。完整源码、三版冻结登记、正式表图、修复历史与中英文方法/结果稿均在该目录。
+最新成果位于 **[11_postformal_20261009](11_postformal_20261009/README.md)**。补充研究于2026-10-09 11:31完成运行、只读验收、统计和报告：15个设定、两层α、200个独立新seed，共6000区组、49,200个物理终点，0操作失败。已发布1362项主结果、3556行辅助描述和48幅森林图（PDF/PNG），以及完整源码、冻结登记、验收记录与统计重算入口。
 
-- [发布范围、复现入口和剩余工作](10_abm_jasss/publication/README.md)
-- [正式执行验收](10_abm_jasss/formal_execution_acceptance_20261004.md)
-- [论文形成过程报告总目录](paper_reports_20261004/README.md)：七阶段必要报告、正式表图、来源与SHA256清单。
-- [完整中文结果报告](10_abm_jasss/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md)
-- [英文 Methods](10_abm_jasss/manuscript_work_20261004/methods_en.md) / [英文 Results](10_abm_jasss/manuscript_work_20261004/results_en.md)
+- [补充研究结果及图表](11_postformal_20261009/postformal/robustness/execution_20261008/report/report.md)
+- [最终验收](11_postformal_20261009/postformal/robustness/execution_20261008/acceptance.json)
+- [发布范围、统计重算和复现命令](11_postformal_20261009/publication/README.md)
+- [当前接续记录](11_postformal_20261009/postformal/postformal_handoff.md)
+- [英国经验可行性](11_postformal_20261009/postformal/empirical_anchor/processed/feasibility_20261008/report_zh.md)：24个调查开发值，尚无Trends配对数据。
 
-本次Git发布包含精选复现材料，**不包含完整原始轨迹和快照**，数据范围详见发布说明。E5/E6、结构稳健性、经验材料及完整论文仍待完成。以下旧版本继续保留供溯源，其旧指标、阈值、测试数量和研究结论不能替代当前0.5.1阶段证据。
+设定内714项和效应变化648项分别构成两个Holm族。54项效应变化因样本方差退化而不提供区间/p值，另2项半宽略超0.05，均原样保留；不能把验收通过解释为所有结论稳健。补充研究是在看过原正式结果后设计的，不与旧研究拼接样本。
+
+本次Git发布为精选复现材料，**不含约50GB完整生产原始轨迹与快照**。保留了逐母统计记录和配对值，可复算统计，但不能仅凭此包重做完整raw验收。全面结果解读、论文整合、英国经验配对及全量数据公开归档仍待完成；E5/E6继续暂缓。
+
+## 前一阶段：正式E2–E4（2026-10-04）
+
+[10_abm_jasss](10_abm_jasss/publication/README.md)保留1184区组、21312物理终点、1000个独立seed的原正式研究及102项主分析、532行辅助结果和6幅森林图。其冻结代码、原报告和发布清单保持原样；旧交接中“稳健性待做”等文字反映10月4日状态，最新进展以上述11目录为准。
+
+- [原正式中文报告](10_abm_jasss/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md)
+- [英文Methods](10_abm_jasss/manuscript_work_20261004/methods_en.md) / [英文Results](10_abm_jasss/manuscript_work_20261004/results_en.md)
+- [论文形成过程历史报告](paper_reports_20261004/README.md)
+
+以下旧版本继续保留供溯源，不替代当前0.5.1阶段的研究证据。
 
 ---
 
-# 政府—平台—公众智能体模型：正式复现与补充材料包
+# 历史版本1–4：政府—平台—公众智能体模型
 
-本仓库整理了当前论文版本所需的冻结模型、正式五条件消融、公开数据一致性检验、S1 外部验证、S2 正式敏感性分析、投稿图件及完整审计记录。目录按“模型—代码—数据—图—文档—复现”排列，避免把历史探索结果与正式结果混在一起。英国议会电子请愿案例约束版位于独立的 `07_version2_uk_petition/`，不会覆盖下述冻结版本。
+以下保留历史版本1–4的冻结模型、正式五条件消融、公开数据一致性检验、S1 外部验证、S2 正式敏感性分析、图件及审计记录。目录按“模型—代码—数据—图—文档—复现”排列。英国议会电子请愿案例约束版位于独立的 `07_version2_uk_petition/`。本节的“正式”与“核心”均指对应历史版本；当前研究入口见上方10和11目录。
 
 ## 版本选择
 

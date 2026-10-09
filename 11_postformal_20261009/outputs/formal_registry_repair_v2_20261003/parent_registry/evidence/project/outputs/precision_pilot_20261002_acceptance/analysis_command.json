@@ -1,0 +1,20 @@
+{
+  "command": [
+    "C:\\Users\\17003\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-B",
+    "scripts/analyze_precision_pilot.py",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_initial",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_expansion",
+    "--output",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_planning",
+    "--validation-initial",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_acceptance\\validate_initial.json",
+    "--validation-expansion",
+    "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS\\outputs\\precision_pilot_20261002_acceptance\\validate_expansion.json"
+  ],
+  "cwd": "D:\\UserData\\Desktop\\ZLS\\ABM_JASSS",
+  "elapsed_seconds": 4.125,
+  "log_sha256": "c2ea6d2a5c15a237103231f6a19383f63b54a1fd0530baecae938232faec867e",
+  "name": "analysis",
+  "returncode": 0
+}

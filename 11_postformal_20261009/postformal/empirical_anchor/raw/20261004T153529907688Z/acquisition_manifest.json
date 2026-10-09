@@ -1,0 +1,72 @@
+{
+  "schema": "public-acquisition-v1",
+  "run_id": "20261004T153529907688Z",
+  "group": "trends",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "records": [
+    {
+      "id": "trends_all4",
+      "requested_url": "https://trends.google.com/trends/api/explore?hl=en-GB&tz=0&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22economy%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22NHS%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22immigration%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22crime%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "started_at_utc": "2026-10-04T15:35:29.908372+00:00",
+      "request_headers": {
+        "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+      },
+      "status": "http_error",
+      "http_status": 429,
+      "final_url": "https://trends.google.com/trends/api/explore?hl=en-GB&tz=0&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22economy%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22NHS%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22immigration%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%2C%7B%22keyword%22%3A%22crime%22%2C%22geo%22%3A%22GB%22%2C%22time%22%3A%222018-01-01+2018-06-30%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+        "Date": "Sun, 04 Oct 2026 15:35:25 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+        "Content-Security-Policy": "script-src 'report-sample' 'nonce-4DvZBN-pzY4ZxBhsL9TIUA' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /trends/cspreport",
+        "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-XSS-Protection": "1; mode=block",
+        "Server": "GSE",
+        "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "Accept-Ranges": "none",
+        "Vary": "Accept-Encoding",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked"
+      },
+      "error": "HTTP Error 429: unknown",
+      "finished_at_utc": "2026-10-04T15:35:30.785026+00:00",
+      "body_path": "raw/20261004T153529907688Z/trends_all4.body",
+      "bytes": 1704,
+      "sha256": "28786ce0a9a3c0ebf3e0b49e286f8cabd133532e3e84465f4f389fdd48af4222",
+      "query": {
+        "comparisonItem": [
+          {
+            "keyword": "economy",
+            "geo": "GB",
+            "time": "2018-01-01 2018-06-30"
+          },
+          {
+            "keyword": "NHS",
+            "geo": "GB",
+            "time": "2018-01-01 2018-06-30"
+          },
+          {
+            "keyword": "immigration",
+            "geo": "GB",
+            "time": "2018-01-01 2018-06-30"
+          },
+          {
+            "keyword": "crime",
+            "geo": "GB",
+            "time": "2018-01-01 2018-06-30"
+          }
+        ],
+        "category": 0,
+        "property": ""
+      }
+    }
+  ],
+  "script_sha256": "3408bb5236d2722ac727e09df16ae234515b1c033d8befb19caabc9d057641b0",
+  "development_queries_sha256": "93112dcf793a4373730b6666d8edcc2a0ef4e54c88280a463a1fdc134c54b7cd"
+}

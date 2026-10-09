@@ -1,0 +1,161 @@
+{
+  "schema": "publication-header-redactions-1",
+  "local_originals_unchanged": true,
+  "public_bodies_byte_identical": true,
+  "records": [
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/acquisition_manifest.json",
+      "source_sha256": "41b0ed0475c5e893b35599ca9ea784e1e66aa10ca956ca93cc9df1c4b07cdbf1",
+      "published_sha256": "7873f9238ea2054dd3e8b0fa5325b87fc1a536addf5553eaa34a6220326f7b98",
+      "removed_header_paths": [
+        "/records/0/headers/set-cookie",
+        "/records/1/headers/set-cookie",
+        "/records/2/headers/set-cookie",
+        "/records/3/headers/set-cookie",
+        "/records/4/headers/Set-Cookie",
+        "/records/5/headers/Set-Cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/google_compare_help.json",
+      "source_sha256": "0f93906dffa064cb5d29fc0817a689dd0a58fa9f43fd30d9834415d7f3e3a48f",
+      "published_sha256": "78bb995b46a865789ffe3162350b97a1f34291e6fc0da2aa919a44c0b3d72448",
+      "removed_header_paths": [
+        "/headers/Set-Cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/google_data_help.json",
+      "source_sha256": "0010fb73dd0a47b2e5e8a3c2c1014e33f52f0186d95e4d69ffe72f25382de804",
+      "published_sha256": "d4dca6ca38cfecc37b43cc0a40692182fc17d5a417ea67899c4d7ddd46c92173",
+      "removed_header_paths": [
+        "/headers/Set-Cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/ipsos_archive.json",
+      "source_sha256": "109a4d53ecd9187b0eaca7c52c710bd7948f45aa6f69b2b1586880025b9b12d5",
+      "published_sha256": "558c999d1d650522004db0e5138cf71024df19202832df6b0ec0168c1b3628c3",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/ipsos_aug2026.json",
+      "source_sha256": "34b6313f7addf5dc373b0e0c3e28d7881138010f5e81ab2fb211d6906b07a467",
+      "published_sha256": "d6a6989c6d8d8789e9255485a7f4056d550e3c7196fec05c6c6d71f5bea98a7c",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/ipsos_history.json",
+      "source_sha256": "03f249049bdab2d5915af745424a9c968f1ec11cc6dbd186accc85ee234c7244",
+      "published_sha256": "d524b8c273137ac00ef4d2a8700f19ef270ab7abab14139af0f42c1f0f963177",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T152553466195Z/ipsos_jan2018.json",
+      "source_sha256": "d32dc4ab5b9f6820865facb006d44c7a8f19c687d8bc33d5989179efac721744",
+      "published_sha256": "21285c1352cedebd8b186d561bc7c326b84cbd0e40f8951e41aae1fcb36bc964",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T153529907688Z/acquisition_manifest.json",
+      "source_sha256": "a2a9aa9a8d29da1825dd4c95dac49022cc8a149b1c4602ecd9c7ee539568cdf4",
+      "published_sha256": "ab22d1cf3a444915f51b5d464ef7a995b8ff4a9dd3f469db0df4a5363969e836",
+      "removed_header_paths": [
+        "/records/0/headers/Set-Cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261004T153529907688Z/trends_all4.json",
+      "source_sha256": "8df8f99753737516af36d544b428a6081bc22404d83c4e001de2cbfeda77e92c",
+      "published_sha256": "6863bffcb1d3bcfb133c413567585c72e68b918832a03387164e08bd7fb296aa",
+      "removed_header_paths": [
+        "/headers/Set-Cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/acquisition_manifest.json",
+      "source_sha256": "36406d109caf6ea695df1c5b9cf34b137a05ffba0d8d9f27041591a11565dbc6",
+      "published_sha256": "604c33dc643e30af2083e5d22bebcbb5ed73aca8e784f7b7b70734ae7c5fa2b3",
+      "removed_header_paths": [
+        "/records/0/headers/set-cookie",
+        "/records/1/headers/set-cookie",
+        "/records/2/headers/set-cookie",
+        "/records/3/headers/set-cookie",
+        "/records/4/headers/set-cookie",
+        "/records/5/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_apr2018.json",
+      "source_sha256": "2af906d5f6b0a0d8918f246ccd600b32728abe81aed2c6960d5416e6902c64be",
+      "published_sha256": "e1fe3cb7feae1238a669aca07d346461dbe2f8b112ac5c79f2b89ba321b57342",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_apr2020.json",
+      "source_sha256": "8da7c27d320148004d91039f6702607e16674ec8cf44cf3a26d68e061aaf92a2",
+      "published_sha256": "f220271bec54e36c8968d632a87819b0034ac5d38b783039b4ec9a61008a1ee5",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_feb2018.json",
+      "source_sha256": "5ed0398e7347d786e457a1c3cd95329e790e3bdf88abd029a3e6b7bf6c76c67f",
+      "published_sha256": "fc56222121d4339e16fd2819ca2ac8d8115626015195be3da4419c0ee0687992",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_jun2018.json",
+      "source_sha256": "1c460ce9d7e6ab4c43c2bd56f1ab4f4b7b0bdd9d245a27024ea0bc8065938f26",
+      "published_sha256": "78a67d1e31632d9323e97e68681fe3e1c4497fee5e66e3166bdd75cfcbbc6d90",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_mar2018.json",
+      "source_sha256": "764be6ec17a8526bfbdee233b1a6f3008fd13eb235a2747b96b007895b6d8530",
+      "published_sha256": "0616e0f2e1b9a70c6c5d76a13c5d3327c2db9b17ef792dcfa16435e6f4a22020",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    },
+    {
+      "path": "postformal/empirical_anchor/raw/20261007T144019733644Z/ipsos_may2018.json",
+      "source_sha256": "8fde27da8b1f0698ede8d822ad94c72aa4b156f534c58fe4f7f8dda355c41691",
+      "published_sha256": "3f477e0516faf4f0c9dbe87007d192b3900b93d8323da3e0b2ca8cb05ff673ad",
+      "removed_header_paths": [
+        "/headers/set-cookie"
+      ],
+      "body_changed": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "google_api_alpha",
+  "requested_url": "https://developers.google.com/search/apis/trends",
+  "started_at_utc": "2026-10-07T14:40:39.362362+00:00",
+  "request_headers": {
+    "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+  },
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://developers.google.com/search/apis/trends",
+  "headers": {
+    "last-modified": "Tue, 02 Jun 2026 08:54:06 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "vary": "Cookie",
+    "content-security-policy": "base-uri 'self'; object-src 'none'; script-src 'strict-dynamic' 'unsafe-inline' https: http: 'nonce-Lmr6E6xcECVMt3wpEneMcQQmHbWBMI' 'unsafe-eval'; frame-ancestors 'self' https://codeassist.google.com https://code-assist-free-tier.corp.google.com; report-uri https://csp.withgoogle.com/csp/devsite/v2",
+    "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+    "x-xss-protection": "0",
+    "x-content-type-options": "nosniff",
+    "cache-control": "no-cache, must-revalidate",
+    "expires": "0",
+    "pragma": "no-cache",
+    "x-cloud-trace-context": "4d27a42e0606cb89e9379a994b1ad32a",
+    "date": "Wed, 07 Oct 2026 14:40:28 GMT",
+    "server": "Google Frontend",
+    "Content-Length": "128599",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Connection": "close"
+  },
+  "finished_at_utc": "2026-10-07T14:40:40.635928+00:00",
+  "body_path": "raw/20261007T144019733644Z/google_api_alpha.body",
+  "bytes": 128599,
+  "sha256": "828202caf8aaef86c1f42d68904e5c230557a9edb47ddeffc8f8e07967fe2471"
+}

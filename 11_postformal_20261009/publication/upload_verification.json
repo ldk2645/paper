@@ -1,0 +1,29 @@
+{
+  "schema": "postformal-publication-preflight-1",
+  "status": "passed",
+  "created_at": "2026-10-09T09:12:19.756421+00:00",
+  "source_files_checked": 897,
+  "byte_identical_files": 881,
+  "sanitized_header_metadata_files": 16,
+  "public_response_bodies_byte_identical": 21,
+  "source_originals_unchanged_since_selection": true,
+  "remaining_forbidden_header_fields": 0,
+  "raw_metadata_files_checked": 25,
+  "credential_pattern_scan_files": 771,
+  "credential_pattern_matches": 0,
+  "credential_scan_scope": "Private key and common provider token patterns; not a general guarantee about arbitrary sensitive text.",
+  "files_at_or_above_100_MiB": 0,
+  "cache_or_bytecode_files": 0,
+  "relocated_tests": {
+    "status": "passed",
+    "returncode": 0,
+    "tests_run": 307,
+    "seconds": 387.5208793999918,
+    "test_log_sha256": "db732c811fdc3145c6c5dacb5f3bbc6741db5deb5efc92f39b5ee445ea010d67",
+    "scope": "Relocated publication package tests; development fixtures only; no production study rerun"
+  },
+  "full_raw_data_included": false,
+  "source_selection_sha256": "0a7aecbb555d24239390be507ae1ba1584f7adf359a59781d8a1058f8da7a065",
+  "redaction_manifest_sha256": "e9ddf6cd74280348572dc8d394f186a7ab3a6519f52d5aa390318c32a9aeb9d6",
+  "statistical_verification": "Run publication/verify_release.py after sealing this manifest; output stored outside the immutable package."
+}

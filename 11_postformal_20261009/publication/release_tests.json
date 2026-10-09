@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "returncode": 0,
+  "tests_run": 307,
+  "seconds": 387.5208793999918,
+  "test_log_sha256": "db732c811fdc3145c6c5dacb5f3bbc6741db5deb5efc92f39b5ee445ea010d67",
+  "scope": "Relocated publication package tests; development fixtures only; no production study rerun"
+}

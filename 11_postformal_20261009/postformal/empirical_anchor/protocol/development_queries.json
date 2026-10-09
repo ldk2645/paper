@@ -1,0 +1,33 @@
+{
+  "version": "empirical-feasibility-0.1",
+  "status": "development_only_not_full_analysis_frozen",
+  "created_date": "2026-10-04",
+  "selection_rule": "First six calendar months of candidate window, 2018-01-01 through 2018-06-30; four semantically plausible candidate issues chosen before any Trends values were obtained.",
+  "topics": [
+    {"id": "economy", "ipsos_code": "Eco", "google_query": "economy", "query_type": "search_term", "semantic_limit": "General economic problems is broader than the English term economy."},
+    {"id": "health", "ipsos_code": "NHS", "google_query": "NHS", "query_type": "search_term", "semantic_limit": "NHS/hospitals/healthcare includes services beyond literal NHS searches; practical service lookup may dominate search."},
+    {"id": "immigration", "ipsos_code": "Imm", "google_query": "immigration", "query_type": "search_term", "semantic_limit": "Survey category includes immigration/immigrants; asylum or service searches require separate mapping review."},
+    {"id": "crime", "ipsos_code": "Cri", "google_query": "crime", "query_type": "search_term", "semantic_limit": "Crime/law and order is broader than crime; entertainment searches can contaminate the term."}
+  ],
+  "google": {
+    "interface": "Classic Explore public web interface; browser JSON endpoint is undocumented and is not an approved research API",
+    "geo": "GB",
+    "geo_label": "United Kingdom",
+    "survey_geography": "Great Britain",
+    "geographic_match": false,
+    "category": 0,
+    "property": "",
+    "hl": "en-GB",
+    "tz": 0,
+    "date": "2018-01-01 2018-06-30",
+    "batches": [
+      {"id": "all4", "keywords": ["economy", "NHS", "immigration", "crime"]},
+      {"id": "bridge_a", "keywords": ["economy", "NHS", "immigration"]},
+      {"id": "bridge_b", "keywords": ["economy", "crime"]}
+    ],
+    "anchor": "economy",
+    "planned_repeated_downloads": 3,
+    "stop_rule": "Stop on 403/429/CAPTCHA or authentication requirement; no proxy, login, credential, or CAPTCHA bypass. No retry loop.",
+    "full_panel": "Not requested before taxonomy, geography, timing, scaling and noise protocol review."
+  }
+}

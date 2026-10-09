@@ -1,0 +1,42 @@
+{
+  "id": "ipsos_apr2018",
+  "requested_url": "https://www.ipsos.com/en-uk/issues-index-concern-about-crime-reaches-seven-year-high",
+  "started_at_utc": "2026-10-07T14:40:24.656793+00:00",
+  "request_headers": {
+    "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+  },
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://www.ipsos.com/en-uk/issues-index-concern-about-crime-reaches-seven-year-high",
+  "headers": {
+    "Date": "Wed, 07 Oct 2026 14:40:14 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "Cache-Control": "max-age=2764800, public",
+    "x-drupal-dynamic-cache": "MISS",
+    "content-language": "en-uk",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "vary": "Cookie,Accept-Encoding",
+    "x-robots-tag": "index",
+    "content-security-policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-drupal-cache": "MISS",
+    "last-modified": "Wed, 07 Oct 2026 14:40:13 GMT",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "x-request-id": "v-012956a8-c25d-11f1-b59e-3b1bf3704dcc",
+    "x-ah-environment": "prod",
+    "Age": "0",
+    "via": "varnish",
+    "x-cache": "MISS",
+    "Strict-Transport-Security": "max-age=31536000",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a46da8e1e8ed2614-NRT"
+  },
+  "finished_at_utc": "2026-10-07T14:40:26.593471+00:00",
+  "body_path": "raw/20261007T144019733644Z/ipsos_apr2018.body",
+  "bytes": 50591,
+  "sha256": "d6c235e09178eaf980bf7e0949e8ce312a04fb9a757f420d816431667cce8722"
+}

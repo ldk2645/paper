@@ -1,0 +1,6 @@
+{
+  "pid": 29988,
+  "mode": "hidden_windows_process",
+  "launcher": "launch_20261008.py",
+  "prior_start_process_attempts": "failed_before_launch_due_to_duplicate_Path_PATH_environment_keys"
+}

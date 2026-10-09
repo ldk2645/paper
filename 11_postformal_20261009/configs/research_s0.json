@@ -1,0 +1,27 @@
+{
+  "stage": "S0",
+  "formal_ready": false,
+  "model": {
+    "n_agents": 24,
+    "steps": 60,
+    "final_window": 20,
+    "survey_size": 8,
+    "inference_grid": 4,
+    "reference_agents": 4,
+    "completion_start": 10,
+    "completion_end": 39,
+    "completion_followup": 20,
+    "government_delay": 3,
+    "response_capacity": 1
+  },
+  "alphas": [0.25, 0.75],
+  "seeds": [51001, 51002, 51003],
+  "fork_tick": 30,
+  "branches": {
+    "B0": {},
+    "B1": {"pref_info": true},
+    "B2": {"government_delay": 1},
+    "B3": {"response_capacity": 2},
+    "B4": {"alpha": 0.0}
+  }
+}

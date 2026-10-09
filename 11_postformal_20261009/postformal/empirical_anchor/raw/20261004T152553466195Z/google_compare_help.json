@@ -1,0 +1,33 @@
+{
+  "id": "google_compare_help",
+  "requested_url": "https://support.google.com/trends/answer/4359550?hl=en-GB",
+  "started_at_utc": "2026-10-04T15:26:02.732974+00:00",
+  "request_headers": {
+    "User-Agent": "ABM-JASSS-empirical-feasibility/0.1 (public-source-research)"
+  },
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://support.google.com/trends/answer/4359550?hl=en-GB",
+  "headers": {
+    "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+    "Strict-Transport-Security": "max-age=31536000; includeSubdomains",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sun, 04 Oct 2026 15:25:59 GMT",
+    "Expires": "Sun, 04 Oct 2026 15:25:59 GMT",
+    "Cache-Control": "private, max-age=0",
+    "Content-Security-Policy-Report-Only": "object-src 'none';base-uri 'self';script-src 'nonce-sNoB5W796nyuhXoqsDND' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe",
+    "X-Content-Type-Options": "nosniff",
+    "Server": "support-content-ui",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Accept-Encoding",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "finished_at_utc": "2026-10-04T15:26:04.393771+00:00",
+  "body_path": "raw/20261004T152553466195Z/google_compare_help.body",
+  "bytes": 1528068,
+  "sha256": "df12c62072daae413628548feaaa7ffc49a12a6302e7c6f6da4b7a12ac5271ea"
+}
